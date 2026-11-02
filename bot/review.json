@@ -1,19 +1,28 @@
 {
  "pending": [],
- "approved": {
-  "world-bank-initiative-trains-388-state": [
-   "telegram"
-  ],
-  "42-delta-trade-unions-back-tinubu": [
-   "telegram"
-  ],
-  "taraba-poly-denies-online-report-proposed": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram"
  ],
- "shared": [],
- "updated": "2026-11-02T17:41:28.400405+01:00"
+ "shared": [
+  {
+   "id": "world-bank-initiative-trains-388-state",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "42-delta-trade-unions-back-tinubu",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "taraba-poly-denies-online-report-proposed",
+   "targets": [
+    "telegram"
+   ]
+  }
+ ],
+ "updated": "2026-11-02T16:41:46.857400+00:00"
 }
