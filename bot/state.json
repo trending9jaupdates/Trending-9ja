@@ -407,7 +407,19 @@
   "https://punchng.com/2027-abure-rejects-obi-considers-tinubu-atiku/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
   "https://punchng.com/nigeria-glorifies-ill-gotten-wealth-discourages-creativity-cleric/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
   "https://punchng.com/2027-punch-media-foundation-webinar-to-tackle-ai-misinformation/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
-  "https://www.vanguardngr.com/2026/11/why-food-security-remains-intractable/": "2026-11-02"
+  "https://www.vanguardngr.com/2026/11/why-food-security-remains-intractable/": "2026-11-02",
+  "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss": "2026-11-02",
+  "https://punchng.com/2027-natasha-begins-re-election-campaign-in-kogi/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://www.vanguardngr.com/2026/11/highly-capitalised-stocks-push-gain-to-n2-trn-in-october/": "2026-11-02",
+  "https://www.vanguardngr.com/2026/11/highly-capitalised-stocks-push-gain-to-n2trn-in-october/": "2026-11-02",
+  "https://punchng.com/messi-hits-937-career-goals-in-inter-miami-2-1-win/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/nine-dead-in-small-plane-crash-near-trumps-florida-home/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://www.channelstv.com/2026/11/02/nine-dead-in-small-plane-crash-near-trumps-florida-home/": "2026-11-02",
+  "https://punchng.com/my-commitment-to-nigeria-stronger-than-ever-tinubu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/morning-recap-fg-targets-inflated-contracts-inec-flags-ai-photos-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/inec-flags-268-records-over-ai-photos-irregularities/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://www.vanguardngr.com/2026/11/solar-installation-in-lagos-see-costs-and-benefits/": "2026-11-02",
+  "https://www.premiumtimesng.com/opinion/922007-the-draft-nigeria-economic-policy-framework-and-the-necessity-of-fiscal-discipline-by-uddin-ifeanyi.html": "2026-11-02"
  },
  "published": [
   {
@@ -963,6 +975,14 @@
    "category": "Politics",
    "ts": "2026-11-02T05:18:44.111423+01:00",
    "ng": true
+  },
+  {
+   "id": "natasha-akpotiuduaghan-launches-2027-kogi-central",
+   "date": "2026-11-02",
+   "title": "Natasha Akpoti-Uduaghan Launches 2027 Kogi Central Re-Election Campaign",
+   "category": "Politics",
+   "ts": "2026-11-02T08:47:16.479165+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1035,7 +1055,8 @@
   "https://dailypost.ng/2026/11/01/muric-kicks-against-hijab-ban-in-nigerian-law-schools/": 1,
   "https://www.channelstv.com/2026/11/01/ndlea-intercepts-two-europe-based-nigerians-with-cocaine-at-abuja-airport/": 1,
   "https://punchng.com/troops-hunt-plateau-gunmen-after-soldiers-killing/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://www.channelstv.com/2026/11/01/tinubus-2023-electricity-pledge-taken-out-of-context-says-apc-campaign-council/": 1
+  "https://www.channelstv.com/2026/11/01/tinubus-2023-electricity-pledge-taken-out-of-context-says-apc-campaign-council/": 1,
+  "https://dailypost.ng/2026/11/02/accident-claims-2-lives-in-aba-as-truck-motorcycle-lose-control/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
