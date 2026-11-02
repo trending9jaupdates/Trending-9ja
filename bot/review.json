@@ -1,10 +1,6 @@
 {
  "pending": [],
- "approved": {
-  "inec-promises-inclusive-2027-elections-persons": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram"
  ],
@@ -26,7 +22,13 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "inec-promises-inclusive-2027-elections-persons",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-02T20:30:01.055694+01:00"
+ "updated": "2026-11-02T19:30:08.894520+00:00"
 }

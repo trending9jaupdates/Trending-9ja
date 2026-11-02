@@ -19,5 +19,12 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-02T16:41:43.855351+00:00"
+ },
+ {
+  "id": "inec-promises-inclusive-2027-elections-persons",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-02T19:30:05.892997+00:00"
  }
 ]
