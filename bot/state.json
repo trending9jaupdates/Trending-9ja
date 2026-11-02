@@ -419,7 +419,19 @@
   "https://punchng.com/morning-recap-fg-targets-inflated-contracts-inec-flags-ai-photos-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
   "https://punchng.com/inec-flags-268-records-over-ai-photos-irregularities/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
   "https://www.vanguardngr.com/2026/11/solar-installation-in-lagos-see-costs-and-benefits/": "2026-11-02",
-  "https://www.premiumtimesng.com/opinion/922007-the-draft-nigeria-economic-policy-framework-and-the-necessity-of-fiscal-discipline-by-uddin-ifeanyi.html": "2026-11-02"
+  "https://www.premiumtimesng.com/opinion/922007-the-draft-nigeria-economic-policy-framework-and-the-necessity-of-fiscal-discipline-by-uddin-ifeanyi.html": "2026-11-02",
+  "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss": "2026-11-02",
+  "https://www.bbc.co.uk/sport/cricket/articles/cmed34zjq9d5o?at_medium=RSS&at_campaign=rss": "2026-11-02",
+  "https://punchng.com/tinubu-celebrates-sultans-20-years-on-throne/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/photos-green-white-green-barriers-surround-kabah-ahead-of-tinubus-visit/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/police-arrest-24-year-old-for-stealing-clerics-mobile-phone-in-anambra/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://www.vanguardngr.com/2026/11/african-players-in-europe-defender-hakimis-historic-hat-trick/": "2026-11-02",
+  "https://punchng.com/uk-steps-up-facial-recognition-e-bikes-patrol-to-tackle-london-knife-crime/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/man-arrested-over-attempt-to-smuggle-hemp-into-kano-prison/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://www.premiumtimesng.com/promoted/922063-pz-cussons-shareholders-approve-n9-926bn-dividend-payout.html": "2026-11-02",
+  "https://www.legit.ng/entertainment/celebrities/1739106-all-eyes-priscilla-ojo-turns-heads-outfit-laxs-star-studded-wedding-celebration/": "2026-11-02",
+  "https://www.bellanaija.com/2026/11/jimmy-odukoya-introduces-wife-mo-jasmine-daniel/": "2026-11-02",
+  "https://techcabal.com/2026/11/02/african-creators-go-global-on-day-one-their-money-doesnt/": "2026-11-02"
  },
  "published": [
   {
@@ -983,6 +995,30 @@
    "category": "Politics",
    "ts": "2026-11-02T08:47:16.479165+01:00",
    "ng": true
+  },
+  {
+   "id": "priscilla-ojo-stuns-custom-outfit-singer",
+   "date": "2026-11-02",
+   "title": "Priscilla Ojo Stuns in Custom Outfit at Singer L.A.X's Wedding Reception",
+   "category": "Entertainment",
+   "ts": "2026-11-02T11:26:20.456159+01:00",
+   "ng": true
+  },
+  {
+   "id": "jimmy-odukoya-introduces-wife-mo-jasmine",
+   "date": "2026-11-02",
+   "title": "Jimmy Odukoya Introduces Wife Mo Jasmine as Fountain of Life Church First Lady",
+   "category": "Entertainment",
+   "ts": "2026-11-02T11:26:46.193780+01:00",
+   "ng": true
+  },
+  {
+   "id": "moonshot-2024-founders-highlight-payment-infrastructure",
+   "date": "2026-11-02",
+   "title": "Moonshot 2024: Founders Highlight Payment Infrastructure Problems Facing African Creators",
+   "category": "Tech/AI",
+   "ts": "2026-11-02T11:27:10.468209+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1056,7 +1092,11 @@
   "https://www.channelstv.com/2026/11/01/ndlea-intercepts-two-europe-based-nigerians-with-cocaine-at-abuja-airport/": 1,
   "https://punchng.com/troops-hunt-plateau-gunmen-after-soldiers-killing/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.channelstv.com/2026/11/01/tinubus-2023-electricity-pledge-taken-out-of-context-says-apc-campaign-council/": 1,
-  "https://dailypost.ng/2026/11/02/accident-claims-2-lives-in-aba-as-truck-motorcycle-lose-control/": 1
+  "https://dailypost.ng/2026/11/02/accident-claims-2-lives-in-aba-as-truck-motorcycle-lose-control/": 1,
+  "https://punchng.com/ssanu-shuts-sokoto-varsity-over-unpaid-allowances-threatens-indefinite-strike/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://www.vanguardngr.com/2026/11/bauchi-lga-chairman-dies-in-auto-crash-after-apm-meeting/": 1,
+  "https://dailypost.ng/2026/11/02/yobe-moves-to-set-up-child-protection-commission-with-powers-to-investigate-prosecute-offenders/": 1,
+  "https://www.channelstv.com/2026/11/02/you-cannot-negotiate-for-tuc-osifo-replies-ajearo-as-n70000-controversy-drags-on/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
