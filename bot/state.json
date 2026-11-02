@@ -451,7 +451,17 @@
   "https://punchng.com/lagos-apc-assembly-candidate-pledges-welfare-support-for-pwds/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
   "https://punchng.com/ondo-kingdom-plans-medical-outreach-others-for-monarchs-20th-anniversary/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
   "https://punchng.com/i-prayed-for-wisdom-to-lead-nigeria-before-2023-election-tinubu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
-  "https://punchng.com/uganda-begins-troop-withdrawal-from-somalia/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02"
+  "https://punchng.com/uganda-begins-troop-withdrawal-from-somalia/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/world-bank-trains-388-officials-to-align-health-education-budgets/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/kano-assembly-extends-suspension-of-three-lg-chairmen/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/wike-faults-fct-senators-understanding-of-area-councils-challenges/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://www.vanguardngr.com/2026/11/carrick-shrugs-off-man-utd-sack-talk-ahead-of-roma-match/": "2026-11-02",
+  "https://punchng.com/2027-adc-south-west-denies-internal-crisis-backs-atiku/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/reps-move-to-review-nigerias-1957-trustee-investment-law/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://www.vanguardngr.com/2026/11/democrats-trump-hold-final-rallies-before-midterm-elections/": "2026-11-02",
+  "https://punchng.com/again-kwam-1-unites-nurtw-chiefs-mc-oluomo-sego/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://www.vanguardngr.com/2026/11/2027-42-trade-unions-in-delta-back-tinubu-oborevwori-dafinone/": "2026-11-02",
+  "https://dailypost.ng/2026/11/02/taraba-polytechnic-disowns-publication-on-proposed-relocation-to-suntai/": "2026-11-02"
  },
  "published": [
   {
@@ -1047,6 +1057,30 @@
    "category": "Entertainment",
    "ts": "2026-11-02T14:33:02.525139+01:00",
    "ng": true
+  },
+  {
+   "id": "world-bank-initiative-trains-388-state",
+   "date": "2026-11-02",
+   "title": "World Bank Initiative Trains 388 State Officials on Healthcare and Education Budgeting",
+   "category": "Business",
+   "ts": "2026-11-02T17:23:10.051087+01:00",
+   "ng": true
+  },
+  {
+   "id": "42-delta-trade-unions-back-tinubu",
+   "date": "2026-11-02",
+   "title": "42 Delta Trade Unions Back Tinubu, Oborevwori, Dafinone For 2027",
+   "category": "Politics",
+   "ts": "2026-11-02T17:24:22.020611+01:00",
+   "ng": true
+  },
+  {
+   "id": "taraba-poly-denies-online-report-proposed",
+   "date": "2026-11-02",
+   "title": "Taraba Poly Denies Online Report on Proposed Relocation to Suntai",
+   "category": "Politics",
+   "ts": "2026-11-02T17:25:33.178236+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1231,7 +1265,26 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-02",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "world-bank-initiative-trains-388-state",
+   "title": "World Bank Initiative Trains 388 State Officials on Healthcare and Education Budgeting",
+   "category": "Business",
+   "ts": "2026-11-02T17:23:10.051106+01:00"
+  },
+  {
+   "id": "42-delta-trade-unions-back-tinubu",
+   "title": "42 Delta Trade Unions Back Tinubu, Oborevwori, Dafinone For 2027",
+   "category": "Politics",
+   "ts": "2026-11-02T17:24:22.020630+01:00"
+  },
+  {
+   "id": "taraba-poly-denies-online-report-proposed",
+   "title": "Taraba Poly Denies Online Report on Proposed Relocation to Suntai",
+   "category": "Politics",
+   "ts": "2026-11-02T17:25:33.178254+01:00"
+  }
+ ],
  "targets_available": [
   "telegram"
  ],
