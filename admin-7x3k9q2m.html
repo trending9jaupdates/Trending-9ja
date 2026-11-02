@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta name="google-adsense-account" content="ca-pub-5090928492295048"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5090928492295048" crossorigin="anonymous"></script>
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow, noarchive">
@@ -17,6 +17,17 @@ header{display:flex;align-items:center;gap:.6rem;padding:.7rem 1rem;background:l
 header h1{font-size:1.05rem;margin:0;flex:1}
 header button{background:rgba(255,255,255,.18);color:#fff;border:0;border-radius:8px;padding:.45rem .7rem;font-size:.9rem}
 #screen-lock{display:none;padding:1.2rem;overflow:auto}
+#screen-review{display:none;flex:1;min-height:0;flex-direction:column;overflow-y:auto;padding:1rem}
+.rv{display:flex;gap:.8rem;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:.8rem;margin-bottom:.8rem}
+.rv img.th{width:92px;height:92px;object-fit:cover;border-radius:10px;flex:none;background:var(--line)}
+.rv .body{flex:1;min-width:0}
+.rv h3{margin:0 0 .25rem;font-size:1rem;line-height:1.3}
+.rv .meta{font-size:.8rem;color:var(--mute);margin-bottom:.5rem}
+.rv .btns{display:flex;gap:.4rem;flex-wrap:wrap}
+.rv .btns .btn,.rv .btns a.btn{padding:.5rem .7rem;font-size:.88rem;text-decoration:none;display:inline-block}
+.tg{display:flex;gap:.9rem;flex-wrap:wrap;margin:.2rem 0 .9rem}
+.tg label{display:flex;align-items:center;gap:.4rem;margin:0;color:var(--ink);font-size:.95rem}
+#btn-review b{background:#fff;color:var(--g);border-radius:10px;padding:0 .4rem;margin-left:.3rem;font-size:.8rem}
 #screen-chat{display:none;flex:1;min-height:0;flex-direction:column}
 .panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:1rem;margin-bottom:1rem}
 .panel h2{margin:.1rem 0 .6rem;font-size:1.05rem}
@@ -55,11 +66,17 @@ a{color:var(--g2)}
 <div id="app">
   <header>
     <h1>Trending9ja Studio</h1>
+    <button id="btn-review" style="display:none">Review</button>
     <button id="btn-settings" style="display:none">Settings</button>
     <button id="btn-lock" style="display:none">Lock</button>
   </header>
 
   <section id="screen-lock"></section>
+
+  <section id="screen-review">
+    <div id="review-top"></div>
+    <div id="review-list"></div>
+  </section>
 
   <section id="screen-chat">
     <div id="msgs"></div>
@@ -294,6 +311,26 @@ Reply with JSON only: {"title":"","summary":"","category":"","paragraphs":["",""
       body: paras.join('\n\n'), sources };
   }
 
+  /* ---------- review & sharing ---------- */
+  const TARGET_LABELS = { telegram: 'Telegram channel', facebook: 'Facebook Page', instagram: 'Instagram', newsletter: 'Newsletter' };
+  function parseReview(text) {
+    const d = JSON.parse(text);
+    return { pending: Array.isArray(d.pending) ? d.pending : [],
+      targets: (Array.isArray(d.targets) && d.targets.length ? d.targets : ['telegram']).filter(t => TARGET_LABELS[t]),
+      approved: d.approved || {}, shared: Array.isArray(d.shared) ? d.shared : [] };
+  }
+  function summariseShare(logText, ids, sinceIso) {
+    let log = [];
+    try { log = JSON.parse(logText); } catch (e) { /* no log yet */ }
+    const out = [];
+    ids.forEach(id => {
+      const rows = log.filter(l => l.id === id && l.at >= sinceIso);
+      if (!rows.length) return;
+      out.push(rows.map(r => `${TARGET_LABELS[r.target] || r.target} ${r.ok ? 'done' : 'problem (' + r.message + ')'}`).join('; '));
+    });
+    return out;
+  }
+
   /* ---------- actions ---------- */
   function checkAction(a, stories, nAttach) {
     if (!a || typeof a !== 'object') return { ok: false, error: 'No action.' };
@@ -318,6 +355,10 @@ Reply with JSON only: {"title":"","summary":"","category":"","paragraphs":["",""
         return { ok: true };
       case 'delete':
         return ids.has(a.id) ? { ok: true } : { ok: false, error: 'I could not match that story.' };
+      case 'share':
+        if (!Array.isArray(a.ids) || !a.ids.length || a.ids.some(x => typeof x !== 'string' || !x)) return { ok: false, error: 'No story chosen.' };
+        if (!Array.isArray(a.targets) || a.targets.some(t => !TARGET_LABELS[t])) return { ok: false, error: 'Unknown place to share.' };
+        return { ok: true };
       case 'run':
         return { ok: true };
       default:
@@ -343,6 +384,8 @@ Reply with JSON only: {"title":"","summary":"","category":"","paragraphs":["",""
       a.replace.forEach(r => L.push(`"${r.old}" -> "${r.new}"`));
     } else if (a.type === 'delete') {
       L.push(`Story: ${t(a.id)}`, 'The page, its picture and its cards are removed from the site.');
+    } else if (a.type === 'share') {
+      L.push(a.targets.length ? 'Share to: ' + a.targets.map(t => TARGET_LABELS[t]).join(', ') : 'Do not share this story.');
     } else if (a.type === 'run') {
       L.push('Start the news bot now (it fetches and publishes fresh stories).');
     }
@@ -355,6 +398,7 @@ Reply with JSON only: {"title":"","summary":"","category":"","paragraphs":["",""
     else if (a.type === 'image') job = Object.assign({ type: 'image' }, pick(a, ['id', 'credit']));
     else if (a.type === 'edit') job = { type: 'edit', id: a.id, replace: a.replace.map(r => ({ old: String(r.old), new: String(r.new == null ? '' : r.new) })) };
     else if (a.type === 'delete') job = { type: 'delete', id: a.id };
+    else if (a.type === 'share') job = { type: 'share', ids: a.ids, targets: a.targets };
     else throw new Error('Cannot build a job for ' + a.type);
     if ((a.type === 'post' || a.type === 'image') && files.image) {
       job.image = 'pic';
@@ -363,7 +407,7 @@ Reply with JSON only: {"title":"","summary":"","category":"","paragraphs":["",""
     return job;
   }
   return { b64, sealVault, openVault, ghClient, parseArchive, readStory, systemPrompt, parseModelJson,
-    listModels, gemini, research, checkAction, describeAction, buildJob };
+    listModels, gemini, research, parseReview, summariseShare, TARGET_LABELS, checkAction, describeAction, buildJob };
 })();
 
 /* ============================================================
@@ -384,8 +428,13 @@ function startUI() {
   function show(which) {
     $('screen-lock').style.display = which === 'lock' ? 'block' : 'none';
     $('screen-chat').style.display = which === 'chat' ? 'flex' : 'none';
-    $('btn-lock').style.display = which === 'chat' ? '' : 'none';
-    $('btn-settings').style.display = which === 'chat' ? '' : 'none';
+    $('screen-review').style.display = which === 'review' ? 'flex' : 'none';
+    const inside = which === 'chat' || which === 'review';
+    $('btn-lock').style.display = inside ? '' : 'none';
+    $('btn-settings').style.display = inside ? '' : 'none';
+    $('btn-review').style.display = inside ? '' : 'none';
+    $('btn-review').textContent = which === 'review' ? 'Chat' : 'Review';
+    if (S.badge && which !== 'review') { const b = el('b', {}, String(S.badge)); $('btn-review').append(b); }
   }
   function lockScreen() {
     const has = !!localStorage.getItem(SETTINGS.vaultKey);
@@ -563,36 +612,120 @@ function startUI() {
   }
 
   /* ----- doing it ----- */
+  async function submit(a, say, atts) {
+    if (!S.gh) S.gh = Core.ghClient(S.secrets.github, SETTINGS.owner, SETTINGS.repo, SETTINGS.branch);
+    if (a.type === 'run') {
+      await S.gh.dispatch(SETTINGS.workflowFile);
+      say('Started. Open the Actions tab on GitHub to watch it. New stories appear in a few minutes.');
+      return;
+    }
+    const jobId = Date.now().toString(36);
+    const files = {};
+    if ((a.type === 'post' || a.type === 'image') && a.image) {
+      const att = atts[a.image - 1];
+      const path = `bot/inbox/files/${jobId}-pic.jpg`;
+      say('Uploading the picture...');
+      await S.gh.putFile(path, att.b64, 'admin: upload picture');
+      files.image = path;
+    }
+    const job = Core.buildJob(a, files);
+    say('Sending the instruction to the bot...');
+    const name = `${jobId}-${a.type}.json`;
+    const res = await S.gh.putFile('bot/inbox/' + name, Core.b64.encText(JSON.stringify(job, null, 1)), 'admin: ' + a.type);
+    await watch(res.commit.sha, name, say);
+  }
   async function execute(a, card) {
     const status = el('div', { class: 'note' }, '');
     card.lastChild.replaceWith(status);
     const say = t => { status.textContent = t; $('msgs').scrollTop = $('msgs').scrollHeight; };
     try {
-      if (!S.gh) S.gh = Core.ghClient(S.secrets.github, SETTINGS.owner, SETTINGS.repo, SETTINGS.branch);
-      if (a.type === 'run') {
-        await S.gh.dispatch(SETTINGS.workflowFile);
-        say('Started. Open the Actions tab on GitHub to watch it. New stories appear in a few minutes.');
-        return;
-      }
-      const jobId = Date.now().toString(36);
-      const files = {};
-      if ((a.type === 'post' || a.type === 'image') && a.image) {
-        const att = S.attachments[a.image - 1];
-        const path = `bot/inbox/files/${jobId}-pic.jpg`;
-        say('Uploading the picture...');
-        await S.gh.putFile(path, att.b64, 'admin: upload picture');
-        files.image = path;
-      }
-      const job = Core.buildJob(a, files);
-      say('Sending the instruction to the bot...');
-      const name = `${jobId}-${a.type}.json`;
-      const res = await S.gh.putFile('bot/inbox/' + name, Core.b64.encText(JSON.stringify(job, null, 1)), 'admin: ' + a.type);
-      const sha = res.commit.sha;
-      if (files.image) { S.attachments = []; renderPending(); }
-      await watch(sha, name, say);
+      await submit(a, say, S.attachments);
+      if ((a.type === 'post' || a.type === 'image') && a.image) { S.attachments = []; renderPending(); }
     } catch (e) {
       say('Failed: ' + e.message + (e.status === 403 || e.status === 404 ? ' (check the token permissions)' : ''));
     }
+  }
+
+  /* ----- review screen ----- */
+  function setBadge(n) { S.badge = n; $('btn-review').textContent = $('screen-review').style.display === 'flex' ? 'Chat' : 'Review'; if (n && $('screen-review').style.display !== 'flex') $('btn-review').append(el('b', {}, String(n))); }
+  async function loadReview() {
+    try { S.review = Core.parseReview(await S.gh.getText('bot/review.json')); } catch (e) { S.review = { pending: [], targets: ['telegram'], approved: {}, shared: [], error: e.message }; }
+    setBadge(S.review.pending.length);
+    return S.review;
+  }
+  async function shareJob(ids, targets, say) {
+    const since = new Date(Date.now() - 60000).toISOString();
+    await submit({ type: 'share', ids, targets }, say, []);
+    if (targets.length) {
+      try {
+        const lines = Core.summariseShare(await S.gh.getText('bot/share_log.json'), ids, since);
+        if (lines.length) say('Sharing: ' + lines.join(' | '));
+      } catch (e) { /* log not readable */ }
+    }
+  }
+  async function openReview() {
+    show('review');
+    $('review-list').textContent = 'Loading...';
+    await loadReview();
+    renderReview();
+  }
+  function renderReview() {
+    const d = S.review, top = $('review-top'), box = $('review-list');
+    top.textContent = ''; box.textContent = '';
+    const chosen = new Set(d.targets.filter(t => t === 'telegram'));
+    const row = el('div', { class: 'tg' });
+    d.targets.forEach(t => {
+      const cb = el('input', { type: 'checkbox' }); cb.checked = chosen.has(t);
+      cb.onchange = () => { cb.checked ? chosen.add(t) : chosen.delete(t); };
+      row.append(el('label', {}, cb, Core.TARGET_LABELS[t]));
+    });
+    top.append(el('p', { class: 'note' }, d.pending.length
+      ? `${d.pending.length} stor${d.pending.length === 1 ? 'y is' : 'ies are'} live on the site and waiting for your OK to be shared. Tick where to share, then approve.`
+      : 'All caught up. Nothing is waiting for your OK.'));
+    if (d.error) top.append(el('p', { class: 'note' }, 'Could not read the review list yet (' + d.error + '). It appears after the bot has run once with the new version.'));
+    if (d.pending.length) top.append(row);
+    if (d.pending.length > 1) {
+      const all = el('button', { class: 'btn', style: 'margin-bottom:1rem' }, 'Approve all ' + d.pending.length + ' and share');
+      all.onclick = async () => {
+        all.disabled = true; const st = el('div', { class: 'note' }); top.append(st);
+        try { await shareJob(d.pending.map(p => p.id), [...chosen], t => { st.textContent = t; }); await loadReview(); renderReview(); } catch (e) { st.textContent = 'Failed: ' + e.message; all.disabled = false; }
+      };
+      top.append(all);
+    }
+    d.pending.forEach(p => {
+      const status = el('div', { class: 'note' });
+      const img = el('img', { class: 'th', src: 'assets/img/' + encodeURIComponent(p.id) + '.jpg?_=' + Date.now(), alt: '' });
+      const file = el('input', { type: 'file', accept: 'image/*', hidden: 'hidden' });
+      const open = el('a', { class: 'btn alt', href: 'news/' + encodeURIComponent(p.id) + '.html', target: '_blank', rel: 'noopener' }, 'Read');
+      const pic = el('button', { class: 'btn alt' }, 'Change picture');
+      const ok = el('button', { class: 'btn' }, 'Approve & share');
+      const skip = el('button', { class: 'btn alt' }, 'Skip');
+      pic.onclick = () => file.click();
+      file.onchange = async e => {
+        const f = e.target.files[0]; if (!f) return;
+        pic.disabled = true;
+        try {
+          const att = await resizeImage(f);
+          img.src = att.url;
+          await submit({ type: 'image', id: p.id, image: 1, credit: '' }, t => { status.textContent = t; }, [att]);
+          status.textContent += ' The new picture shows on the site in 1 to 2 minutes - approve after that.';
+        } catch (err) { status.textContent = 'Failed: ' + err.message; }
+        pic.disabled = false; e.target.value = '';
+      };
+      const busy = v => { ok.disabled = skip.disabled = pic.disabled = v; };
+      ok.onclick = async () => {
+        if (!chosen.size) { status.textContent = 'Tick at least one place to share to.'; return; }
+        busy(true);
+        try { await shareJob([p.id], [...chosen], t => { status.textContent = t; }); await loadReview(); setTimeout(renderReview, 4000); } catch (e) { status.textContent = 'Failed: ' + e.message; busy(false); }
+      };
+      skip.onclick = async () => {
+        busy(true);
+        try { await shareJob([p.id], [], t => { status.textContent = t; }); await loadReview(); setTimeout(renderReview, 2500); } catch (e) { status.textContent = 'Failed: ' + e.message; busy(false); }
+      };
+      box.append(el('div', { class: 'rv' }, img, el('div', { class: 'body' },
+        el('h3', {}, p.title), el('div', { class: 'meta' }, p.category + (p.ts ? ' - ' + new Date(p.ts).toLocaleString() : '')),
+        el('div', { class: 'btns' }, open, pic, ok, skip), file, status)));
+    });
   }
 
   async function watch(sha, jobName, say) {
@@ -628,6 +761,7 @@ function startUI() {
     S.gh = Core.ghClient(S.secrets.github, SETTINGS.owner, SETTINGS.repo, SETTINGS.branch);
     $('msgs').textContent = '';
     bubble('Hello! Tell me what to do on the site. I will always show you the plan and wait for your OK first.', '');
+    loadReview().catch(() => {});
     await loadStories();
     if (!S.stories.length) bubble('I cannot see your site\'s story list. Please open this page from your website address (https://trending9ja.com.ng/admin-7x3k9q2m.html), not from a downloaded file.', 'sys');
     touch();
@@ -664,6 +798,7 @@ function startUI() {
     renderPending(); touch();
   };
   $('btn-lock').onclick = lock;
+  $('btn-review').onclick = () => { touch(); if ($('screen-review').style.display === 'flex') { show('chat'); loadReview(); } else openReview(); };
   $('btn-settings').onclick = () => {
     bubble('Settings: your keys are saved on this device only, encrypted with your passcode. The page locks itself after ' + SETTINGS.autoLockMinutes + ' minutes. To use a new token or key, lock the page, tap "Forget keys on this device", and set it up again.', 'sys');
   };
