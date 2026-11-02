@@ -1,28 +1,19 @@
 {
- "pending": [
-  {
-   "id": "world-bank-initiative-trains-388-state",
-   "title": "World Bank Initiative Trains 388 State Officials on Healthcare and Education Budgeting",
-   "category": "Business",
-   "ts": "2026-11-02T17:23:10.051106+01:00"
-  },
-  {
-   "id": "42-delta-trade-unions-back-tinubu",
-   "title": "42 Delta Trade Unions Back Tinubu, Oborevwori, Dafinone For 2027",
-   "category": "Politics",
-   "ts": "2026-11-02T17:24:22.020630+01:00"
-  },
-  {
-   "id": "taraba-poly-denies-online-report-proposed",
-   "title": "Taraba Poly Denies Online Report on Proposed Relocation to Suntai",
-   "category": "Politics",
-   "ts": "2026-11-02T17:25:33.178254+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "world-bank-initiative-trains-388-state": [
+   "telegram"
+  ],
+  "42-delta-trade-unions-back-tinubu": [
+   "telegram"
+  ],
+  "taraba-poly-denies-online-report-proposed": [
+   "telegram"
+  ]
+ },
  "targets": [
   "telegram"
  ],
  "shared": [],
- "updated": "2026-11-02T16:40:52.774777+00:00"
+ "updated": "2026-11-02T17:41:28.400405+01:00"
 }
