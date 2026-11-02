@@ -1290,5 +1290,11 @@
  ],
  "shared": {},
  "approved_share": {},
- "share_attempts": {}
+ "share_attempts": {},
+ "owner_chat_id": 8503339229,
+ "notified": [
+  "world-bank-initiative-trains-388-state",
+  "42-delta-trade-unions-back-tinubu",
+  "taraba-poly-denies-online-report-proposed"
+ ]
 }
