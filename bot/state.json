@@ -461,7 +461,14 @@
   "https://www.vanguardngr.com/2026/11/democrats-trump-hold-final-rallies-before-midterm-elections/": "2026-11-02",
   "https://punchng.com/again-kwam-1-unites-nurtw-chiefs-mc-oluomo-sego/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
   "https://www.vanguardngr.com/2026/11/2027-42-trade-unions-in-delta-back-tinubu-oborevwori-dafinone/": "2026-11-02",
-  "https://dailypost.ng/2026/11/02/taraba-polytechnic-disowns-publication-on-proposed-relocation-to-suntai/": "2026-11-02"
+  "https://dailypost.ng/2026/11/02/taraba-polytechnic-disowns-publication-on-proposed-relocation-to-suntai/": "2026-11-02",
+  "https://punchng.com/inec-to-ensure-pwds-arent-excluded-from-2027-elections-official/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/nuprc-woos-global-investors-with-40-oil-gas-blocks/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/abia-designates-specialist-hospital-as-ebola-isolation-centre/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss": "2026-11-02",
+  "https://punchng.com/nollywood-actor-francis-duru-for-burial-december-11/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/atiku-pledges-gratuity-improved-pensions-for-police/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02",
+  "https://punchng.com/lagos-art-festival-returns-promotes-public-creativity/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-02"
  },
  "published": [
   {
@@ -1081,6 +1088,14 @@
    "category": "Politics",
    "ts": "2026-11-02T17:25:33.178236+01:00",
    "ng": true
+  },
+  {
+   "id": "inec-promises-inclusive-2027-elections-persons",
+   "date": "2026-11-02",
+   "title": "INEC Promises Inclusive 2027 Elections for Persons With Disabilities",
+   "category": "Politics",
+   "ts": "2026-11-02T20:15:43.611148+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1265,7 +1280,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-02",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "inec-promises-inclusive-2027-elections-persons",
+   "title": "INEC Promises Inclusive 2027 Elections for Persons With Disabilities",
+   "category": "Politics",
+   "ts": "2026-11-02T20:15:43.611173+01:00"
+  }
+ ],
  "targets_available": [
   "telegram"
  ],
