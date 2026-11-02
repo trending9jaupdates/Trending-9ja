@@ -30,5 +30,11 @@
   "min_story_words": 150,
   "thin_story_words": 90,
   "image_cleanup": "hotlinks",
-  "adsense_client": "ca-pub-5090928492295048"
+  "adsense_client": "ca-pub-5090928492295048",
+  "share_mode": "approve",
+  "auto_targets": [
+    "telegram"
+  ],
+  "pending_days": 7,
+  "studio_url": "https://trending9ja.com.ng/admin-7x3k9q2m.html"
 }

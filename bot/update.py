@@ -873,6 +873,53 @@ def set_credit(page_text, sid, credit):
 CARD_RE = r'<article class="post-card" data-date="[^"]+">(?:(?!</article>).)*?href="(?:\.\./)?news/{id}\.html"(?:(?!</article>).)*</article>'
 
 
+
+# --------------------------------------------------------------------------- approval queue for sharing
+SHARE_TARGETS = ("telegram", "facebook", "instagram", "newsletter")
+
+
+def queue_share(state, sid, title, category):
+    """A new story is live on the site; it now waits for the owner's OK before it is shared."""
+    if CFG.get("share_mode", "approve") == "auto":
+        state.setdefault("approved_share", {})[sid] = list(CFG.get("auto_targets", ["telegram"]))
+        return
+    pend = state.setdefault("pending_share", [])
+    if not any(p["id"] == sid for p in pend):
+        pend.append({"id": sid, "title": title, "category": category, "ts": tz_now().isoformat()})
+
+
+def drop_from_share(state, ids):
+    ids = set(ids)
+    state["pending_share"] = [p for p in state.get("pending_share", []) if p["id"] not in ids]
+    for sid in ids:
+        state.get("approved_share", {}).pop(sid, None)
+
+
+def job_share(job, state, today):
+    ids = job.get("ids") or ([job["id"]] if job.get("id") else [])
+    targets = [t for t in job.get("targets", []) if t in SHARE_TARGETS]
+    n = 0
+    for sid in ids:
+        if not (ROOT / "news" / f"{sid}.html").exists():
+            continue
+        state["pending_share"] = [p for p in state.get("pending_share", []) if p["id"] != sid]
+        if targets:
+            state.setdefault("approved_share", {})[sid] = targets
+            n += 1
+    if not targets:
+        return f"Skipped sharing for {len(ids)} stor{'y' if len(ids) == 1 else 'ies'}"
+    return f"Approved {n} stor{'y' if n == 1 else 'ies'} for sharing to {', '.join(targets)}"
+
+
+def write_review(state):
+    """A small public file the Studio page reads to show the 'To review' list."""
+    done = state.get("shared", {})
+    recent = [{"id": i, "targets": sorted(t.keys())} for i, t in list(done.items())[-12:]]
+    data = {"pending": state.get("pending_share", []), "approved": state.get("approved_share", {}),
+            "targets": state.get("targets_available", ["telegram"]), "shared": recent, "updated": tz_now().isoformat()}
+    write(BOT / "review.json", json.dumps(data, indent=1, ensure_ascii=False))
+
+
 def job_post(job, state, today):
     cat = norm_cat(job.get("category"))
     if cat not in CATS:
@@ -902,6 +949,7 @@ def job_post(job, state, today):
     publish(s, today)
     state["published"].append({"id": s["id"], "date": s["date"], "title": s["title"], "category": cat,
                                "ts": tz_now().isoformat()})
+    queue_share(state, s["id"], s["title"], cat)
     return f"Published: {title} (`{s['id']}`)"
 
 
@@ -961,6 +1009,7 @@ def job_delete(job, state, today):
     if sm.exists():
         write(sm, re.sub(r"<url><loc>[^<]*/news/" + re.escape(sid) + r"\.html</loc></url>", "", read(sm)))
     state["published"] = [p for p in state["published"] if p["id"] != sid]
+    drop_from_share(state, [sid])
     return f"Removed: `{sid}`"
 
 
@@ -993,7 +1042,7 @@ def _apply_pairs(block, pairs):
     return block
 
 
-JOB_TYPES = {"post": job_post, "image": job_image, "delete": job_delete, "edit": job_edit}
+JOB_TYPES = {"post": job_post, "image": job_image, "delete": job_delete, "edit": job_edit, "share": job_share}
 
 
 def process_jobs(state, today, dry):
@@ -1082,6 +1131,7 @@ def remove_orphan_cards(state):
             write(sm, t)
     if removed_ids:
         state["published"] = [p for p in state["published"] if p["id"] not in removed_ids]
+        drop_from_share(state, removed_ids)
         log("Cleaned up deleted stories:", ", ".join(sorted(removed_ids)))
     return sorted(removed_ids)
 
@@ -1448,6 +1498,7 @@ def main(argv=None):
             publish(s, today)
             p.unlink()
             state["published"].append({"id": s["id"], "date": s["date"], "title": s["title"], "category": s["category"], "ts": tz_now().isoformat()})
+            queue_share(state, s["id"], s["title"], s["category"])
         published_now.append(s)
 
     # 1b) instructions sent from the admin page
@@ -1538,12 +1589,16 @@ def main(argv=None):
                 publish(s, today)
                 state["published"].append({"id": s["id"], "date": s["date"], "title": s["title"], "category": s["category"], "ts": tz_now().isoformat(),
                                         "ng": s.get("ng", True)})
+                queue_share(state, s["id"], s["title"], s["category"])
             published_now.append(s)
             made += 1
 
     # 3) housekeeping
     if not a.dry_run:
         state["image_hashes"] = sorted(IMG_HASHES)[-600:]
+        cutoff = (tz_now() - datetime.timedelta(days=CFG.get("pending_days", 7))).isoformat()
+        state["pending_share"] = [p for p in state.get("pending_share", []) if p.get("ts", cutoff) >= cutoff]
+        write_review(state)
         cleaned = remove_orphan_cards(state)
         if cleaned:
             summary.append(f"- Removed leftover cards of deleted stories: {', '.join(cleaned)}")
@@ -1581,6 +1636,11 @@ def main(argv=None):
     if skipped:
         summary.append(f"### Skipped: {len(skipped)}")
         summary += [f"- {t} - {r}" for t, r in skipped[:15]]
+    waiting = state.get("pending_share", [])
+    if waiting and CFG.get("share_mode", "approve") == "approve":
+        summary.append(f"### Waiting for your OK to share: {len(waiting)}")
+        summary += [f"- {w['title']}" for w in waiting[:15]]
+        summary.append("Open Studio and tap **Review** to read, change the picture and approve.")
     all_pending = sorted((BOT / "drafts").glob("*.json"))
     if all_pending:
         summary.append(f"### All drafts waiting ({len(all_pending)})")
