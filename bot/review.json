@@ -1,13 +1,10 @@
 {
- "pending": [
-  {
-   "id": "inec-promises-inclusive-2027-elections-persons",
-   "title": "INEC Promises Inclusive 2027 Elections for Persons With Disabilities",
-   "category": "Politics",
-   "ts": "2026-11-02T20:15:43.611173+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "inec-promises-inclusive-2027-elections-persons": [
+   "telegram"
+  ]
+ },
  "targets": [
   "telegram"
  ],
@@ -31,5 +28,5 @@
    ]
   }
  ],
- "updated": "2026-11-02T19:24:07.701152+00:00"
+ "updated": "2026-11-02T20:30:01.055694+01:00"
 }
