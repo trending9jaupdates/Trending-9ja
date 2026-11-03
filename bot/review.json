@@ -1,10 +1,6 @@
 {
  "pending": [],
- "approved": {
-  "2027-ogun-indigenes-back-adebutu-under": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
@@ -52,7 +48,13 @@
     "newsletter",
     "telegram"
    ]
+  },
+  {
+   "id": "2027-ogun-indigenes-back-adebutu-under",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-03T23:41:27.021895+01:00"
+ "updated": "2026-11-03T22:41:33.221452+00:00"
 }
