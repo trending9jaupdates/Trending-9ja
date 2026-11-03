@@ -1,10 +1,6 @@
 {
  "pending": [],
- "approved": {
-  "nigeria-france-target-higher-energy-investments": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
@@ -39,7 +35,13 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "nigeria-france-target-higher-energy-investments",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-03T18:14:53.488351+01:00"
+ "updated": "2026-11-03T17:15:02.033128+00:00"
 }
