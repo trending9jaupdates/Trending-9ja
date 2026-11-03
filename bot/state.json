@@ -522,7 +522,16 @@
   "https://punchng.com/video-makinde-attends-launch-of-sola-sobowales-oyo-care-home/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
   "https://www.vanguardngr.com/2026/11/24-yr-old-runner-dies-after-collapsing-two-miles-from-nyc-marathon-finish-line/": "2026-11-03",
   "https://punchng.com/security-agencies-rescue-eight-kidnap-victims-in-kaduna/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
-  "https://punchng.com/jesus-de-miguel-profile-of-tenerife-striker-who-died-after-on-field-collision/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03"
+  "https://punchng.com/jesus-de-miguel-profile-of-tenerife-striker-who-died-after-on-field-collision/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/gombe-varsity-asuu-rejects-salary-arrears-threatens-fresh-strike/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/renting-houses-to-terrorists-a-crime-fg-warns-landlords/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://www.premiumtimesng.com/news/top-news/922428-efcc-uncovers-chinese-operated-illegal-oil-refinery-in-ogun.html": "2026-11-03",
+  "https://punchng.com/2027-pdp-chairman-predicts-victory-for-partys-candidates/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/canada-sets-60-day-deadline-for-asylum-applications/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/mistaken-identity-footballer-suffers-racist-abuse-after-de-miguels-death/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://www.legit.ng/nigeria/1739388-breaking-efcc-uncovers-illegal-refinery-operated-by-chinese-nigeria/": "2026-11-03",
+  "https://punchng.com/senate-passes-bills-clarifying-abia-federal-varsity-college-locations/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://www.vanguardngr.com/2026/11/2027-why-youth-share-of-voters-dropped-inec/": "2026-11-03"
  },
  "published": [
   {
@@ -1130,6 +1139,14 @@
    "category": "Business",
    "ts": "2026-11-03T11:12:53.816528+01:00",
    "ng": true
+  },
+  {
+   "id": "gombe-varsity-asuu-rejects-salary-arrears",
+   "date": "2026-11-03",
+   "title": "Gombe Varsity ASUU Rejects Salary Arrears, Threatens To Resume Strike",
+   "category": "Politics",
+   "ts": "2026-11-03T18:25:21.212700+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1316,7 +1333,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-03",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "gombe-varsity-asuu-rejects-salary-arrears",
+   "title": "Gombe Varsity ASUU Rejects Salary Arrears, Threatens To Resume Strike",
+   "category": "Politics",
+   "ts": "2026-11-03T18:25:21.212724+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
