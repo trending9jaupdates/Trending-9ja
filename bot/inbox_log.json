@@ -196,5 +196,11 @@
   "ok": true,
   "message": "Approved 1 story for sharing to telegram",
   "at": "2026-11-03T18:14:53.487824+01:00"
+ },
+ {
+  "job": "mw0yzlra-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `gombe-varsity-asuu-rejects-salary-arrears`",
+  "at": "2026-11-03T18:37:28.033178+01:00"
  }
 ]
