@@ -539,7 +539,14 @@
   "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss": "2026-11-03",
   "https://punchng.com/food-security-fg-offers-40-tertiary-institutions-n2bn-each/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
   "https://punchng.com/2027-edo-opposition-parties-warn-against-political-violence/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
-  "https://www.vanguardngr.com/2026/11/dont-allow-opposition-criticism-to-distract-you-apc-to-supporters/": "2026-11-03"
+  "https://www.vanguardngr.com/2026/11/dont-allow-opposition-criticism-to-distract-you-apc-to-supporters/": "2026-11-03",
+  "https://punchng.com/dss-denies-atikus-adc-rally-disruption-claim-orders-probe/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/slavery-was-monstrous-injustice-king-charles/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/im-getting-back-to-my-best-says-man-citys-foden/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/otti-urges-teriary-students-to-embrace-leadership-integrity-discipline/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/tinubu-graduated-with-first-class-in-accounting-education-minister/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://www.vanguardngr.com/2026/11/2027-ogun-indigenes-rally-behind-adebutu-reaffirm-ogun-for-ogun-agenda/": "2026-11-03",
+  "https://dailypost.ng/2026/11/03/awujale-stool-ogun-govt-reconstitutes-interregnum-council-declares-adele-oba-illegal/": "2026-11-03"
  },
  "published": [
   {
@@ -1155,6 +1162,14 @@
    "category": "Politics",
    "ts": "2026-11-03T18:25:21.212700+01:00",
    "ng": true
+  },
+  {
+   "id": "2027-ogun-indigenes-back-adebutu-under",
+   "date": "2026-11-03",
+   "title": "2027: Ogun Indigenes Back Adebutu Under 'Ogun for Ogun' Movement",
+   "category": "Politics",
+   "ts": "2026-11-03T23:06:34.555185+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1236,7 +1251,8 @@
   "https://punchng.com/police-arrest-man-for-pushing-girl-off-imo-two-storey-building/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/gambia-central-banks-planned-sack-affects-57-nigerians-nidcom-kicks/": 1,
   "https://punchng.com/photos-police-uncover-lagos-indoor-cannabis-farm-arrest-two/?utm_source=rss.punchng.com&utm_medium=web": 2,
-  "https://punchng.com/apc-primary-caution-your-aides-okorocha-tells-uzodimma/?utm_source=rss.punchng.com&utm_medium=web": 1
+  "https://punchng.com/apc-primary-caution-your-aides-okorocha-tells-uzodimma/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://punchng.com/55000-inmates-awaiting-trial-in-nigeria-ppdc/?utm_source=rss.punchng.com&utm_medium=web": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1342,7 +1358,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-03",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "2027-ogun-indigenes-back-adebutu-under",
+   "title": "2027: Ogun Indigenes Back Adebutu Under 'Ogun for Ogun' Movement",
+   "category": "Politics",
+   "ts": "2026-11-03T23:06:34.555207+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
