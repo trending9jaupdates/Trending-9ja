@@ -1,5 +1,12 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "alnassr-thrash-pakhtakor-62-champions-league",
+   "title": "Al-Nassr Thrash Pakhtakor 6-2 In Champions League Elite As Ronaldo Rests",
+   "category": "Sports",
+   "ts": "2026-11-03T08:34:35.987573+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram"
@@ -30,5 +37,5 @@
    ]
   }
  ],
- "updated": "2026-11-03T04:11:29.387228+00:00"
+ "updated": "2026-11-03T08:35:56.707242+01:00"
 }

@@ -473,7 +473,15 @@
   "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss": "2026-11-03",
   "https://punchng.com/2027-apc-seeks-criver-votes-as-shettima-defends-reforms/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
   "https://punchng.com/2027-traditional-rulers-face-neutrality-test-as-politicians-storm-palaces/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
-  "https://punchng.com/dangote-sets-sights-on-egypt-for-industrial-expansion/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03"
+  "https://punchng.com/dangote-sets-sights-on-egypt-for-industrial-expansion/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/ronaldo-rested-as-al-nassr-thrash-pakhtakor-6-2/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/morning-recap-three-homeless-men-shot-dead-in-lagos-super-falcons-receive-100000-each-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/north-korea-rejects-us-accusation-over-6-3bn-binance-hack/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://www.premiumtimesng.com/foreign/922285-us-attacks-iran-ahead-of-americas-midterm-elections.html": "2026-11-03",
+  "https://punchng.com/obi-and-i-remain-friends-despite-political-differences-soludo/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/actress-rachael-okonkwo-sparks-engagement-buzz-with-proposal-video/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/poor-services-telcos-urge-reps-to-tackle-infrastructure-challenges/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://www.vanguardngr.com/2026/11/2027-ex-minister-sambo-endorses-tinubu-for-second-term/": "2026-11-03"
  },
  "published": [
   {
@@ -1065,6 +1073,14 @@
    "category": "Politics",
    "ts": "2026-11-02T20:15:43.611148+01:00",
    "ng": true
+  },
+  {
+   "id": "alnassr-thrash-pakhtakor-62-champions-league",
+   "date": "2026-11-03",
+   "title": "Al-Nassr Thrash Pakhtakor 6-2 In Champions League Elite As Ronaldo Rests",
+   "category": "Sports",
+   "ts": "2026-11-03T08:34:35.987555+01:00",
+   "ng": false
   }
  ],
  "retries": {
@@ -1249,7 +1265,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-03",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "alnassr-thrash-pakhtakor-62-champions-league",
+   "title": "Al-Nassr Thrash Pakhtakor 6-2 In Champions League Elite As Ronaldo Rests",
+   "category": "Sports",
+   "ts": "2026-11-03T08:34:35.987573+01:00"
+  }
+ ],
  "targets_available": [
   "telegram"
  ],
