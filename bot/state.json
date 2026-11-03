@@ -1316,14 +1316,7 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-03",
- "pending_share": [
-  {
-   "id": "nigeria-france-target-higher-energy-investments",
-   "title": "Nigeria, France Target Higher Energy Investments to Boost Trade",
-   "category": "Business",
-   "ts": "2026-11-03T11:12:53.816546+01:00"
-  }
- ],
+ "pending_share": [],
  "targets_available": [
   "telegram",
   "newsletter"
@@ -1345,7 +1338,11 @@
    "telegram": "2026-11-03T08:28:30.317686+00:00"
   }
  },
- "approved_share": {},
+ "approved_share": {
+  "nigeria-france-target-higher-energy-investments": [
+   "telegram"
+  ]
+ },
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [
