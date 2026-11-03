@@ -1403,6 +1403,67 @@ def apply_adsense():
     return changed
 
 
+
+# --------------------------------------------------------------------------- newsletter signup box (Kit)
+SIGNUP_CSS = """
+/* ===== newsletter signup ===== */
+.signup-box{max-width:560px;margin:3rem auto 0;padding:1.4rem 1.2rem;background:#fff;border:2px solid #006640;border-radius:14px;text-align:center}
+.signup-box h3{margin:0 0 .4rem;color:#006640;font-size:1.25rem}
+.signup-box p{margin:.2rem 0 .8rem;color:#444}
+.signup-box .signup-note{font-size:.78rem;color:#777;margin:.8rem 0 0}
+"""
+_SIGNUP_RE = re.compile(r'<section class="signup-box" id="newsletter">.*?</section>', re.S)
+PRIVACY_NEWSLETTER = ("<h2>Email newsletter</h2><p>If you subscribe to our newsletter, we store your email address with our "
+                      "email provider, Kit, so we can send you our top stories. You can unsubscribe at any time using the link "
+                      "in every email, and we will then stop emailing you. We do not sell your email address.</p>")
+
+
+def apply_newsletter():
+    """Puts the Kit signup box above the footer of every page (and in the template for new stories)."""
+    uid = (CFG.get("kit_form_uid") or "").strip()
+    src = (CFG.get("kit_form_src") or "").strip()
+    if not uid or not src.startswith("https://"):
+        return None
+
+    def box(prefix):
+        return ('<section class="signup-box" id="newsletter"><h3>Get the top stories in your inbox</h3>'
+                "<p>Nigeria's trending news, politics and entertainment, straight to your email.</p>"
+                f'<script async data-uid="{uid}" src="{src}"></script>'
+                f'<p class="signup-note">By subscribing you agree to our <a href="{prefix}privacy.html">Privacy Policy</a>. '
+                "Unsubscribe any time.</p></section>")
+    changed = 0
+    for p in list(ROOT.glob("*.html")) + list((ROOT / "news").glob("*.html")) + [BOT / "story_template.html"]:
+        if not p.exists():
+            continue
+        t = read(p)
+        if "<footer>" not in t:
+            continue
+        if f'data-uid="{uid}"' in t and f'src="{src}"' in t:
+            continue
+        prefix = "../" if p.parent.name in ("news", "bot") else ""
+        t2 = _SIGNUP_RE.sub("", t)
+        t2 = t2.replace("<footer>", box(prefix) + "<footer>", 1)
+        write(p, t2)
+        changed += 1
+    css = ROOT / "assets" / "style.css"
+    if css.exists() and "newsletter signup" not in read(css):
+        write(css, read(css) + SIGNUP_CSS)
+        changed += 1
+    # the older Brevo box (config.js + site.js) is switched off, so visitors see only the Kit box
+    cj = ROOT / "assets" / "config.js"
+    if cj.exists():
+        tj = read(cj)
+        m = re.search(r"(var NEWSLETTER_CONFIG = \{\s*action: ')([^']*)(')", tj)
+        if m and m.group(2):
+            write(cj, tj[:m.start(2)] + tj[m.end(2):])
+            changed += 1
+    pv = ROOT / "privacy.html"
+    if pv.exists() and "Email newsletter" not in read(pv) and "<h2>Your rights</h2>" in read(pv):
+        write(pv, read(pv).replace("<h2>Your rights</h2>", PRIVACY_NEWSLETTER + "<h2>Your rights</h2>", 1))
+        changed += 1
+    return changed
+
+
 # --------------------------------------------------------------------------- drafts, gist, summary
 def save_draft(s, reason):
     s = dict(s, reason=reason, created=tz_now().date().isoformat())
@@ -1605,6 +1666,9 @@ def main(argv=None):
         if fix_business_nav():
             summary.append("- Added the Business menu link to pages that were missing it.")
         sync_topic_counts()
+        nl_changed = apply_newsletter()
+        if nl_changed:
+            summary.append(f"- Newsletter signup box added or updated on {nl_changed} files.")
         ad_changed = apply_adsense()
         if ad_changed:
             summary.append(f"- AdSense code added to {ad_changed} files (every page and ads.txt).")
