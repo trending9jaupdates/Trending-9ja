@@ -1,0 +1,10 @@
+{
+ "type": "share",
+ "ids": [
+  "gombe-varsity-asuu-rejects-salary-arrears"
+ ],
+ "targets": [
+  "telegram",
+  "newsletter"
+ ]
+}
