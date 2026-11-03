@@ -40,5 +40,19 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-03T17:14:59.030892+00:00"
+ },
+ {
+  "id": "gombe-varsity-asuu-rejects-salary-arrears",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-03T18:03:52.367780+00:00"
+ },
+ {
+  "id": "gombe-varsity-asuu-rejects-salary-arrears",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-03T18:03:56.185662+00:00"
  }
 ]

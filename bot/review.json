@@ -1,11 +1,6 @@
 {
  "pending": [],
- "approved": {
-  "gombe-varsity-asuu-rejects-salary-arrears": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
@@ -46,7 +41,14 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "gombe-varsity-asuu-rejects-salary-arrears",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-03T19:03:34.875031+01:00"
+ "updated": "2026-11-03T18:03:56.187979+00:00"
 }
