@@ -184,5 +184,11 @@
   "ok": true,
   "message": "Approved 1 story for sharing to telegram",
   "at": "2026-11-03T09:28:25.433343+01:00"
+ },
+ {
+  "job": "mw0ks4d8-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `nigeria-france-target-higher-energy-investments`",
+  "at": "2026-11-03T11:59:26.408421+01:00"
  }
 ]
