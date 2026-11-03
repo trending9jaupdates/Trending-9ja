@@ -9,7 +9,8 @@
  ],
  "approved": {},
  "targets": [
-  "telegram"
+  "telegram",
+  "newsletter"
  ],
  "shared": [
   {
@@ -37,5 +38,5 @@
    ]
   }
  ],
- "updated": "2026-11-03T08:35:56.707242+01:00"
+ "updated": "2026-11-03T07:36:05.662378+00:00"
 }
