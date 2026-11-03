@@ -1,5 +1,12 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "nigeria-france-target-higher-energy-investments",
+   "title": "Nigeria, France Target Higher Energy Investments to Boost Trade",
+   "category": "Business",
+   "ts": "2026-11-03T11:12:53.816546+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -37,5 +44,5 @@
    ]
   }
  ],
- "updated": "2026-11-03T08:28:33.319546+00:00"
+ "updated": "2026-11-03T11:13:35.414513+01:00"
 }

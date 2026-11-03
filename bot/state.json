@@ -481,7 +481,16 @@
   "https://punchng.com/obi-and-i-remain-friends-despite-political-differences-soludo/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
   "https://punchng.com/actress-rachael-okonkwo-sparks-engagement-buzz-with-proposal-video/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
   "https://punchng.com/poor-services-telcos-urge-reps-to-tackle-infrastructure-challenges/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
-  "https://www.vanguardngr.com/2026/11/2027-ex-minister-sambo-endorses-tinubu-for-second-term/": "2026-11-03"
+  "https://www.vanguardngr.com/2026/11/2027-ex-minister-sambo-endorses-tinubu-for-second-term/": "2026-11-03",
+  "https://punchng.com/nigeria-france-seek-increased-energy-investments/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/spanish-striker-dies-after-on-pitch-collision-with-goalkeeper/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss": "2026-11-03",
+  "https://punchng.com/2027-adc-gov-candidate-promises-n100bn-boost-for-aibom-economy/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://www.bbc.co.uk/news/articles/cqp8genleg2ro?at_medium=RSS&at_campaign=rss": "2026-11-03",
+  "https://punchng.com/fg-begins-commonwealth-scholarship-interviews-for-2000-nigerians/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/ondo-adc-rep-candidate-backs-fuel-subsidy-return/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://punchng.com/why-bandits-say-they-cant-stop-killing-gumi/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-03",
+  "https://dailypost.ng/2026/11/03/how-obasanjos-threat-made-me-run-to-ghana-i-fought-back-amaechi/": "2026-11-03"
  },
  "published": [
   {
@@ -1081,6 +1090,14 @@
    "category": "Sports",
    "ts": "2026-11-03T08:34:35.987555+01:00",
    "ng": false
+  },
+  {
+   "id": "nigeria-france-target-higher-energy-investments",
+   "date": "2026-11-03",
+   "title": "Nigeria, France Target Higher Energy Investments to Boost Trade",
+   "category": "Business",
+   "ts": "2026-11-03T11:12:53.816528+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1159,7 +1176,8 @@
   "https://www.vanguardngr.com/2026/11/bauchi-lga-chairman-dies-in-auto-crash-after-apm-meeting/": 1,
   "https://dailypost.ng/2026/11/02/yobe-moves-to-set-up-child-protection-commission-with-powers-to-investigate-prosecute-offenders/": 1,
   "https://www.channelstv.com/2026/11/02/you-cannot-negotiate-for-tuc-osifo-replies-ajearo-as-n70000-controversy-drags-on/": 1,
-  "https://punchng.com/police-arrest-man-for-pushing-girl-off-imo-two-storey-building/?utm_source=rss.punchng.com&utm_medium=web": 1
+  "https://punchng.com/police-arrest-man-for-pushing-girl-off-imo-two-storey-building/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://www.vanguardngr.com/2026/11/gambia-central-banks-planned-sack-affects-57-nigerians-nidcom-kicks/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1265,7 +1283,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-03",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "nigeria-france-target-higher-energy-investments",
+   "title": "Nigeria, France Target Higher Energy Investments to Boost Trade",
+   "category": "Business",
+   "ts": "2026-11-03T11:12:53.816546+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
