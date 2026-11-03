@@ -1,13 +1,11 @@
 {
- "pending": [
-  {
-   "id": "gombe-varsity-asuu-rejects-salary-arrears",
-   "title": "Gombe Varsity ASUU Rejects Salary Arrears, Threatens To Resume Strike",
-   "category": "Politics",
-   "ts": "2026-11-03T18:25:21.212724+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "gombe-varsity-asuu-rejects-salary-arrears": [
+   "telegram",
+   "newsletter"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -50,5 +48,5 @@
    ]
   }
  ],
- "updated": "2026-11-03T17:37:35.477491+00:00"
+ "updated": "2026-11-03T19:03:34.875031+01:00"
 }

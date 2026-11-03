@@ -1333,14 +1333,7 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-03",
- "pending_share": [
-  {
-   "id": "gombe-varsity-asuu-rejects-salary-arrears",
-   "title": "Gombe Varsity ASUU Rejects Salary Arrears, Threatens To Resume Strike",
-   "category": "Politics",
-   "ts": "2026-11-03T18:25:21.212724+01:00"
-  }
- ],
+ "pending_share": [],
  "targets_available": [
   "telegram",
   "newsletter"
@@ -1365,7 +1358,12 @@
    "telegram": "2026-11-03T17:14:59.030868+00:00"
   }
  },
- "approved_share": {},
+ "approved_share": {
+  "gombe-varsity-asuu-rejects-salary-arrears": [
+   "telegram",
+   "newsletter"
+  ]
+ },
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [
