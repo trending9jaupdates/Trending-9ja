@@ -1,13 +1,10 @@
 {
- "pending": [
-  {
-   "id": "2027-ogun-indigenes-back-adebutu-under",
-   "title": "2027: Ogun Indigenes Back Adebutu Under 'Ogun for Ogun' Movement",
-   "category": "Politics",
-   "ts": "2026-11-03T23:06:34.555207+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "2027-ogun-indigenes-back-adebutu-under": [
+   "telegram"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -57,5 +54,5 @@
    ]
   }
  ],
- "updated": "2026-11-03T22:08:23.026459+00:00"
+ "updated": "2026-11-03T23:41:27.021895+01:00"
 }
