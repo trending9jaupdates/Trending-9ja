@@ -7,11 +7,7 @@
    "ts": "2026-11-04T05:15:52.685895+01:00"
   }
  ],
- "approved": {
-  "experts-urge-nigerian-farmers-adopt-soilbased": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
@@ -65,7 +61,13 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "experts-urge-nigerian-farmers-adopt-soilbased",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-04T07:20:54.218013+01:00"
+ "updated": "2026-11-04T06:21:01.784266+00:00"
 }
