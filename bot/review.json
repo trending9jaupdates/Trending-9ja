@@ -5,15 +5,13 @@
    "title": "State Police Bill Clears Assembly Threshold as 28 States Approve",
    "category": "Politics",
    "ts": "2026-11-04T05:15:52.685895+01:00"
-  },
-  {
-   "id": "experts-urge-nigerian-farmers-adopt-soilbased",
-   "title": "Experts Urge Nigerian Farmers To Adopt Soil-Based Fertiliser Recommendations",
-   "category": "Business",
-   "ts": "2026-11-04T05:16:47.557423+01:00"
   }
  ],
- "approved": {},
+ "approved": {
+  "experts-urge-nigerian-farmers-adopt-soilbased": [
+   "telegram"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -69,5 +67,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T05:22:48.261853+00:00"
+ "updated": "2026-11-04T07:20:54.218013+01:00"
 }
