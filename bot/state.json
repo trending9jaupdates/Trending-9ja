@@ -526,7 +526,15 @@
   "https://punchng.com/barau-bags-award-for-sponsoring-49-bills/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
   "https://punchng.com/senate-debates-national-carrier-demands-equal-china-flight-rights/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
   "https://punchng.com/lagos-extends-financial-aid-healthcare-to-elderly-caregivers/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
-  "https://punchng.com/edo-adc-ndc-vow-to-resist-political-violence/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04"
+  "https://punchng.com/edo-adc-ndc-vow-to-resist-political-violence/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/state-police-28-assemblies-approve-tinubus-assent-next/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/ndc-reinstates-borno-candidate-after-atiku-campaign-controversy/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/fg-to-ban-heavy-vehicles-on-first-niger-bridge/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/villarreal-sign-beninese-striker-from-beyond-limits/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/flamingos-face-brazil-test-for-historic-final-place/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/efcc-busts-chinese-linked-illegal-refinery-in-ogun/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.vanguardngr.com/2026/11/experts-seek-soil-based-fertiliser-recommendations-to-improve-yields/": "2026-11-04",
+  "https://dailypost.ng/2026/11/03/iranian-president-pezeshkian-speaks-on-possible-assassination-amid-fears-of-fresh-us-strikes/": "2026-11-04"
  },
  "published": [
   {
@@ -1084,6 +1092,22 @@
    "category": "Politics",
    "ts": "2026-11-03T23:06:34.555185+01:00",
    "ng": true
+  },
+  {
+   "id": "state-police-bill-clears-assembly-threshold",
+   "date": "2026-11-04",
+   "title": "State Police Bill Clears Assembly Threshold as 28 States Approve",
+   "category": "Politics",
+   "ts": "2026-11-04T05:15:52.685876+01:00",
+   "ng": true
+  },
+  {
+   "id": "experts-urge-nigerian-farmers-adopt-soilbased",
+   "date": "2026-11-04",
+   "title": "Experts Urge Nigerian Farmers To Adopt Soil-Based Fertiliser Recommendations",
+   "category": "Business",
+   "ts": "2026-11-04T05:16:47.557401+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1273,7 +1297,20 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-04",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "state-police-bill-clears-assembly-threshold",
+   "title": "State Police Bill Clears Assembly Threshold as 28 States Approve",
+   "category": "Politics",
+   "ts": "2026-11-04T05:15:52.685895+01:00"
+  },
+  {
+   "id": "experts-urge-nigerian-farmers-adopt-soilbased",
+   "title": "Experts Urge Nigerian Farmers To Adopt Soil-Based Fertiliser Recommendations",
+   "category": "Business",
+   "ts": "2026-11-04T05:16:47.557423+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"

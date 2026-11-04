@@ -1,5 +1,18 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "state-police-bill-clears-assembly-threshold",
+   "title": "State Police Bill Clears Assembly Threshold as 28 States Approve",
+   "category": "Politics",
+   "ts": "2026-11-04T05:15:52.685895+01:00"
+  },
+  {
+   "id": "experts-urge-nigerian-farmers-adopt-soilbased",
+   "title": "Experts Urge Nigerian Farmers To Adopt Soil-Based Fertiliser Recommendations",
+   "category": "Business",
+   "ts": "2026-11-04T05:16:47.557423+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -56,5 +69,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T01:27:39.414321+00:00"
+ "updated": "2026-11-04T05:18:10.733328+01:00"
 }
