@@ -214,5 +214,11 @@
   "ok": true,
   "message": "Approved 1 story for sharing to telegram",
   "at": "2026-11-03T23:41:27.021199+01:00"
+ },
+ {
+  "job": "mw1o72ik-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `experts-urge-nigerian-farmers-adopt-soilbased`",
+  "at": "2026-11-04T06:22:46.261514+01:00"
  }
 ]
