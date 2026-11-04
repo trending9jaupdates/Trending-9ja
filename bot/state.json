@@ -555,7 +555,17 @@
   "https://punchng.com/us-midterms-democrat-talarico-flips-texas-senate-seat/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
   "https://www.vanguardngr.com/2026/11/elon-musk-jokes-about-gop-election-defeat-after-spending-record-sums-on-party/": "2026-11-04",
   "https://www.premiumtimesng.com/regional/north-central/922638-kwara-lawyer-alleges-police-intimidation-after-accusing-tinubus-adc-of-land-grabbing.html": "2026-11-04",
-  "https://www.channelstv.com/2026/11/04/4000-newly-employed-public-servants-to-strengthen-aibom-civil-service-says-gov-eno/": "2026-11-04"
+  "https://www.channelstv.com/2026/11/04/4000-newly-employed-public-servants-to-strengthen-aibom-civil-service-says-gov-eno/": "2026-11-04",
+  "https://punchng.com/tinubu-seeks-senate-nod-for-7-7bn-borrowing/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.bbc.co.uk/news/articles/c699zdx9knmpo?at_medium=RSS&at_campaign=rss": "2026-11-04",
+  "https://punchng.com/atiku-arrives-sokoto-for-adc-presidential-campaign-flag-off/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/why-rwandas-army-basketball-team-was-removed-from-african-league-nba/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/2027-adc-inaugurates-63-member-campaign-team-in-cross-river/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.channelstv.com/2026/11/04/tinubu-seeks-senate-approval-for-7-7bn-external-borrowing/": "2026-11-04",
+  "https://www.bbc.co.uk/news/articles/c6y8lz73vmv7o?at_medium=RSS&at_campaign=rss": "2026-11-04",
+  "https://punchng.com/police-warn-political-thugs-against-destroying-campaign-posters-billboards/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/just-in-nassembly-to-transmit-state-police-bill-to-tinubu-today/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.vanguardngr.com/2026/11/dont-politicise-national-security-tms-warns-atiku-as-dss-probes-sokoto-protest/": "2026-11-04"
  },
  "published": [
   {
@@ -1161,6 +1171,14 @@
    "category": "Politics",
    "ts": "2026-11-04T11:26:13.191683+01:00",
    "ng": true
+  },
+  {
+   "id": "tinubu-asks-senate-approve-77bn-external",
+   "date": "2026-11-04",
+   "title": "Tinubu Asks Senate to Approve $7.7bn External Loan for 2026 Budget Deficit",
+   "category": "Business",
+   "ts": "2026-11-04T14:29:39.346266+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1370,6 +1388,12 @@
    "title": "Elon Musk Reacts With Joke After Huge US Election Spending Fails",
    "category": "Politics",
    "ts": "2026-11-04T11:26:13.191707+01:00"
+  },
+  {
+   "id": "tinubu-asks-senate-approve-77bn-external",
+   "title": "Tinubu Asks Senate to Approve $7.7bn External Loan for 2026 Budget Deficit",
+   "category": "Business",
+   "ts": "2026-11-04T14:29:39.346282+01:00"
   }
  ],
  "targets_available": [
