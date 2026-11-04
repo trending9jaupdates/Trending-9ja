@@ -1,13 +1,15 @@
 {
- "pending": [
-  {
-   "id": "state-police-bill-clears-assembly-threshold",
-   "title": "State Police Bill Clears Assembly Threshold as 28 States Approve",
-   "category": "Politics",
-   "ts": "2026-11-04T05:15:52.685895+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "state-police-bill-clears-assembly-threshold": [
+   "telegram",
+   "newsletter"
+  ],
+  "experts-urge-nigerian-farmers-adopt-soilbased": [
+   "telegram",
+   "newsletter"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -69,5 +71,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T06:21:01.784266+00:00"
+ "updated": "2026-11-04T07:21:24.864939+01:00"
 }

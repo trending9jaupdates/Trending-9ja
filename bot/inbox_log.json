@@ -226,5 +226,11 @@
   "ok": true,
   "message": "Approved 1 story for sharing to telegram",
   "at": "2026-11-04T07:20:54.217686+01:00"
+ },
+ {
+  "job": "mw1qajq0-share.json",
+  "ok": true,
+  "message": "Approved 2 stories for sharing to telegram, newsletter",
+  "at": "2026-11-04T07:21:24.864448+01:00"
  }
 ]
