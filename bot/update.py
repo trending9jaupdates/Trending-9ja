@@ -1405,6 +1405,9 @@ def apply_adsense():
 
 
 # --------------------------------------------------------------------------- newsletter signup box (Kit)
+# built in, so the box still appears if config.json is an older copy
+KIT_UID_DEFAULT = "2c98cd0619"
+KIT_SRC_DEFAULT = "https://trending9ja-com-ng.kit.com/2c98cd0619/index.js"
 SIGNUP_CSS = """
 /* ===== newsletter signup ===== */
 .signup-box{max-width:560px;margin:3rem auto 0;padding:1.4rem 1.2rem;background:#fff;border:2px solid #006640;border-radius:14px;text-align:center}
@@ -1420,8 +1423,8 @@ PRIVACY_NEWSLETTER = ("<h2>Email newsletter</h2><p>If you subscribe to our newsl
 
 def apply_newsletter():
     """Puts the Kit signup box above the footer of every page (and in the template for new stories)."""
-    uid = (CFG.get("kit_form_uid") or "").strip()
-    src = (CFG.get("kit_form_src") or "").strip()
+    uid = (CFG.get("kit_form_uid") or KIT_UID_DEFAULT).strip()
+    src = (CFG.get("kit_form_src") or KIT_SRC_DEFAULT).strip()
     if not uid or not src.startswith("https://"):
         return None
 
