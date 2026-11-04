@@ -546,7 +546,16 @@
   "https://www.vanguardngr.com/2026/11/5-things-to-know-about-nigerian-professor-dapo-akande-elected-icj-judge/": "2026-11-04",
   "https://dailypost.ng/2026/11/04/democrats-flip-texas-as-talarico-hinojosa-elected-senator-governor/": "2026-11-04",
   "https://www.premiumtimesng.com/news/top-news/922566-player-dies-several-injured-in-accident-involving-nigerian-football-team.html": "2026-11-04",
-  "https://www.channelstv.com/2026/11/04/fg-secured-2512-terrorism-convictions-in-nine-years-nsa/": "2026-11-04"
+  "https://www.channelstv.com/2026/11/04/fg-secured-2512-terrorism-convictions-in-nine-years-nsa/": "2026-11-04",
+  "https://punchng.com/west-ham-name-scott-parker-head-coach/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/6664-human-rights-complaints-pending-in-bauchi-nhrc/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/how-to-download-your-nin-slip-free-nimc/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/police-recover-car-stolen-from-kano-church-after-three-days/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/from-okwaraji-to-de-miguel-10-footballers-who-died-during-matches/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/us-midterms-democrat-talarico-flips-texas-senate-seat/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.vanguardngr.com/2026/11/elon-musk-jokes-about-gop-election-defeat-after-spending-record-sums-on-party/": "2026-11-04",
+  "https://www.premiumtimesng.com/regional/north-central/922638-kwara-lawyer-alleges-police-intimidation-after-accusing-tinubus-adc-of-land-grabbing.html": "2026-11-04",
+  "https://www.channelstv.com/2026/11/04/4000-newly-employed-public-servants-to-strengthen-aibom-civil-service-says-gov-eno/": "2026-11-04"
  },
  "published": [
   {
@@ -1136,6 +1145,22 @@
    "category": "Politics",
    "ts": "2026-11-04T08:40:55.686925+01:00",
    "ng": true
+  },
+  {
+   "id": "west-ham-appoint-former-captain-scott",
+   "date": "2026-11-04",
+   "title": "West Ham Appoint Former Captain Scott Parker as New Head Coach",
+   "category": "Sports",
+   "ts": "2026-11-04T11:25:31.484888+01:00",
+   "ng": false
+  },
+  {
+   "id": "elon-musk-reacts-with-joke-huge",
+   "date": "2026-11-04",
+   "title": "Elon Musk Reacts With Joke After Huge US Election Spending Fails",
+   "category": "Politics",
+   "ts": "2026-11-04T11:26:13.191683+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1220,7 +1245,8 @@
   "https://punchng.com/apc-primary-caution-your-aides-okorocha-tells-uzodimma/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://punchng.com/55000-inmates-awaiting-trial-in-nigeria-ppdc/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://punchng.com/police-raid-fake-dollar-factory-recover-three-bags-of-counterfeit-notes/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://punchng.com/democrat-abdul-el-sayed-becomes-first-muslim-elected-us-senator/?utm_source=rss.punchng.com&utm_medium=web": 1
+  "https://punchng.com/democrat-abdul-el-sayed-becomes-first-muslim-elected-us-senator/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://dailypost.ng/2026/11/04/shawa-fish-is-one-of-the-most-toxic-fishes-we-eat-tjay-raises-alarm/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1338,6 +1364,18 @@
    "title": "US Midterms: Democrats Win Texas Governor And Senate Races, Take Control Of Congress",
    "category": "Politics",
    "ts": "2026-11-04T08:40:55.686945+01:00"
+  },
+  {
+   "id": "west-ham-appoint-former-captain-scott",
+   "title": "West Ham Appoint Former Captain Scott Parker as New Head Coach",
+   "category": "Sports",
+   "ts": "2026-11-04T11:25:31.484913+01:00"
+  },
+  {
+   "id": "elon-musk-reacts-with-joke-huge",
+   "title": "Elon Musk Reacts With Joke After Huge US Election Spending Fails",
+   "category": "Politics",
+   "ts": "2026-11-04T11:26:13.191707+01:00"
   }
  ],
  "targets_available": [
