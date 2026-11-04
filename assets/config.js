@@ -63,7 +63,7 @@ var FEATURED = {
    action = the form URL from your email service (Mailchimp, Buttondown, Formspree, MailerLite, Brevo...).
    Leave action empty ('') and the sign-up boxes stay hidden. emailField = the name of the email input your service expects. */
 var NEWSLETTER_CONFIG = {
-  action: 'https://e4dcfbcb.sibforms.com/serve/MUIFAFrh-xASm519TZQOdEWBmR9MxERZfuVC3q4Uoi9q1WlVAp99LPmmz2Uda9Zm95TGWhjuphfdMH1696ItgL6jkRO5xBvLvNS_fhs2rPRX5xEOkXZpIdKYjdMxt2qZwkAyGq3fjofQRdp-a2KLCq4wQ_-QXZ8zQ4f6a2RH5gHOOjepzalfweO2GqLZJX9IbriTtRhe9zT8bQzv5w==',
+  action: '',
   emailField: 'EMAIL',
   hidden: { email_address_check: '', locale: 'en' },   // extra fields Brevo expects
   title: 'Get Trending9ja in your inbox',
