@@ -1,5 +1,18 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "nigerianborn-scholar-dapo-akande-elected-icj",
+   "title": "Nigerian-Born Scholar Dapo Akande Elected as ICJ Judge",
+   "category": "Politics",
+   "ts": "2026-11-04T08:39:42.744795+01:00"
+  },
+  {
+   "id": "us-midterms-democrats-win-texas-governor",
+   "title": "US Midterms: Democrats Win Texas Governor And Senate Races, Take Control Of Congress",
+   "category": "Politics",
+   "ts": "2026-11-04T08:40:55.686945+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -70,5 +83,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T06:21:32.480230+00:00"
+ "updated": "2026-11-04T08:43:02.852927+01:00"
 }

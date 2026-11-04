@@ -534,7 +534,19 @@
   "https://punchng.com/flamingos-face-brazil-test-for-historic-final-place/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
   "https://punchng.com/efcc-busts-chinese-linked-illegal-refinery-in-ogun/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
   "https://www.vanguardngr.com/2026/11/experts-seek-soil-based-fertiliser-recommendations-to-improve-yields/": "2026-11-04",
-  "https://dailypost.ng/2026/11/03/iranian-president-pezeshkian-speaks-on-possible-assassination-amid-fears-of-fresh-us-strikes/": "2026-11-04"
+  "https://dailypost.ng/2026/11/03/iranian-president-pezeshkian-speaks-on-possible-assassination-amid-fears-of-fresh-us-strikes/": "2026-11-04",
+  "https://punchng.com/trump-rejects-blame-for-republican-losses-says-candidates-failed-to-inspire-voters/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.vanguardngr.com/2026/11/yamal-breaks-mbappes-record-as-ucls-highest-scoring-teenager-see-top-5/": "2026-11-04",
+  "https://punchng.com/ucl-no-relief-just-pride-after-united-win-carrick/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/nigerian-trained-lawyer-dapo-akande-elected-icj-judge/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.vanguardngr.com/2026/11/trump-says-iran-war-played-role-in-us-midterms-defeat/": "2026-11-04",
+  "https://punchng.com/us-midterms-democrats-retake-house-gain-senate-seats/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/meet-dapo-akande-nigerian-trained-lawyer-elected-icj-judge/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.vanguardngr.com/2026/11/nigerian-trained-lawyer-akande-elected-icj-judge/": "2026-11-04",
+  "https://www.vanguardngr.com/2026/11/5-things-to-know-about-nigerian-professor-dapo-akande-elected-icj-judge/": "2026-11-04",
+  "https://dailypost.ng/2026/11/04/democrats-flip-texas-as-talarico-hinojosa-elected-senator-governor/": "2026-11-04",
+  "https://www.premiumtimesng.com/news/top-news/922566-player-dies-several-injured-in-accident-involving-nigerian-football-team.html": "2026-11-04",
+  "https://www.channelstv.com/2026/11/04/fg-secured-2512-terrorism-convictions-in-nine-years-nsa/": "2026-11-04"
  },
  "published": [
   {
@@ -1108,6 +1120,22 @@
    "category": "Business",
    "ts": "2026-11-04T05:16:47.557401+01:00",
    "ng": true
+  },
+  {
+   "id": "nigerianborn-scholar-dapo-akande-elected-icj",
+   "date": "2026-11-04",
+   "title": "Nigerian-Born Scholar Dapo Akande Elected as ICJ Judge",
+   "category": "Politics",
+   "ts": "2026-11-04T08:39:42.744773+01:00",
+   "ng": true
+  },
+  {
+   "id": "us-midterms-democrats-win-texas-governor",
+   "date": "2026-11-04",
+   "title": "US Midterms: Democrats Win Texas Governor And Senate Races, Take Control Of Congress",
+   "category": "Politics",
+   "ts": "2026-11-04T08:40:55.686925+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1191,7 +1219,8 @@
   "https://punchng.com/photos-police-uncover-lagos-indoor-cannabis-farm-arrest-two/?utm_source=rss.punchng.com&utm_medium=web": 2,
   "https://punchng.com/apc-primary-caution-your-aides-okorocha-tells-uzodimma/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://punchng.com/55000-inmates-awaiting-trial-in-nigeria-ppdc/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://punchng.com/police-raid-fake-dollar-factory-recover-three-bags-of-counterfeit-notes/?utm_source=rss.punchng.com&utm_medium=web": 1
+  "https://punchng.com/police-raid-fake-dollar-factory-recover-three-bags-of-counterfeit-notes/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://punchng.com/democrat-abdul-el-sayed-becomes-first-muslim-elected-us-senator/?utm_source=rss.punchng.com&utm_medium=web": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1297,7 +1326,20 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-04",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "nigerianborn-scholar-dapo-akande-elected-icj",
+   "title": "Nigerian-Born Scholar Dapo Akande Elected as ICJ Judge",
+   "category": "Politics",
+   "ts": "2026-11-04T08:39:42.744795+01:00"
+  },
+  {
+   "id": "us-midterms-democrats-win-texas-governor",
+   "title": "US Midterms: Democrats Win Texas Governor And Senate Races, Take Control Of Congress",
+   "category": "Politics",
+   "ts": "2026-11-04T08:40:55.686945+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
