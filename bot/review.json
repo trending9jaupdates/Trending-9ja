@@ -1,21 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "edo-signs-mou-with-chinese-firms": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "inec-promises-inclusive-2027-elections-persons",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "alnassr-thrash-pakhtakor-62-champions-league",
    "targets": [
@@ -84,7 +74,13 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "edo-signs-mou-with-chinese-firms",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-04T22:50:57.228315+01:00"
+ "updated": "2026-11-04T21:51:04.689220+00:00"
 }
