@@ -1329,19 +1329,15 @@
    "telegram": "2026-11-03T22:41:30.219707+00:00"
   },
   "experts-urge-nigerian-farmers-adopt-soilbased": {
-   "telegram": "2026-11-04T06:20:58.782565+00:00"
+   "telegram": "2026-11-04T06:20:58.782565+00:00",
+   "newsletter": "2026-11-04T06:21:32.478145+00:00"
+  },
+  "state-police-bill-clears-assembly-threshold": {
+   "telegram": "2026-11-04T06:21:28.232260+00:00",
+   "newsletter": "2026-11-04T06:21:32.478099+00:00"
   }
  },
- "approved_share": {
-  "state-police-bill-clears-assembly-threshold": [
-   "telegram",
-   "newsletter"
-  ],
-  "experts-urge-nigerian-farmers-adopt-soilbased": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved_share": {},
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [

@@ -1,15 +1,6 @@
 {
  "pending": [],
- "approved": {
-  "state-police-bill-clears-assembly-threshold": [
-   "telegram",
-   "newsletter"
-  ],
-  "experts-urge-nigerian-farmers-adopt-soilbased": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
@@ -67,9 +58,17 @@
   {
    "id": "experts-urge-nigerian-farmers-adopt-soilbased",
    "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "state-police-bill-clears-assembly-threshold",
+   "targets": [
+    "newsletter",
     "telegram"
    ]
   }
  ],
- "updated": "2026-11-04T07:21:24.864939+01:00"
+ "updated": "2026-11-04T06:21:32.480230+00:00"
 }

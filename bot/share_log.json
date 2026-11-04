@@ -68,5 +68,26 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-04T06:20:58.782589+00:00"
+ },
+ {
+  "id": "state-police-bill-clears-assembly-threshold",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-04T06:21:28.232282+00:00"
+ },
+ {
+  "id": "state-police-bill-clears-assembly-threshold",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-04T06:21:32.478120+00:00"
+ },
+ {
+  "id": "experts-urge-nigerian-farmers-adopt-soilbased",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-04T06:21:32.478151+00:00"
  }
 ]
