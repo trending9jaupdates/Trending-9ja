@@ -1,5 +1,12 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "edo-signs-mou-with-chinese-firms",
+   "title": "Edo Signs MoU With Chinese Firms To Launch Edo Air",
+   "category": "Business",
+   "ts": "2026-11-04T20:20:41.849787+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -82,5 +89,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T16:13:56.594535+00:00"
+ "updated": "2026-11-04T20:23:09.379824+01:00"
 }

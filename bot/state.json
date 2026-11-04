@@ -574,7 +574,20 @@
   "https://businessday.ng/sports/article/tennis-legend-rafael-nadal-set-to-join-real-madrid-board/": "2026-11-04",
   "https://punchng.com/full-list-top-10-champions-league-comebacks/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
   "https://dailypost.ng/2026/11/04/serie-a-chukwueze-undergoes-successful-surgery/": "2026-11-04",
-  "https://punchng.com/photos-peter-obi-arrives-criver-for-ndc-town-hall-meeting/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04"
+  "https://punchng.com/photos-peter-obi-arrives-criver-for-ndc-town-hall-meeting/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/edo-signs-deal-with-chinese-firm-to-establish-airline/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/2027-obi-vows-to-pursue-kidnappers-into-hideouts/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.vanguardngr.com/2026/11/obi-vows-to-pursue-kidnappers-into-their-hideouts/": "2026-11-04",
+  "https://punchng.com/2027-obasanjos-son-backs-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss": "2026-11-04",
+  "https://punchng.com/ondo-expands-private-waste-operators-to-51/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo?at_medium=RSS&at_campaign=rss": "2026-11-04",
+  "https://punchng.com/how-fg-selects-beneficiaries-for-n50000-relief/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://punchng.com/2027-inec-urges-nigerians-to-protect-electoral-integrity/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-04",
+  "https://www.vanguardngr.com/2026/11/trump-says-impeaching-him-would-destroy-democrats/": "2026-11-04",
+  "https://dailypost.ng/2026/11/04/fifa-u-17-womens-world-cup-japan-to-face-nigeria-or-brazil-in-final/": "2026-11-04",
+  "https://www.premiumtimesng.com/regional/nwest/922749-nigeria-back-from-brink-but-human-cost-of-reforms-must-be-addressed-sanusi.html": "2026-11-04",
+  "https://www.channelstv.com/2026/11/04/falana-tasks-lagos-legal-centre-with-preserving-nigerias-legal-history/": "2026-11-04"
  },
  "published": [
   {
@@ -1188,6 +1201,14 @@
    "category": "Business",
    "ts": "2026-11-04T14:29:39.346266+01:00",
    "ng": true
+  },
+  {
+   "id": "edo-signs-mou-with-chinese-firms",
+   "date": "2026-11-04",
+   "title": "Edo Signs MoU With Chinese Firms To Launch Edo Air",
+   "category": "Business",
+   "ts": "2026-11-04T20:20:41.849769+01:00",
+   "ng": true
   }
  ],
  "retries": {
@@ -1379,7 +1400,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-04",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "edo-signs-mou-with-chinese-firms",
+   "title": "Edo Signs MoU With Chinese Firms To Launch Edo Air",
+   "category": "Business",
+   "ts": "2026-11-04T20:20:41.849787+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
