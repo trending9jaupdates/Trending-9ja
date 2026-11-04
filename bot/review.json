@@ -1,31 +1,19 @@
 {
- "pending": [
-  {
-   "id": "nigerianborn-scholar-dapo-akande-elected-icj",
-   "title": "Nigerian-Born Scholar Dapo Akande Elected as ICJ Judge",
-   "category": "Politics",
-   "ts": "2026-11-04T08:39:42.744795+01:00"
-  },
-  {
-   "id": "west-ham-appoint-former-captain-scott",
-   "title": "West Ham Appoint Former Captain Scott Parker as New Head Coach",
-   "category": "Sports",
-   "ts": "2026-11-04T11:25:31.484913+01:00"
-  },
-  {
-   "id": "elon-musk-reacts-with-joke-huge",
-   "title": "Elon Musk Reacts With Joke After Huge US Election Spending Fails",
-   "category": "Politics",
-   "ts": "2026-11-04T11:26:13.191707+01:00"
-  },
-  {
-   "id": "tinubu-asks-senate-approve-77bn-external",
-   "title": "Tinubu Asks Senate to Approve $7.7bn External Loan for 2026 Budget Deficit",
-   "category": "Business",
-   "ts": "2026-11-04T14:29:39.346282+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "nigerianborn-scholar-dapo-akande-elected-icj": [
+   "telegram"
+  ],
+  "west-ham-appoint-former-captain-scott": [
+   "telegram"
+  ],
+  "elon-musk-reacts-with-joke-huge": [
+   "telegram"
+  ],
+  "tinubu-asks-senate-approve-77bn-external": [
+   "telegram"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -101,5 +89,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T13:40:02.701581+00:00"
+ "updated": "2026-11-04T14:48:04.359760+01:00"
 }
