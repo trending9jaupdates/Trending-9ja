@@ -250,5 +250,17 @@
   "ok": true,
   "message": "Picture changed (new picture): `nigerianborn-scholar-dapo-akande-elected-icj`",
   "at": "2026-11-04T11:46:40.556972+01:00"
+ },
+ {
+  "job": "mw1ztfpj-share.json",
+  "ok": true,
+  "message": "Approved 1 story for sharing to telegram",
+  "at": "2026-11-04T14:14:54.119463+01:00"
+ },
+ {
+  "job": "mw2526mz-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `west-ham-appoint-former-captain-scott`",
+  "at": "2026-11-04T14:14:54.150811+01:00"
  }
 ]
