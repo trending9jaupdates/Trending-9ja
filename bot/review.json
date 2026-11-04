@@ -1,13 +1,10 @@
 {
- "pending": [
-  {
-   "id": "edo-signs-mou-with-chinese-firms",
-   "title": "Edo Signs MoU With Chinese Firms To Launch Edo Air",
-   "category": "Business",
-   "ts": "2026-11-04T20:20:41.849787+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "edo-signs-mou-with-chinese-firms": [
+   "telegram"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -89,5 +86,5 @@
    ]
   }
  ],
- "updated": "2026-11-04T19:23:12.203154+00:00"
+ "updated": "2026-11-04T22:50:57.228315+01:00"
 }
