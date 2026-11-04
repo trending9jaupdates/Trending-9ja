@@ -19,11 +19,7 @@
    "ts": "2026-11-04T11:26:13.191707+01:00"
   }
  ],
- "approved": {
-  "us-midterms-democrats-win-texas-governor": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
@@ -91,7 +87,13 @@
     "newsletter",
     "telegram"
    ]
+  },
+  {
+   "id": "us-midterms-democrats-win-texas-governor",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-04T14:14:54.151498+01:00"
+ "updated": "2026-11-04T13:15:02.109049+00:00"
 }

@@ -1409,13 +1409,12 @@
   "state-police-bill-clears-assembly-threshold": {
    "telegram": "2026-11-04T06:21:28.232260+00:00",
    "newsletter": "2026-11-04T06:21:32.478099+00:00"
+  },
+  "us-midterms-democrats-win-texas-governor": {
+   "telegram": "2026-11-04T13:14:59.107033+00:00"
   }
  },
- "approved_share": {
-  "us-midterms-democrats-win-texas-governor": [
-   "telegram"
-  ]
- },
+ "approved_share": {},
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [

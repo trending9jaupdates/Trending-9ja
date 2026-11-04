@@ -89,5 +89,12 @@
   "ok": true,
   "message": "email scheduled",
   "at": "2026-11-04T06:21:32.478151+00:00"
+ },
+ {
+  "id": "us-midterms-democrats-win-texas-governor",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-04T13:14:59.107053+00:00"
  }
 ]
