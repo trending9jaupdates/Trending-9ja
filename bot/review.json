@@ -1,5 +1,24 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "ijesaland-panel-urges-residents-use-adr",
+   "title": "Ijesaland Panel Urges Residents To Use ADR For Land, Chieftaincy Disputes",
+   "category": "Politics",
+   "ts": "2026-11-05T20:16:56.298298+01:00"
+  },
+  {
+   "id": "tinubu-set-visit-akwa-ibom-rivers",
+   "title": "Tinubu Set to Visit Akwa Ibom and Rivers for Project Commissionings, APC Rallies",
+   "category": "Politics",
+   "ts": "2026-11-05T20:22:22.882332+01:00"
+  },
+  {
+   "id": "dubai-outlines-fee-steps-golden-visa",
+   "title": "Dubai Outlines Fee and Steps for Golden Visa Investors Sponsoring Parents",
+   "category": "Business",
+   "ts": "2026-11-05T20:23:31.495828+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -82,5 +101,5 @@
    ]
   }
  ],
- "updated": "2026-11-05T16:23:43.143034+00:00"
+ "updated": "2026-11-05T20:23:31.495866+01:00"
 }

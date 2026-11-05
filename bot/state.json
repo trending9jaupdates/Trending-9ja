@@ -644,7 +644,16 @@
   "https://www.vanguardngr.com/2026/11/putin-slams-political-moves-to-keep-russia-out-of-sport-events/": "2026-11-05",
   "https://punchng.com/our-culture-is-not-diabolical-rapper-olamide/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
   "https://www.channelstv.com/2026/11/05/raphinha-extends-barcelona-deal-by-two-years/": "2026-11-05",
-  "https://punchng.com/2027-abia-cp-issues-safety-guidelines-for-journalists/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05"
+  "https://punchng.com/2027-abia-cp-issues-safety-guidelines-for-journalists/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/panel-moves-to-tackle-land-grabbing-chieftaincy-disputes-in-osun/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/ogun-monarch-confers-chieftaincy-titles-on-adebutu-iyabo-obasanjo/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/paraguay-president-resigns-after-bank-takeover-sparks-protests/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/somalia-president-accused-of-ordering-chief-justices-arrest/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/fg-generated-n33tn-revenue-in-10-months-oyedele/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/2027-situation-room-decries-high-campaign-billboard-fees/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://www.premiumtimesng.com/news/top-news/923035-atiku-campaign-plans-to-stay-l-judgement-nullifying-his-ticket.html": "2026-11-05",
+  "https://www.channelstv.com/2026/11/05/tinubu-to-visit-akwa-ibom-rivers-for-project-inaugurations-apc-rallies/": "2026-11-05",
+  "https://www.legit.ng/people/1739798-dubai-publishes-cost-10-year-residence-permit-parents-golden-visa-investors/": "2026-11-05"
  },
  "published": [
   {
@@ -1243,6 +1252,33 @@
    "ts": "2026-11-05T14:34:15.737004+01:00",
    "ng": true,
    "src_title": "Wike defends high Abuja billboard rates, says ‘politics is expensive’"
+  },
+  {
+   "id": "ijesaland-panel-urges-residents-use-adr",
+   "date": "2026-11-05",
+   "title": "Ijesaland Panel Urges Residents To Use ADR For Land, Chieftaincy Disputes",
+   "category": "Politics",
+   "ts": "2026-11-05T20:16:56.298277+01:00",
+   "ng": true,
+   "src_title": "Panel moves to tackle land grabbing, chieftaincy disputes in Osun"
+  },
+  {
+   "id": "tinubu-set-visit-akwa-ibom-rivers",
+   "date": "2026-11-05",
+   "title": "Tinubu Set to Visit Akwa Ibom and Rivers for Project Commissionings, APC Rallies",
+   "category": "Politics",
+   "ts": "2026-11-05T20:22:22.882310+01:00",
+   "ng": true,
+   "src_title": "Tinubu To Visit Akwa Ibom, Rivers For Project Inaugurations, APC Rallies"
+  },
+  {
+   "id": "dubai-outlines-fee-steps-golden-visa",
+   "date": "2026-11-05",
+   "title": "Dubai Outlines Fee and Steps for Golden Visa Investors Sponsoring Parents",
+   "category": "Business",
+   "ts": "2026-11-05T20:23:31.495806+01:00",
+   "ng": true,
+   "src_title": "Dubai publishes fee and application steps for investors sponsoring parents for 10-year residence permit"
   }
  ],
  "retries": {
@@ -1331,7 +1367,9 @@
   "https://dailypost.ng/2026/11/04/shawa-fish-is-one-of-the-most-toxic-fishes-we-eat-tjay-raises-alarm/": 1,
   "https://punchng.com/video-late-wigwes-daughter-holds-traditional-wedding-in-lagos/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/breaking-court-sacks-mark-led-adc-exco-voids-atikus-candidacy/": 1,
-  "https://www.vanguardngr.com/2026/11/justice-well-served-keyamo-lauds-court-ruling-against-atiku-adc/": 1
+  "https://www.vanguardngr.com/2026/11/justice-well-served-keyamo-lauds-court-ruling-against-atiku-adc/": 1,
+  "https://www.vanguardngr.com/2026/11/hotel-accommodation-this-is-not-democracy-apc-should-allow-parties-to-campaign-without-hindrance-ndc/": 1,
+  "https://dailypost.ng/2026/11/05/adc-crisis-bala-gombe-reacts-as-court-sacks-david-mark-nullifies-atikus-emergence/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1437,7 +1475,26 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-05",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "ijesaland-panel-urges-residents-use-adr",
+   "title": "Ijesaland Panel Urges Residents To Use ADR For Land, Chieftaincy Disputes",
+   "category": "Politics",
+   "ts": "2026-11-05T20:16:56.298298+01:00"
+  },
+  {
+   "id": "tinubu-set-visit-akwa-ibom-rivers",
+   "title": "Tinubu Set to Visit Akwa Ibom and Rivers for Project Commissionings, APC Rallies",
+   "category": "Politics",
+   "ts": "2026-11-05T20:22:22.882332+01:00"
+  },
+  {
+   "id": "dubai-outlines-fee-steps-golden-visa",
+   "title": "Dubai Outlines Fee and Steps for Golden Visa Investors Sponsoring Parents",
+   "category": "Business",
+   "ts": "2026-11-05T20:23:31.495828+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
