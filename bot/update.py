@@ -1388,6 +1388,12 @@ def apply_adsense():
         t = read(p)
         if "<head>" not in t:
             continue
+        if 'name="robots" content="noindex' in t:      # private pages (e.g. Studio) get no ad code
+            t3 = _AD_SCRIPT.sub("", _AD_META.sub("", t))
+            if t3 != t:
+                write(p, t3)
+                changed += 1
+            continue
         if f'content="{client}"' in t and f"client={client}\"" in t:
             continue
         t2 = _AD_META.sub("", t)
@@ -1439,7 +1445,7 @@ def apply_newsletter():
         if not p.exists():
             continue
         t = read(p)
-        if "<footer>" not in t:
+        if "<footer>" not in t or 'name="robots" content="noindex' in t:
             continue
         if f'data-uid="{uid}"' in t and f'src="{src}"' in t:
             continue
@@ -1465,6 +1471,253 @@ def apply_newsletter():
         write(pv, read(pv).replace("<h2>Your rights</h2>", PRIVACY_NEWSLETTER + "<h2>Your rights</h2>", 1))
         changed += 1
     return changed
+
+
+
+# --------------------------------------------------------------------------- keeping the whole site consistent
+_CARD_BLOCK = re.compile(r'<article class="post-card" data-date="([^"]+)">(?:(?!</article>).)*?</article>', re.S)
+SOCIAL_NAMES = [("x.com", "X"), ("twitter.com", "X"), ("instagram.com", "Instagram"), ("facebook.com", "Facebook"),
+                ("tiktok.com", "TikTok"), ("youtube.com", "YouTube"), ("t.me", "Telegram")]
+
+
+def _page_meta(sid):
+    t = read(ROOT / "news" / f"{sid}.html")
+    h1 = re.search(r"<h1>(.*?)</h1>", t, re.S)
+    cat = re.search(r'class="category-tag">([^<]+)', t)
+    day = re.search(r'article-layout" data-date="([^"]+)"', t)
+    if not (h1 and cat and day):
+        return None, t
+    d = re.search(r'<meta name="description" content="([^"]*)"', t)
+    r = re.search(r'class="region-chip">([^<]+)', t)
+    return {"id": sid, "title": html.unescape(re.sub(r"<[^>]+>", "", h1.group(1))).strip(),
+            "summary": html.unescape(d.group(1)) if d else "", "category": cat.group(1),
+            "region": r.group(1) if r else None, "date": day.group(1)}, t
+
+
+def _ensure_picture(meta, t):
+    """Every story gets assets/img/<id>.jpg (copy of its own picture, or a headline card)."""
+    sid, target = meta["id"], ROOT / "assets" / "img" / f"{meta['id']}.jpg"
+    m = re.search(r'<p class="meta">(?:(?!</p>).)*</p>\s*<img\b[^>]*?\bsrc="([^"]+)"', t, re.S)
+    if target.exists():
+        return
+    if m and not m.group(1).startswith("http"):
+        src = (ROOT / "news" / m.group(1)).resolve()
+        if src.exists():
+            target.write_bytes(src.read_bytes())
+            return
+    make_card(meta["title"], meta["category"], target)
+    if not m:  # the story page had no picture at all: give it the card
+        page = ROOT / "news" / f"{sid}.html"
+        t2 = re.sub(r'(<p class="meta">(?:(?!</p>).)*</p>\s*)', lambda mm: mm.group(1) + img_tag("../", sid, meta["title"]) + "\n",
+                    t, count=1, flags=re.S)
+        if t2 != t:
+            write(page, t2)
+
+
+def _insert_sorted(path, meta, today):
+    t = read(path)
+    cards = list(_CARD_BLOCK.finditer(t))
+    pos = next((m.start() for m in cards if m.group(1) < meta["date"]), None)
+    if pos is None:
+        if cards:
+            pos = cards[-1].end()
+        else:
+            i = t.find('<div class="posts-grid">')
+            if i < 0:
+                return False
+            pos = i + len('<div class="posts-grid">')
+    write(path, t[:pos] + card_html(meta, today) + t[pos:])
+    return True
+
+
+def reconcile_listings(today):
+    """Stories that exist but are missing from the archive / category / region lists get their cards."""
+    added = []
+    for page in sorted((ROOT / "news").glob("*.html")):
+        meta, t = _page_meta(page.stem)
+        if not meta or meta["category"] not in CATS:
+            continue
+        targets = ["archive.html", CATS[meta["category"]]]
+        if meta["category"] == "Politics" and meta["region"] in REGION_PAGES:
+            targets.append(REGION_PAGES[meta["region"]])
+        todo = [x for x in targets if (ROOT / x).exists() and f"news/{page.stem}.html" not in read(ROOT / x)]
+        if not todo:
+            continue
+        _ensure_picture(meta, t)
+        for x in todo:
+            _insert_sorted(ROOT / x, meta, today)
+        added.append(page.stem)
+    return added
+
+
+def remove_dead_links_in_news():
+    """Related-story boxes and 'Latest' lists inside story pages must not point at deleted stories."""
+    existing = {p.stem for p in (ROOT / "news").glob("*.html")}
+    li = re.compile(r'<li><a href="(?:\.\./)?news/([^"]+)\.html">.*?</li>', re.S)
+    n = 0
+    for p in (ROOT / "news").glob("*.html"):
+        t = read(p)
+
+        def drop(m):
+            href = re.search(r'href="(?:\.\./)?news/([^"]+)\.html"', m.group(0))
+            return "" if href and href.group(1) not in existing else m.group(0)
+        t2 = _CARD_BLOCK.sub(drop, t)
+        t2 = li.sub(lambda m: "" if m.group(1) not in existing else m.group(0), t2)
+        if t2 != t:
+            write(p, t2)
+            n += 1
+    return n
+
+
+def sync_counts():
+    """Story counts come from what is really on each list, so they can never drift."""
+    def cards(p):
+        return len(_CARD_BLOCK.findall(read(ROOT / p)))
+    for pg in ["archive.html"] + list(CATS.values()) + list(REGION_PAGES.values()):
+        if (ROOT / pg).exists():
+            t = read(ROOT / pg)
+            t2 = re.sub(r"\(\d+ stories\)", f"({cards(pg)} stories)", t, count=1)
+            if t2 != t:
+                write(ROOT / pg, t2)
+    idx = ROOT / "index.html"
+    t = read(idx)
+    for cat, pg in CATS.items():
+        if (ROOT / pg).exists():
+            t = re.sub(r"(<h3>" + re.escape(cat) + r"</h3><small>)\d+( stories</small>)", lambda m: m.group(1) + str(cards(pg)) + m.group(2), t)
+    write(idx, t)
+    sync_topic_counts()
+
+
+def sync_sitemap():
+    sm = ROOT / "sitemap.xml"
+    if not sm.exists():
+        return 0
+    t = read(sm)
+    m = re.search(r"<loc>(https?://[^/<]+)", t)
+    base = m.group(1) if m else CFG["canonical_base"]
+    first = t.find("<url>")
+    if first < 0:
+        return 0
+    keep, have = [], set()
+    for u in re.findall(r"<url>.*?</url>", t, re.S):
+        loc = re.search(r"<loc>([^<]*)</loc>", u).group(1)
+        f = loc[len(base):].lstrip("/") or "index.html"
+        if (ROOT / f).exists() and f != "football.html":
+            keep.append(u)
+            have.add(f)
+    wanted = []
+    for p in sorted(ROOT.glob("*.html")) + sorted((ROOT / "news").glob("*.html")):
+        f = p.relative_to(ROOT).as_posix()
+        head = read(p)[:3000]
+        if f == "football.html" or 'name="robots" content="noindex' in head:
+            continue
+        wanted.append(f)
+    added = 0
+    for f in wanted:
+        if f not in have:
+            keep.append(f"<url><loc>{base}/{'' if f == 'index.html' else f}</loc></url>")
+            added += 1
+    new = t[:first] + "".join(keep) + "</urlset>\n"
+    removed = len(re.findall(r"<url>", t)) - (len(keep) - added)
+    if new != t:
+        write(sm, new)
+    return added + max(0, removed)
+
+
+def remove_orphan_images():
+    corpus = []
+    for pat in ("*.html", "news/*.html", "assets/*.js", "assets/*.css", "bot/story_template.html"):
+        for p in ROOT.glob(pat):
+            corpus.append(read(p))
+    blob = "\n".join(corpus)
+    img_dir = ROOT / "assets" / "img"
+    dead = [f for f in img_dir.glob("*") if f.is_file() and f.name not in blob]
+    if len(dead) > 60:   # something is off: do not delete blindly
+        log("!! too many unused pictures to delete safely:", len(dead))
+        return 0
+    for f in dead:
+        f.unlink()
+    return len(dead)
+
+
+def clean_strays():
+    n = 0
+    if INBOX.exists():
+        for f in INBOX.iterdir():
+            if f.is_file() and f.suffix != ".json":
+                f.unlink()
+                n += 1
+    return n
+
+
+def remove_configured_stories(state, today):
+    ids = CFG.get("remove_story_ids") or []
+    done = []
+    for sid in ids:
+        sid = str(sid).strip().replace("https://trending9ja.com.ng/news/", "").replace(".html", "")
+        if (ROOT / "news" / f"{sid}.html").exists():
+            try:
+                job_delete({"id": sid}, state, today)
+                done.append(sid)
+            except Exception as e:
+                log("   could not remove", sid, e)
+    if ids:
+        cp = BOT / "config.json"
+        data = json.load(open(cp, encoding="utf-8"))
+        data["remove_story_ids"] = []
+        write(cp, json.dumps(data, indent=2, ensure_ascii=False))
+    return done
+
+
+def apply_content_fixes(state, today):
+    """Placeholder text and out-of-date wording on the About, Contact, Terms and Privacy pages."""
+    notes = []
+    c = ROOT / "contact.html"
+    if c.exists():
+        t = read(c)
+        email = (CFG.get("contact_email") or "").strip()
+        if "[YOUR CONTACT EMAIL HERE]" in t:
+            if re.match(r"^[^@\s]+@[^@\s]+\.[^@\s]+$", email):
+                t = t.replace("<strong>[YOUR CONTACT EMAIL HERE]</strong>",
+                              f'<strong><a href="mailto:{email}">{email}</a></strong>')
+            else:
+                notes.append('The Contact page still shows a placeholder for your email. Add "contact_email" to bot/config.json.')
+        if re.search(r"<p>\[Add your X[^\]]*\]</p>", t):
+            foot = read(ROOT / "index.html")
+            foot = foot[foot.find("<footer>"):]
+            links, seen = [], set()
+            for u in re.findall(r'href="(https?://[^"]+)"', foot):
+                for dom, name in SOCIAL_NAMES:
+                    if re.search(r"(^|//|\.)" + re.escape(dom) + r"/", u) and name not in seen:
+                        seen.add(name)
+                        links.append(f'<a href="{u}" target="_blank" rel="noopener">{name}</a>')
+            if links:
+                t = re.sub(r"<p>\[Add your X[^\]]*\]</p>", lambda m: "<p>" + " &middot; ".join(links) + "</p>", t, count=1)
+        write(c, t)
+    changed = False
+    tp = ROOT / "terms.html"
+    if tp.exists():
+        t = read(tp)
+        t2 = t.replace(", including Google AdSense ads and promotions for the Entrepreneur Support Network", ", including Google AdSense ads")
+        if t2 != t:
+            write(tp, t2)
+            changed = True
+    ab = ROOT / "about.html"
+    if ab.exists():
+        t = read(ab)
+        t2 = t.replace("covering politics, football, music, movies, health, tech/AI",
+                       "covering politics, business, sports, entertainment, music, movies, health, tech/AI")
+        if t2 != t:
+            write(ab, t2)
+    if changed or not state.get("policy_dates_v1"):
+        stamp = f"Last updated: {today.day} {today.strftime('%B %Y')}"
+        for pg in ("terms.html", "privacy.html"):
+            p = ROOT / pg
+            if p.exists():
+                t = read(p)
+                write(p, re.sub(r"Last updated: [0-9]{1,2} [A-Za-z]+ [0-9]{4}", stamp, t, count=1))
+        state["policy_dates_v1"] = True
+    return notes
 
 
 # --------------------------------------------------------------------------- drafts, gist, summary
@@ -1507,9 +1760,12 @@ def step_summary(lines):
 
 
 # --------------------------------------------------------------------------- main
-def existing_titles():
+def existing_titles(state=None):
     t = read(ROOT / "archive.html") if (ROOT / "archive.html").exists() else ""
-    return [html.unescape(x) for x in re.findall(r'aria-label="([^"]+)"', t)]
+    out = [html.unescape(x) for x in re.findall(r'aria-label="([^"]+)"', t)]
+    if state:
+        out += [p["src_title"] for p in state.get("published", []) if p.get("src_title")]
+    return out
 
 
 def main(argv=None):
@@ -1578,7 +1834,7 @@ def main(argv=None):
         summary.append(f"- Daily limit of {CFG['max_per_day']} reached - no new stories this run.")
     else:
         log("Reading feeds ...")
-        cands = collect_candidates(existing_titles(), state, datetime.datetime.now(datetime.timezone.utc))
+        cands = collect_candidates(existing_titles(state), state, datetime.datetime.now(datetime.timezone.utc))
         log(f"{len(cands)} candidate stories after de-duplication")
         made, tried, fails = 0, 0, 0
         for it in cands:
@@ -1652,7 +1908,7 @@ def main(argv=None):
             if not a.dry_run:
                 publish(s, today)
                 state["published"].append({"id": s["id"], "date": s["date"], "title": s["title"], "category": s["category"], "ts": tz_now().isoformat(),
-                                        "ng": s.get("ng", True)})
+                                        "ng": s.get("ng", True), "src_title": it["title"]})
                 queue_share(state, s["id"], s["title"], s["category"])
             published_now.append(s)
             made += 1
@@ -1663,12 +1919,32 @@ def main(argv=None):
         cutoff = (tz_now() - datetime.timedelta(days=CFG.get("pending_days", 7))).isoformat()
         state["pending_share"] = [p for p in state.get("pending_share", []) if p.get("ts", cutoff) >= cutoff]
         write_review(state)
+        gone = remove_configured_stories(state, today)
+        if gone:
+            summary.append(f"- Removed the stories you listed: {', '.join(gone)}")
         cleaned = remove_orphan_cards(state)
         if cleaned:
             summary.append(f"- Removed leftover cards of deleted stories: {', '.join(cleaned)}")
         if fix_business_nav():
             summary.append("- Added the Business menu link to pages that were missing it.")
-        sync_topic_counts()
+        added_cards = reconcile_listings(today)
+        if added_cards:
+            summary.append(f"- Added {len(added_cards)} stories that were missing from the archive/category lists: " + ", ".join(added_cards[:10]))
+        dead = remove_dead_links_in_news()
+        if dead:
+            summary.append(f"- Removed links to deleted stories from {dead} story pages.")
+        sync_counts()
+        sm_changed = sync_sitemap()
+        if sm_changed:
+            summary.append(f"- Sitemap brought up to date ({sm_changed} changes).")
+        for note in apply_content_fixes(state, today):
+            summary.append("- " + note)
+        dead_img = remove_orphan_images()
+        if dead_img:
+            summary.append(f"- Removed {dead_img} unused pictures (left behind by deleted stories).")
+        stray = clean_strays()
+        if stray:
+            summary.append(f"- Removed {stray} stray file(s) from bot/inbox.")
         nl_changed = apply_newsletter()
         if nl_changed:
             summary.append(f"- Newsletter signup box added or updated on {nl_changed} files.")
