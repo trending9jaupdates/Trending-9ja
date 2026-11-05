@@ -653,7 +653,18 @@
   "https://punchng.com/2027-situation-room-decries-high-campaign-billboard-fees/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
   "https://www.premiumtimesng.com/news/top-news/923035-atiku-campaign-plans-to-stay-l-judgement-nullifying-his-ticket.html": "2026-11-05",
   "https://www.channelstv.com/2026/11/05/tinubu-to-visit-akwa-ibom-rivers-for-project-inaugurations-apc-rallies/": "2026-11-05",
-  "https://www.legit.ng/people/1739798-dubai-publishes-cost-10-year-residence-permit-parents-golden-visa-investors/": "2026-11-05"
+  "https://www.legit.ng/people/1739798-dubai-publishes-cost-10-year-residence-permit-parents-golden-visa-investors/": "2026-11-05",
+  "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss": "2026-11-05",
+  "https://punchng.com/abuja-kaduna-highway-safer-under-tinubu-dogara/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/europa-league-bournemouth-stay-perfect-milan-lose-again/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://www.channelstv.com/2026/11/05/bournemouth-stay-perfect-in-europa-league-as-milan-lose-again/": "2026-11-05",
+  "https://punchng.com/melania-trump-seeks-lasting-ukraine-ceasefire/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://www.channelstv.com/2026/11/05/court-admits-fg-evidence-against-six-alleged-coup-plotters-rejects-coercion-claims/": "2026-11-05",
+  "https://punchng.com/mosop-womens-group-hail-hyprep-on-ogoni-clean-up-progress/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/peter-obi-offers-no-alternative-to-tinubu-oshiomhole/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://dailypost.ng/2026/11/05/emergency-patients-fix-hospitals-before-punishing-health-workers-nma-tells-nass-2/": "2026-11-05",
+  "https://www.premiumtimesng.com/regional/south-south-regional/923058-tinubu-to-embark-on-two-day-official-visit-to-akwa-ibom-rivers.html": "2026-11-05",
+  "https://www.channelstv.com/2026/11/05/2027-peter-obi-has-not-offered-any-alternative-oshiomhole/": "2026-11-05"
  },
  "published": [
   {
@@ -1279,6 +1290,15 @@
    "ts": "2026-11-05T20:23:31.495806+01:00",
    "ng": true,
    "src_title": "Dubai publishes fee and application steps for investors sponsoring parents for 10-year residence permit"
+  },
+  {
+   "id": "nma-rejects-bill-seeking-jail-doctors",
+   "date": "2026-11-05",
+   "title": "NMA Rejects Bill Seeking To Jail Doctors Over Emergency Patients",
+   "category": "Health",
+   "ts": "2026-11-05T23:08:19.932394+01:00",
+   "ng": true,
+   "src_title": "Emergency patients: Fix hospitals before punishing health workers - NMA tells NASS"
   }
  ],
  "retries": {
@@ -1369,7 +1389,9 @@
   "https://www.vanguardngr.com/2026/11/breaking-court-sacks-mark-led-adc-exco-voids-atikus-candidacy/": 1,
   "https://www.vanguardngr.com/2026/11/justice-well-served-keyamo-lauds-court-ruling-against-atiku-adc/": 1,
   "https://www.vanguardngr.com/2026/11/hotel-accommodation-this-is-not-democracy-apc-should-allow-parties-to-campaign-without-hindrance-ndc/": 1,
-  "https://dailypost.ng/2026/11/05/adc-crisis-bala-gombe-reacts-as-court-sacks-david-mark-nullifies-atikus-emergence/": 1
+  "https://dailypost.ng/2026/11/05/adc-crisis-bala-gombe-reacts-as-court-sacks-david-mark-nullifies-atikus-emergence/": 1,
+  "https://punchng.com/toyin-abraham-threatens-legal-action-over-defamatory-posts/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://www.vanguardngr.com/2026/11/traders-attack-edo-consumer-protection-committee-members-over-fake-products/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1493,6 +1515,12 @@
    "title": "Dubai Outlines Fee and Steps for Golden Visa Investors Sponsoring Parents",
    "category": "Business",
    "ts": "2026-11-05T20:23:31.495828+01:00"
+  },
+  {
+   "id": "nma-rejects-bill-seeking-jail-doctors",
+   "title": "NMA Rejects Bill Seeking To Jail Doctors Over Emergency Patients",
+   "category": "Health",
+   "ts": "2026-11-05T23:08:19.932411+01:00"
   }
  ],
  "targets_available": [
