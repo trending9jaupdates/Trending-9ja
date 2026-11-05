@@ -1,13 +1,10 @@
 {
- "pending": [
-  {
-   "id": "wike-defends-high-abuja-billboard-rates",
-   "title": "Wike Defends High Abuja Billboard Rates Ahead of 2027 Elections",
-   "category": "Politics",
-   "ts": "2026-11-05T14:34:15.737028+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "wike-defends-high-abuja-billboard-rates": [
+   "telegram"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -89,5 +86,5 @@
    ]
   }
  ],
- "updated": "2026-11-05T13:53:58.855846+00:00"
+ "updated": "2026-11-05T16:08:54.870649+01:00"
 }

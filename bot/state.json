@@ -1428,14 +1428,7 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-05",
- "pending_share": [
-  {
-   "id": "wike-defends-high-abuja-billboard-rates",
-   "title": "Wike Defends High Abuja Billboard Rates Ahead of 2027 Elections",
-   "category": "Politics",
-   "ts": "2026-11-05T14:34:15.737028+01:00"
-  }
- ],
+ "pending_share": [],
  "targets_available": [
   "telegram",
   "newsletter"
@@ -1493,7 +1486,11 @@
    "telegram": "2026-11-04T21:51:01.687449+00:00"
   }
  },
- "approved_share": {},
+ "approved_share": {
+  "wike-defends-high-abuja-billboard-rates": [
+   "telegram"
+  ]
+ },
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [
