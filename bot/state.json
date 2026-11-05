@@ -591,7 +591,14 @@
   "https://punchng.com/2027-obasanjos-son-backs-tinubus-re-election-2/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
   "https://punchng.com/state-police-six-assemblies-face-nov-15-approval-deadline/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
   "https://punchng.com/nnpcs-federation-account-remittance-hits-n11-41tn/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
-  "https://punchng.com/usor-suffers-injury-scare-after-ucl-assist/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05"
+  "https://punchng.com/usor-suffers-injury-scare-after-ucl-assist/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/karimi-vows-appeal-after-court-voids-kogi-west-nomination/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/marwa-seeks-monarchs-support-to-curb-drug-abuse/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/fintech-firms-lose-420bn-as-investor-confidence-weakens/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://www.vanguardngr.com/2026/11/fg-records-n4-69trn-fiscal-deficit-in-q126-as-revenue-falls/": "2026-11-05",
+  "https://punchng.com/naccima-urges-chinese-to-expand-nigerian-investments/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/court-order-backs-inec-over-kano-ndc-candidates-omission/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/2027-apc-taking-nigeria-backwards-utomi-tells-voters/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05"
  },
  "published": [
   {
@@ -964,14 +971,6 @@
    "title": "Sanwo-Olu Models Outfit on Runway at Lagos Fashion Week",
    "category": "Entertainment",
    "ts": "2026-11-01T11:03:43.164735+01:00",
-   "ng": true
-  },
-  {
-   "id": "2027-polls-yari-expresses-confidence-tinubus",
-   "date": "2026-11-01",
-   "title": "2027 Polls: Yari Expresses Confidence In Tinubu's Victory",
-   "category": "Politics",
-   "ts": "2026-11-01T11:06:24.871608+01:00",
    "ng": true
   },
   {
@@ -1458,5 +1457,6 @@
   "elon-musk-reacts-with-joke-huge",
   "tinubu-asks-senate-approve-77bn-external",
   "edo-signs-mou-with-chinese-firms"
- ]
+ ],
+ "policy_dates_v1": true
 }
