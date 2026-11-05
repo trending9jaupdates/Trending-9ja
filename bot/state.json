@@ -621,7 +621,21 @@
   "https://punchng.com/2027-keyamo-faults-opposition-over-rig-and-die-claim/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
   "https://punchng.com/full-list-njc-suspends-three-judges-sanctions-eight-others/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
   "https://punchng.com/how-ndlea-foiled-robbery-attempt-on-kaduna-zaria-highway-official/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
-  "https://dailypost.ng/2026/11/05/lagos-dispatch-rider-killed-in-trailer-crash-along-ogunnusi-road/": "2026-11-05"
+  "https://dailypost.ng/2026/11/05/lagos-dispatch-rider-killed-in-trailer-crash-along-ogunnusi-road/": "2026-11-05",
+  "https://punchng.com/wike-defends-high-abuja-billboard-rates-says-politics-is-expensive/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://www.bbc.co.uk/sport/football/articles/c6n8dmm49dnmo?at_medium=RSS&at_campaign=rss": "2026-11-05",
+  "https://punchng.com/atiku-vows-to-appeal-judgment-nullifying-mark-led-adc-leadership/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss": "2026-11-05",
+  "https://punchng.com/raphinha-extends-barcelona-deal-by-two-years/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://www.vanguardngr.com/2026/11/cristiano-ronaldos-five-great-moments-with-portugal/": "2026-11-05",
+  "https://www.vanguardngr.com/2026/11/breaking-ronaldo-retires-from-international-football/": "2026-11-05",
+  "https://punchng.com/full-text-ronaldos-retirement-letter-to-portugal-fans/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://punchng.com/adc-rejects-ruling-nullifying-atikus-candidacy-vows-appeal/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://www.channelstv.com/2026/11/05/politics-is-expensive-all-over-the-world-wike-defends-high-billboard-prices-in-abuja/": "2026-11-05",
+  "https://nairametrics.com/2026/11/05/how-moniepoint-customers-can-check-eligibility-for-fgs-n50000-relief-support/": "2026-11-05",
+  "https://punchng.com/guinness-world-records-hails-ronaldo-after-portugal-retirement/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-05",
+  "https://dailypost.ng/2026/11/05/zlatan-davita-hold-white-wedding-in-morocco-video/": "2026-11-05",
+  "https://www.premiumtimesng.com/news/headlines/922961-adc-rejects-judgement-sacking-mark-atiku-blames-apc.html": "2026-11-05"
  },
  "published": [
   {
@@ -1211,6 +1225,15 @@
    "category": "Business",
    "ts": "2026-11-04T20:20:41.849769+01:00",
    "ng": true
+  },
+  {
+   "id": "wike-defends-high-abuja-billboard-rates",
+   "date": "2026-11-05",
+   "title": "Wike Defends High Abuja Billboard Rates Ahead of 2027 Elections",
+   "category": "Politics",
+   "ts": "2026-11-05T14:34:15.737004+01:00",
+   "ng": true,
+   "src_title": "Wike defends high Abuja billboard rates, says ‘politics is expensive’"
   }
  ],
  "retries": {
@@ -1298,7 +1321,8 @@
   "https://punchng.com/democrat-abdul-el-sayed-becomes-first-muslim-elected-us-senator/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://dailypost.ng/2026/11/04/shawa-fish-is-one-of-the-most-toxic-fishes-we-eat-tjay-raises-alarm/": 1,
   "https://punchng.com/video-late-wigwes-daughter-holds-traditional-wedding-in-lagos/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://www.vanguardngr.com/2026/11/breaking-court-sacks-mark-led-adc-exco-voids-atikus-candidacy/": 1
+  "https://www.vanguardngr.com/2026/11/breaking-court-sacks-mark-led-adc-exco-voids-atikus-candidacy/": 1,
+  "https://www.vanguardngr.com/2026/11/justice-well-served-keyamo-lauds-court-ruling-against-atiku-adc/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1404,7 +1428,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-05",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "wike-defends-high-abuja-billboard-rates",
+   "title": "Wike Defends High Abuja Billboard Rates Ahead of 2027 Elections",
+   "category": "Politics",
+   "ts": "2026-11-05T14:34:15.737028+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
