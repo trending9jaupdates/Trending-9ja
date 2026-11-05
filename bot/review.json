@@ -1,21 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "wike-defends-high-abuja-billboard-rates": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "alnassr-thrash-pakhtakor-62-champions-league",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "nigeria-france-target-higher-energy-investments",
    "targets": [
@@ -84,7 +74,13 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "wike-defends-high-abuja-billboard-rates",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-05T16:08:54.870649+01:00"
+ "updated": "2026-11-05T15:09:03.979906+00:00"
 }
