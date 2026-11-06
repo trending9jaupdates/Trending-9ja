@@ -1548,18 +1548,17 @@
   },
   "nma-rejects-bill-seeking-jail-doctors": {
    "telegram": "2026-11-06T05:06:01.102538+00:00"
+  },
+  "democrats-sweep-2026-us-midterms-historic": {
+   "telegram": "2026-11-06T11:32:56.664350+00:00",
+   "newsletter": "2026-11-06T11:33:20.752639+00:00"
+  },
+  "2026-projected-be-secondhottest-year-record": {
+   "telegram": "2026-11-06T11:33:17.091681+00:00",
+   "newsletter": "2026-11-06T11:33:20.752683+00:00"
   }
  },
- "approved_share": {
-  "democrats-sweep-2026-us-midterms-historic": [
-   "telegram",
-   "newsletter"
-  ],
-  "2026-projected-be-secondhottest-year-record": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved_share": {},
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [

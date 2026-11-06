@@ -166,5 +166,33 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-06T05:06:01.102554+00:00"
+ },
+ {
+  "id": "democrats-sweep-2026-us-midterms-historic",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T11:32:56.664373+00:00"
+ },
+ {
+  "id": "2026-projected-be-secondhottest-year-record",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T11:33:17.091695+00:00"
+ },
+ {
+  "id": "democrats-sweep-2026-us-midterms-historic",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-06T11:33:20.752658+00:00"
+ },
+ {
+  "id": "2026-projected-be-secondhottest-year-record",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-06T11:33:20.752688+00:00"
  }
 ]

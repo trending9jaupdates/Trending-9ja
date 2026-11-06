@@ -1,33 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "democrats-sweep-2026-us-midterms-historic": [
-   "telegram",
-   "newsletter"
-  ],
-  "2026-projected-be-secondhottest-year-record": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "state-police-bill-clears-assembly-threshold",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
-  {
-   "id": "us-midterms-democrats-win-texas-governor",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "nigerianborn-scholar-dapo-akande-elected-icj",
    "targets": [
@@ -87,7 +65,21 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "democrats-sweep-2026-us-midterms-historic",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "2026-projected-be-secondhottest-year-record",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-06T12:32:52.089603+01:00"
+ "updated": "2026-11-06T11:33:20.755278+00:00"
 }
