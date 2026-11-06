@@ -1433,32 +1433,7 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-06",
- "pending_share": [
-  {
-   "id": "ijesaland-panel-urges-residents-use-adr",
-   "title": "Ijesaland Panel Urges Residents To Use ADR For Land, Chieftaincy Disputes",
-   "category": "Politics",
-   "ts": "2026-11-05T20:16:56.298298+01:00"
-  },
-  {
-   "id": "tinubu-set-visit-akwa-ibom-rivers",
-   "title": "Tinubu Set to Visit Akwa Ibom and Rivers for Project Commissionings, APC Rallies",
-   "category": "Politics",
-   "ts": "2026-11-05T20:22:22.882332+01:00"
-  },
-  {
-   "id": "dubai-outlines-fee-steps-golden-visa",
-   "title": "Dubai Outlines Fee and Steps for Golden Visa Investors Sponsoring Parents",
-   "category": "Business",
-   "ts": "2026-11-05T20:23:31.495828+01:00"
-  },
-  {
-   "id": "nma-rejects-bill-seeking-jail-doctors",
-   "title": "NMA Rejects Bill Seeking To Jail Doctors Over Emergency Patients",
-   "category": "Health",
-   "ts": "2026-11-05T23:08:19.932411+01:00"
-  }
- ],
+ "pending_share": [],
  "targets_available": [
   "telegram",
   "newsletter"
@@ -1519,7 +1494,20 @@
    "telegram": "2026-11-05T15:09:00.977405+00:00"
   }
  },
- "approved_share": {},
+ "approved_share": {
+  "ijesaland-panel-urges-residents-use-adr": [
+   "telegram"
+  ],
+  "tinubu-set-visit-akwa-ibom-rivers": [
+   "telegram"
+  ],
+  "dubai-outlines-fee-steps-golden-visa": [
+   "telegram"
+  ],
+  "nma-rejects-bill-seeking-jail-doctors": [
+   "telegram"
+  ]
+ },
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [
