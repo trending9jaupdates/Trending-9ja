@@ -671,7 +671,18 @@
   "https://www.premiumtimesng.com/regional/north-central/923136-reports-such-as-yours-could-always-put-us-on-our-toes-unijos-dean-reacts-to-premium-times-report.html": "2026-11-06",
   "https://www.channelstv.com/2026/11/06/five-things-to-know-today-16/": "2026-11-06",
   "https://www.bellanaija.com/2026/11/adaugo-nwankpa-career-transition-and-starting-over/": "2026-11-06",
-  "https://techcabal.com/2026/11/06/cbn-tightens-crypto-p2p-rules/": "2026-11-06"
+  "https://techcabal.com/2026/11/06/cbn-tightens-crypto-p2p-rules/": "2026-11-06",
+  "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss": "2026-11-06",
+  "https://punchng.com/2027-group-rallies-south-south-youths-women-for-tinubu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://www.bbc.co.uk/sport/articles/cj5ynlyv4xrqo?at_medium=RSS&at_campaign=rss": "2026-11-06",
+  "https://punchng.com/kenyan-cult-leader-jailed-200-years-for-killing-191-people/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/tinubu-arrives-akwa-ibom-for-inaugurations-apc-rally/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/how-mtn-users-can-access-fgs-n50000-grant/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/116745-new-voters-yet-to-collect-pvcs-in-lagos-inec/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/adc-judgment-threatens-all-opposition-parties-coalition/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://www.premiumtimesng.com/news/headlines/923159-fighting-somali-piracy-needs-local-leadership-foreign-naval-backing.html": "2026-11-06",
+  "https://www.channelstv.com/2026/11/06/us-midterm-people-voted-based-on-issues-on-kitchen-tables-not-party-slogans-rep-elect-adeyina/": "2026-11-06",
+  "https://www.legit.ng/people/1739931-australia-publishes-official-cost-australian-citizenship-eligible-applicants/": "2026-11-06"
  },
  "published": [
   {
@@ -1274,6 +1285,33 @@
    "ts": "2026-11-06T11:22:00.484412+01:00",
    "ng": true,
    "src_title": "2026 set to be second-hottest year on record — EU"
+  },
+  {
+   "id": "group-rallies-southsouth-youths-women-tinubu",
+   "date": "2026-11-06",
+   "title": "Group Rallies South-South Youths and Women for Tinubu 2027 Re-Election Bid",
+   "category": "Politics",
+   "ts": "2026-11-06T14:28:25.790462+01:00",
+   "ng": true,
+   "src_title": "2027: Group rallies South-South youths, women for Tinubu"
+  },
+  {
+   "id": "daily-living-costs-drove-us-midterm",
+   "date": "2026-11-06",
+   "title": "Daily Living Costs Drove US Midterm Voting, Says Nigerian-American Lawmaker Adeyina",
+   "category": "Politics",
+   "ts": "2026-11-06T14:33:08.279588+01:00",
+   "ng": true,
+   "src_title": "US Midterm: People Voted Based On Issues On Kitchen Tables, Not Party Slogans — Rep-Elect Adeyina"
+  },
+  {
+   "id": "australia-releases-official-fees-citizenship-applications",
+   "date": "2026-11-06",
+   "title": "Australia Releases Official Fees For Citizenship Applications",
+   "category": "Politics",
+   "ts": "2026-11-06T14:34:19.327699+01:00",
+   "ng": true,
+   "src_title": "Australia sets official cost of Australian citizenship, offers some applicants a fee reduction"
   }
  ],
  "retries": {
@@ -1371,7 +1409,9 @@
   "https://punchng.com/davido-had-no-role-in-naira-marley-vdm-mohbad-saga-aide/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/emergency-delays-doctors-reject-bill-proposing-6-month-jail-term/": 1,
   "https://dailypost.ng/2026/11/06/us-offers-50-million-for-info-on-tren-de-aragua-leaders/": 1,
-  "https://www.legit.ng/entertainment/celebrities/1739881-pastor-ibiyeomies-120k-capacity-church-interior-viral-massive/": 1
+  "https://www.legit.ng/entertainment/celebrities/1739881-pastor-ibiyeomies-120k-capacity-church-interior-viral-massive/": 1,
+  "https://www.vanguardngr.com/2026/11/nine-parties-back-adc-after-david-marks-leadership-sack/": 1,
+  "https://dailypost.ng/2026/11/06/2027-amaechi-reveals-tinubus-policies-atikull-inherit-if-elected-president/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1477,7 +1517,26 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-06",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "group-rallies-southsouth-youths-women-tinubu",
+   "title": "Group Rallies South-South Youths and Women for Tinubu 2027 Re-Election Bid",
+   "category": "Politics",
+   "ts": "2026-11-06T14:28:25.790481+01:00"
+  },
+  {
+   "id": "daily-living-costs-drove-us-midterm",
+   "title": "Daily Living Costs Drove US Midterm Voting, Says Nigerian-American Lawmaker Adeyina",
+   "category": "Politics",
+   "ts": "2026-11-06T14:33:08.279608+01:00"
+  },
+  {
+   "id": "australia-releases-official-fees-citizenship-applications",
+   "title": "Australia Releases Official Fees For Citizenship Applications",
+   "category": "Politics",
+   "ts": "2026-11-06T14:34:19.327716+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
