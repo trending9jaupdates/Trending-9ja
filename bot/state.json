@@ -1330,6 +1330,13 @@
    "ts": "2026-11-06T17:12:16.121439+01:00",
    "ng": true,
    "src_title": "Power Supply: Customs releases 98 containers of equipment stranded for over 10 years to Minister"
+  },
+  {
+   "id": "fg-begins-50000-monthly-relief-payments",
+   "date": "2026-11-06",
+   "title": "FG Begins ₦50,000 Monthly Relief Payments Under NERSI — No Application, No Fee",
+   "category": "Business",
+   "ts": "2026-11-06T19:46:25.226838+01:00"
   }
  ],
  "retries": {
@@ -1561,6 +1568,12 @@
    "title": "Customs Releases 98 Stranded Power Grid Containers to Federal Government",
    "category": "Business",
    "ts": "2026-11-06T17:12:16.121461+01:00"
+  },
+  {
+   "id": "fg-begins-50000-monthly-relief-payments",
+   "title": "FG Begins ₦50,000 Monthly Relief Payments Under NERSI — No Application, No Fee",
+   "category": "Business",
+   "ts": "2026-11-06T19:46:25.226862+01:00"
   }
  ],
  "targets_available": [
