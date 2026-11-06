@@ -701,7 +701,14 @@
   "https://www.vanguardngr.com/2026/11/osimhen-sustains-knee-injury-to-miss-nigerias-afcon-qualifiers/": "2026-11-06",
   "https://dailypost.ng/2026/11/06/npfl-kano-pillars-draw-at-kun-khalifat-fc-to-extend-unbeaten-streak/": "2026-11-06",
   "https://punchng.com/u-17-world-cup-ndc-urges-flamingos-to-beat-japan/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
-  "https://www.vanguardngr.com/2026/11/military-force-alone-cannot-defeat-terrorism-buratai/": "2026-11-06"
+  "https://www.vanguardngr.com/2026/11/military-force-alone-cannot-defeat-terrorism-buratai/": "2026-11-06",
+  "https://punchng.com/ill-resign-if-nigeria-doesnt-improve-under-atiku-amaechi/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/ndc-candidate-promises-bill-stopping-nysc-postings-to-insecure-areas/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/malami-kebbi-govt-trade-words-over-attacks-at-adc-rally/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/13-injured-in-lagos-ibadan-expressway-crash/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/us-washington-voters-approve-transgender-sports-ban/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/njc-cant-dictate-imo-chief-judge-nominee-ag/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://dailypost.ng/2026/11/06/atikus-media-aide-paul-ibe-reacts-to-viral-video-of-tinubu-staggering-to-fall-after-campaign/": "2026-11-06"
  },
  "published": [
   {
@@ -1356,6 +1363,15 @@
    "ts": "2026-11-06T20:16:26.647722+01:00",
    "ng": false,
    "src_title": "EPL: Alonso rules out three Chelsea players against Sunderland"
+  },
+  {
+   "id": "2027-i-will-resign-if-nigeria",
+   "date": "2026-11-06",
+   "title": "2027: I Will Resign If Nigeria Fails To Change In One Year, Says Amaechi",
+   "category": "Politics",
+   "ts": "2026-11-06T22:58:42.928532+01:00",
+   "ng": true,
+   "src_title": "I’ll resign if Nigeria doesn’t improve under Atiku — Amaechi"
   }
  ],
  "retries": {
@@ -1457,7 +1473,8 @@
   "https://www.vanguardngr.com/2026/11/nine-parties-back-adc-after-david-marks-leadership-sack/": 1,
   "https://dailypost.ng/2026/11/06/2027-amaechi-reveals-tinubus-policies-atikull-inherit-if-elected-president/": 1,
   "https://punchng.com/peter-obi-has-squandered-his-goodwill-shettima/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://www.vanguardngr.com/2026/11/world-bank-imf-recognise-tinubus-economic-reforms-1tn-economy-target-achievable-yilwatda/": 1
+  "https://www.vanguardngr.com/2026/11/world-bank-imf-recognise-tinubus-economic-reforms-1tn-economy-target-achievable-yilwatda/": 1,
+  "https://www.vanguardngr.com/2026/11/us-reports-highest-number-of-measles-cases-in-35-years-2/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1569,6 +1586,12 @@
    "title": "EPL: Xabi Alonso Confirms Three Chelsea Stars Out Of Sunderland Clash",
    "category": "Sports",
    "ts": "2026-11-06T20:16:26.647740+01:00"
+  },
+  {
+   "id": "2027-i-will-resign-if-nigeria",
+   "title": "2027: I Will Resign If Nigeria Fails To Change In One Year, Says Amaechi",
+   "category": "Politics",
+   "ts": "2026-11-06T22:58:42.928556+01:00"
   }
  ],
  "targets_available": [
