@@ -1234,6 +1234,13 @@
    "ts": "2026-11-05T23:08:19.932394+01:00",
    "ng": true,
    "src_title": "Emergency patients: Fix hospitals before punishing health workers - NMA tells NASS"
+  },
+  {
+   "id": "democrats-sweep-2026-us-midterms-historic",
+   "date": "2026-11-06",
+   "title": "Democrats Sweep 2026 US Midterms: Historic Blue Wave Flips Senate, House and Key Governorships in Rebuke to Trump",
+   "category": "Politics",
+   "ts": "2026-11-06T06:48:11.067323+01:00"
   }
  ],
  "retries": {
@@ -1433,7 +1440,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-06",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "democrats-sweep-2026-us-midterms-historic",
+   "title": "Democrats Sweep 2026 US Midterms: Historic Blue Wave Flips Senate, House and Key Governorships in Rebuke to Trump",
+   "category": "Politics",
+   "ts": "2026-11-06T06:48:11.067341+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"

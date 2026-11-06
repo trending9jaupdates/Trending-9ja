@@ -1,5 +1,12 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "democrats-sweep-2026-us-midterms-historic",
+   "title": "Democrats Sweep 2026 US Midterms: Historic Blue Wave Flips Senate, House and Key Governorships in Rebuke to Trump",
+   "category": "Politics",
+   "ts": "2026-11-06T06:48:11.067341+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -80,5 +87,5 @@
    ]
   }
  ],
- "updated": "2026-11-06T05:06:04.105245+00:00"
+ "updated": "2026-11-06T06:48:11.068028+01:00"
 }
