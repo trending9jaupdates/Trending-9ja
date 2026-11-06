@@ -691,7 +691,17 @@
   "https://punchng.com/tinubu-recalls-mobil-days-calls-akwa-ibom-home/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
   "https://dailypost.ng/2026/11/06/power-supply-customs-releases-98-containers-of-equipment-stranded-for-over-10-years-to-minister/": "2026-11-06",
   "https://www.premiumtimesng.com/news/more-news/923201-group-warns-of-online-misinformation-as-students-embrace-content-creation.html": "2026-11-06",
-  "https://www.channelstv.com/2026/11/06/carrick-insists-man-utd-can-recapture-former-glories/": "2026-11-06"
+  "https://www.channelstv.com/2026/11/06/carrick-insists-man-utd-can-recapture-former-glories/": "2026-11-06",
+  "https://punchng.com/epl-alonso-rules-out-three-chelsea-players-against-sunderland/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/kano-court-sentences-two-to-death-for-killing-mother-six-children/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://dailypost.ng/2026/11/06/afcon-2027q-osimhen-to-miss-super-eagles-vs-tanzania-double-header/": "2026-11-06",
+  "https://punchng.com/tcn-faults-ikeja-electric-blames-outages-on-low-generation/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://www.vanguardngr.com/2026/11/mbappe-headlines-zidanes-france-squad-pagis-gets-call-up/": "2026-11-06",
+  "https://punchng.com/nafdac-warns-imo-drug-dealers-against-selling-fake-expired-medicines/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://www.vanguardngr.com/2026/11/osimhen-sustains-knee-injury-to-miss-nigerias-afcon-qualifiers/": "2026-11-06",
+  "https://dailypost.ng/2026/11/06/npfl-kano-pillars-draw-at-kun-khalifat-fc-to-extend-unbeaten-streak/": "2026-11-06",
+  "https://punchng.com/u-17-world-cup-ndc-urges-flamingos-to-beat-japan/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://www.vanguardngr.com/2026/11/military-force-alone-cannot-defeat-terrorism-buratai/": "2026-11-06"
  },
  "published": [
   {
@@ -1337,6 +1347,15 @@
    "title": "FG Begins ₦50,000 Monthly Relief Payments Under NERSI — No Application, No Fee",
    "category": "Business",
    "ts": "2026-11-06T19:46:25.226838+01:00"
+  },
+  {
+   "id": "epl-xabi-alonso-confirms-three-chelsea",
+   "date": "2026-11-06",
+   "title": "EPL: Xabi Alonso Confirms Three Chelsea Stars Out Of Sunderland Clash",
+   "category": "Sports",
+   "ts": "2026-11-06T20:16:26.647722+01:00",
+   "ng": false,
+   "src_title": "EPL: Alonso rules out three Chelsea players against Sunderland"
   }
  ],
  "retries": {
@@ -1544,7 +1563,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-06",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "epl-xabi-alonso-confirms-three-chelsea",
+   "title": "EPL: Xabi Alonso Confirms Three Chelsea Stars Out Of Sunderland Clash",
+   "category": "Sports",
+   "ts": "2026-11-06T20:16:26.647740+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"

@@ -1,5 +1,12 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "epl-xabi-alonso-confirms-three-chelsea",
+   "title": "EPL: Xabi Alonso Confirms Three Chelsea Stars Out Of Sunderland Clash",
+   "category": "Sports",
+   "ts": "2026-11-06T20:16:26.647740+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -86,5 +93,5 @@
    ]
   }
  ],
- "updated": "2026-11-06T18:48:13.671843+00:00"
+ "updated": "2026-11-06T20:18:08.261543+01:00"
 }
