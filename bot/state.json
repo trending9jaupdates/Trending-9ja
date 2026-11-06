@@ -682,7 +682,16 @@
   "https://punchng.com/adc-judgment-threatens-all-opposition-parties-coalition/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
   "https://www.premiumtimesng.com/news/headlines/923159-fighting-somali-piracy-needs-local-leadership-foreign-naval-backing.html": "2026-11-06",
   "https://www.channelstv.com/2026/11/06/us-midterm-people-voted-based-on-issues-on-kitchen-tables-not-party-slogans-rep-elect-adeyina/": "2026-11-06",
-  "https://www.legit.ng/people/1739931-australia-publishes-official-cost-australian-citizenship-eligible-applicants/": "2026-11-06"
+  "https://www.legit.ng/people/1739931-australia-publishes-official-cost-australian-citizenship-eligible-applicants/": "2026-11-06",
+  "https://punchng.com/video-kunle-afod-laments-absence-of-ambulance-after-ogun-road-crash/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss": "2026-11-06",
+  "https://punchng.com/breaking-tinubu-approves-ibom-deep-seaport/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/bayelsa-pdp-faults-%e2%82%a61-24tn-budget-decries-rising-poverty/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/yola-disco-loses-n9bn-annually-on-jimeta-network-chairman/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://punchng.com/tinubu-recalls-mobil-days-calls-akwa-ibom-home/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
+  "https://dailypost.ng/2026/11/06/power-supply-customs-releases-98-containers-of-equipment-stranded-for-over-10-years-to-minister/": "2026-11-06",
+  "https://www.premiumtimesng.com/news/more-news/923201-group-warns-of-online-misinformation-as-students-embrace-content-creation.html": "2026-11-06",
+  "https://www.channelstv.com/2026/11/06/carrick-insists-man-utd-can-recapture-former-glories/": "2026-11-06"
  },
  "published": [
   {
@@ -1312,6 +1321,15 @@
    "ts": "2026-11-06T14:34:19.327699+01:00",
    "ng": true,
    "src_title": "Australia sets official cost of Australian citizenship, offers some applicants a fee reduction"
+  },
+  {
+   "id": "customs-releases-98-stranded-power-grid",
+   "date": "2026-11-06",
+   "title": "Customs Releases 98 Stranded Power Grid Containers to Federal Government",
+   "category": "Business",
+   "ts": "2026-11-06T17:12:16.121439+01:00",
+   "ng": true,
+   "src_title": "Power Supply: Customs releases 98 containers of equipment stranded for over 10 years to Minister"
   }
  ],
  "retries": {
@@ -1411,7 +1429,9 @@
   "https://dailypost.ng/2026/11/06/us-offers-50-million-for-info-on-tren-de-aragua-leaders/": 1,
   "https://www.legit.ng/entertainment/celebrities/1739881-pastor-ibiyeomies-120k-capacity-church-interior-viral-massive/": 1,
   "https://www.vanguardngr.com/2026/11/nine-parties-back-adc-after-david-marks-leadership-sack/": 1,
-  "https://dailypost.ng/2026/11/06/2027-amaechi-reveals-tinubus-policies-atikull-inherit-if-elected-president/": 1
+  "https://dailypost.ng/2026/11/06/2027-amaechi-reveals-tinubus-policies-atikull-inherit-if-elected-president/": 1,
+  "https://punchng.com/peter-obi-has-squandered-his-goodwill-shettima/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://www.vanguardngr.com/2026/11/world-bank-imf-recognise-tinubus-economic-reforms-1tn-economy-target-achievable-yilwatda/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1535,6 +1555,12 @@
    "title": "Australia Releases Official Fees For Citizenship Applications",
    "category": "Politics",
    "ts": "2026-11-06T14:34:19.327716+01:00"
+  },
+  {
+   "id": "customs-releases-98-stranded-power-grid",
+   "title": "Customs Releases 98 Stranded Power Grid Containers to Federal Government",
+   "category": "Business",
+   "ts": "2026-11-06T17:12:16.121461+01:00"
   }
  ],
  "targets_available": [
