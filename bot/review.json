@@ -1,37 +1,27 @@
 {
- "pending": [
-  {
-   "id": "group-rallies-southsouth-youths-women-tinubu",
-   "title": "Group Rallies South-South Youths and Women for Tinubu 2027 Re-Election Bid",
-   "category": "Politics",
-   "ts": "2026-11-06T14:28:25.790481+01:00"
-  },
-  {
-   "id": "daily-living-costs-drove-us-midterm",
-   "title": "Daily Living Costs Drove US Midterm Voting, Says Nigerian-American Lawmaker Adeyina",
-   "category": "Politics",
-   "ts": "2026-11-06T14:33:08.279608+01:00"
-  },
-  {
-   "id": "australia-releases-official-fees-citizenship-applications",
-   "title": "Australia Releases Official Fees For Citizenship Applications",
-   "category": "Politics",
-   "ts": "2026-11-06T14:34:19.327716+01:00"
-  },
-  {
-   "id": "customs-releases-98-stranded-power-grid",
-   "title": "Customs Releases 98 Stranded Power Grid Containers to Federal Government",
-   "category": "Business",
-   "ts": "2026-11-06T17:12:16.121461+01:00"
-  },
-  {
-   "id": "fg-begins-50000-monthly-relief-payments",
-   "title": "FG Begins ₦50,000 Monthly Relief Payments Under NERSI — No Application, No Fee",
-   "category": "Business",
-   "ts": "2026-11-06T19:46:25.226862+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "group-rallies-southsouth-youths-women-tinubu": [
+   "telegram",
+   "newsletter"
+  ],
+  "daily-living-costs-drove-us-midterm": [
+   "telegram",
+   "newsletter"
+  ],
+  "australia-releases-official-fees-citizenship-applications": [
+   "telegram",
+   "newsletter"
+  ],
+  "customs-releases-98-stranded-power-grid": [
+   "telegram",
+   "newsletter"
+  ],
+  "fg-begins-50000-monthly-relief-payments": [
+   "telegram",
+   "newsletter"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -112,5 +102,5 @@
    ]
   }
  ],
- "updated": "2026-11-06T18:46:27.887693+00:00"
+ "updated": "2026-11-06T19:47:45.270249+01:00"
 }

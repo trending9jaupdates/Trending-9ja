@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvqnxjh2-post.json",
-  "ok": true,
-  "message": "Published: Harry Kane Wins 2026 Ballon d’Or in Historic Night at London Palladium (`harry-kane-wins-2026-ballon-dor`)",
-  "at": "2026-10-30T04:56:35.827223+01:00"
- },
- {
   "job": "mvqowxlj-post.json",
   "ok": true,
   "message": "Published: Harry Kane Wins 2026 Ballon d’Or in Historic Night at London Palladium (`harry-kane-wins-2026-ballon-dor-2`)",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Published: FG Begins ₦50,000 Monthly Relief Payments Under NERSI — No Application, No Fee (`fg-begins-50000-monthly-relief-payments`)",
   "at": "2026-11-06T19:46:25.226875+01:00"
+ },
+ {
+  "job": "mw5bu0xl-share.json",
+  "ok": true,
+  "message": "Approved 5 stories for sharing to telegram, newsletter",
+  "at": "2026-11-06T19:47:45.269731+01:00"
  }
 ]
