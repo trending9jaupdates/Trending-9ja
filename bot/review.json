@@ -1,62 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "group-rallies-southsouth-youths-women-tinubu": [
-   "telegram",
-   "newsletter"
-  ],
-  "daily-living-costs-drove-us-midterm": [
-   "telegram",
-   "newsletter"
-  ],
-  "australia-releases-official-fees-citizenship-applications": [
-   "telegram",
-   "newsletter"
-  ],
-  "customs-releases-98-stranded-power-grid": [
-   "telegram",
-   "newsletter"
-  ],
-  "fg-begins-50000-monthly-relief-payments": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "nigerianborn-scholar-dapo-akande-elected-icj",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "west-ham-appoint-former-captain-scott",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "elon-musk-reacts-with-joke-huge",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "tinubu-asks-senate-approve-77bn-external",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "edo-signs-mou-with-chinese-firms",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "wike-defends-high-abuja-billboard-rates",
    "targets": [
@@ -100,7 +49,42 @@
     "newsletter",
     "telegram"
    ]
+  },
+  {
+   "id": "group-rallies-southsouth-youths-women-tinubu",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "daily-living-costs-drove-us-midterm",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "australia-releases-official-fees-citizenship-applications",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "customs-releases-98-stranded-power-grid",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "fg-begins-50000-monthly-relief-payments",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-06T19:47:45.270249+01:00"
+ "updated": "2026-11-06T18:48:13.671843+00:00"
 }

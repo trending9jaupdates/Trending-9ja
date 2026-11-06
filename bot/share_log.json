@@ -194,5 +194,75 @@
   "ok": true,
   "message": "email scheduled",
   "at": "2026-11-06T11:33:20.752688+00:00"
+ },
+ {
+  "id": "group-rallies-southsouth-youths-women-tinubu",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T18:47:49.624675+00:00"
+ },
+ {
+  "id": "daily-living-costs-drove-us-midterm",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T18:47:54.553302+00:00"
+ },
+ {
+  "id": "australia-releases-official-fees-citizenship-applications",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T18:47:59.453868+00:00"
+ },
+ {
+  "id": "customs-releases-98-stranded-power-grid",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T18:48:04.683545+00:00"
+ },
+ {
+  "id": "fg-begins-50000-monthly-relief-payments",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T18:48:10.026521+00:00"
+ },
+ {
+  "id": "group-rallies-southsouth-youths-women-tinubu",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-06T18:48:13.669010+00:00"
+ },
+ {
+  "id": "daily-living-costs-drove-us-midterm",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-06T18:48:13.669039+00:00"
+ },
+ {
+  "id": "australia-releases-official-fees-citizenship-applications",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-06T18:48:13.669049+00:00"
+ },
+ {
+  "id": "customs-releases-98-stranded-power-grid",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-06T18:48:13.669057+00:00"
+ },
+ {
+  "id": "fg-begins-50000-monthly-relief-payments",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-06T18:48:13.669064+00:00"
  }
 ]
