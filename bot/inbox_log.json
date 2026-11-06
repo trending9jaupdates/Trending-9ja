@@ -328,5 +328,11 @@
   "ok": true,
   "message": "Approved 2 stories for sharing to telegram, newsletter",
   "at": "2026-11-06T12:32:52.089058+01:00"
+ },
+ {
+  "job": "mw52yc8x-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `daily-living-costs-drove-us-midterm`",
+  "at": "2026-11-06T15:39:13.844367+01:00"
  }
 ]
