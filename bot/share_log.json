@@ -138,5 +138,33 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-05T15:09:00.977428+00:00"
+ },
+ {
+  "id": "ijesaland-panel-urges-residents-use-adr",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T05:05:47.955334+00:00"
+ },
+ {
+  "id": "tinubu-set-visit-akwa-ibom-rivers",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T05:05:52.927520+00:00"
+ },
+ {
+  "id": "dubai-outlines-fee-steps-golden-visa",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T05:05:57.162700+00:00"
+ },
+ {
+  "id": "nma-rejects-bill-seeking-jail-doctors",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-06T05:06:01.102554+00:00"
  }
 ]

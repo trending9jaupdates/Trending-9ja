@@ -1,50 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "ijesaland-panel-urges-residents-use-adr": [
-   "telegram"
-  ],
-  "tinubu-set-visit-akwa-ibom-rivers": [
-   "telegram"
-  ],
-  "dubai-outlines-fee-steps-golden-visa": [
-   "telegram"
-  ],
-  "nma-rejects-bill-seeking-jail-doctors": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "nigeria-france-target-higher-energy-investments",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "gombe-varsity-asuu-rejects-salary-arrears",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
-  {
-   "id": "2027-ogun-indigenes-back-adebutu-under",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "experts-urge-nigerian-farmers-adopt-soilbased",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
   {
    "id": "state-police-bill-clears-assembly-threshold",
    "targets": [
@@ -93,7 +54,31 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "ijesaland-panel-urges-residents-use-adr",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "tinubu-set-visit-akwa-ibom-rivers",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "dubai-outlines-fee-steps-golden-visa",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "nma-rejects-bill-seeking-jail-doctors",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-06T06:05:42.743003+01:00"
+ "updated": "2026-11-06T05:06:04.105245+00:00"
 }
