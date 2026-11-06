@@ -1477,20 +1477,7 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-06",
- "pending_share": [
-  {
-   "id": "democrats-sweep-2026-us-midterms-historic",
-   "title": "Democrats Sweep 2026 US Midterms: Historic Blue Wave Flips Senate, House and Key Governorships in Rebuke to Trump",
-   "category": "Politics",
-   "ts": "2026-11-06T06:48:11.067341+01:00"
-  },
-  {
-   "id": "2026-projected-be-secondhottest-year-record",
-   "title": "2026 Projected To Be Second-Hottest Year On Record, EU Climate Monitor Says",
-   "category": "Politics",
-   "ts": "2026-11-06T11:22:00.484429+01:00"
-  }
- ],
+ "pending_share": [],
  "targets_available": [
   "telegram",
   "newsletter"
@@ -1563,7 +1550,16 @@
    "telegram": "2026-11-06T05:06:01.102538+00:00"
   }
  },
- "approved_share": {},
+ "approved_share": {
+  "democrats-sweep-2026-us-midterms-historic": [
+   "telegram",
+   "newsletter"
+  ],
+  "2026-projected-be-secondhottest-year-record": [
+   "telegram",
+   "newsletter"
+  ]
+ },
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [
