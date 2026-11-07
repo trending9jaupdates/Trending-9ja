@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvqva4oi-post.json",
-  "ok": true,
-  "message": "Published: Harry Kane Wins 2026 Ballon d’Or in Historic Night at London Palladium (`harry-kane-wins-2026-ballon-dor-3`)",
-  "at": "2026-10-30T04:56:35.843667+01:00"
- },
- {
   "job": "mvsaiegq-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `instagram-tests-90minute-video-uploads-select`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Approved 2 stories for sharing to telegram",
   "at": "2026-11-07T01:20:47.943599+01:00"
+ },
+ {
+  "job": "mw60qwsx-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `mr-macaroni-speaks-missing-lucrative-jobs`",
+  "at": "2026-11-07T07:25:13.282739+01:00"
  }
 ]
