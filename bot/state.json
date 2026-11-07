@@ -725,7 +725,17 @@
   "https://www.vanguardngr.com/2026/11/oyoll-no-longer-depend-on-oil-raw-materials-for-economic-prosperity-makinde/": "2026-11-07",
   "https://dailypost.ng/2026/11/07/2027-election-is-about-you-not-me-tinubu-tells-nigerian-youth/": "2026-11-07",
   "https://www.premiumtimesng.com/news/top-news/923513-amaechi-challenges-wike-on-atikus-rivers-campaign-rally.html": "2026-11-07",
-  "https://www.channelstv.com/2026/11/07/okafor-strike-for-leeds-ends-tottenhams-winning-run/": "2026-11-07"
+  "https://www.channelstv.com/2026/11/07/okafor-strike-for-leeds-ends-tottenhams-winning-run/": "2026-11-07",
+  "https://punchng.com/evening-recap-adeboye-ordered-illicit-funds-returned-tinubu-rallies-in-rivers-ogun-replies-afod-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://businessday.ng/sports/article/arsenal-edge-hull-city-to-extend-premier-league-lead/": "2026-11-07",
+  "https://punchng.com/i-built-abti-in-1993-before-becoming-vp-atiku-replies-tinubu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/three-die-seven-injured-in-ogun-road-crashes/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/shun-distractions-baptist-president-urges-youths-at-bowen-convocation/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/sokoto-govs-aide-cautions-against-hasty-troop-withdrawal/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/photos-yobe-apc-rallies-for-tinubu-counters-tinubu-must-go-slogan/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://dailypost.ng/2026/11/07/2027-hope-youll-visit-remaining-33-states-peter-obi-to-tinubu-after-presidential-sleep-in-akwa-ibom/": "2026-11-07",
+  "https://www.premiumtimesng.com/opinion/923264-let-trumps-republican-party-defeat-be-a-lesson-to-any-arrogant-politician-by-murtadha-gusau.html": "2026-11-07",
+  "https://www.legit.ng/politics/1740128-moment-tinubu-stood-hug-fubara-nigerians-talking/": "2026-11-07"
  },
  "published": [
   {
@@ -1428,6 +1438,15 @@
    "ts": "2026-11-07T17:02:45.980494+01:00",
    "ng": false,
    "src_title": "Okafor Strike For Leeds Ends Tottenham’s Winning Run"
+  },
+  {
+   "id": "tinubu-embraces-governor-fubara-apc-campaign",
+   "date": "2026-11-07",
+   "title": "Tinubu Embraces Governor Fubara at APC Campaign Event in Rivers State",
+   "category": "Politics",
+   "ts": "2026-11-07T20:13:35.669356+01:00",
+   "ng": true,
+   "src_title": "APC campaigns: Nigerians react as Tinubu hugs Governor Fubara"
   }
  ],
  "retries": {
@@ -1532,7 +1551,9 @@
   "https://www.vanguardngr.com/2026/11/world-bank-imf-recognise-tinubus-economic-reforms-1tn-economy-target-achievable-yilwatda/": 1,
   "https://www.vanguardngr.com/2026/11/us-reports-highest-number-of-measles-cases-in-35-years-2/": 1,
   "https://punchng.com/uae-sponsors-mass-wedding-for-250-palestinian-couples/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://www.vanguardngr.com/2026/11/makinde-tinubus-poor-planning-plunged-millions-of-nigerians-into-hardship/": 1
+  "https://www.vanguardngr.com/2026/11/makinde-tinubus-poor-planning-plunged-millions-of-nigerians-into-hardship/": 1,
+  "https://www.vanguardngr.com/2026/11/efcc-chairman-recounts-saddest-day-detaining-senior-rccg-pastor/": 1,
+  "https://www.channelstv.com/2026/11/07/collect-their-money-spend-it-but-vote-your-heart-makinde-tells-supporters/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1662,6 +1683,12 @@
    "title": "Okafor Scores Winner as Leeds Defeat Tottenham 1-0",
    "category": "Sports",
    "ts": "2026-11-07T17:02:45.980514+01:00"
+  },
+  {
+   "id": "tinubu-embraces-governor-fubara-apc-campaign",
+   "title": "Tinubu Embraces Governor Fubara at APC Campaign Event in Rivers State",
+   "category": "Politics",
+   "ts": "2026-11-07T20:13:35.669377+01:00"
   }
  ],
  "targets_available": [
