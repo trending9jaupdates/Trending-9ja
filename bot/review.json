@@ -1,19 +1,13 @@
 {
- "pending": [
-  {
-   "id": "epl-xabi-alonso-confirms-three-chelsea",
-   "title": "EPL: Xabi Alonso Confirms Three Chelsea Stars Out Of Sunderland Clash",
-   "category": "Sports",
-   "ts": "2026-11-06T20:16:26.647740+01:00"
-  },
-  {
-   "id": "2027-i-will-resign-if-nigeria",
-   "title": "2027: I Will Resign If Nigeria Fails To Change In One Year, Says Amaechi",
-   "category": "Politics",
-   "ts": "2026-11-06T22:58:42.928556+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "epl-xabi-alonso-confirms-three-chelsea": [
+   "telegram"
+  ],
+  "2027-i-will-resign-if-nigeria": [
+   "telegram"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -99,5 +93,5 @@
    ]
   }
  ],
- "updated": "2026-11-06T22:01:59.004410+00:00"
+ "updated": "2026-11-07T01:20:47.943919+01:00"
 }
