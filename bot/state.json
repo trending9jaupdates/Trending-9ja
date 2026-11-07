@@ -1622,16 +1622,15 @@
   "fg-begins-50000-monthly-relief-payments": {
    "telegram": "2026-11-06T18:48:10.026506+00:00",
    "newsletter": "2026-11-06T18:48:13.669061+00:00"
+  },
+  "epl-xabi-alonso-confirms-three-chelsea": {
+   "telegram": "2026-11-07T00:20:52.195661+00:00"
+  },
+  "2027-i-will-resign-if-nigeria": {
+   "telegram": "2026-11-07T00:20:57.520182+00:00"
   }
  },
- "approved_share": {
-  "epl-xabi-alonso-confirms-three-chelsea": [
-   "telegram"
-  ],
-  "2027-i-will-resign-if-nigeria": [
-   "telegram"
-  ]
- },
+ "approved_share": {},
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [

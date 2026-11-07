@@ -1,30 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "epl-xabi-alonso-confirms-three-chelsea": [
-   "telegram"
-  ],
-  "2027-i-will-resign-if-nigeria": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "wike-defends-high-abuja-billboard-rates",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "ijesaland-panel-urges-residents-use-adr",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "tinubu-set-visit-akwa-ibom-rivers",
    "targets": [
@@ -91,7 +72,19 @@
     "newsletter",
     "telegram"
    ]
+  },
+  {
+   "id": "epl-xabi-alonso-confirms-three-chelsea",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "2027-i-will-resign-if-nigeria",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-07T01:20:47.943919+01:00"
+ "updated": "2026-11-07T00:21:00.522075+00:00"
 }
