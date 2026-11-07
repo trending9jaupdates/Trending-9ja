@@ -713,7 +713,19 @@
   "https://punchng.com/full-list-deputy-senate-president-names-85-postgraduate-scholarship-beneficiaries/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
   "https://punchng.com/soldiers-rescue-three-abducted-women-in-plateau/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
   "https://punchng.com/oyo-apm-gov-candidate-challenges-alli-to-present-senate-scorecard/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
-  "https://punchng.com/how-many-nigerians-have-been-lifted-out-of-poverty-obi-asks-tinubu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07"
+  "https://punchng.com/how-many-nigerians-have-been-lifted-out-of-poverty-obi-asks-tinubu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://www.vanguardngr.com/2026/11/okafor-strike-for-leeds-ends-tottenhams-winning-run/": "2026-11-07",
+  "https://punchng.com/tinubu-commends-wike-hails-fubara-for-embracing-peace-reconciliation/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://nairametrics.com/2026/11/07/fg-releases-98-of-300-containers-of-power-equipment-stranded-for-20-years/": "2026-11-07",
+  "https://punchng.com/epl-leeds-end-five-game-winless-run-with-1-0-victory-over-tottenham/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/tinubu-condoles-with-niger-junta-leader-over-fathers-death/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/lagos-targets-90-flood-control-ahead-of-2027-rains-commissioner/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/2027-your-future-depends-on-election-collect-your-pvcs-tinubu-tells-youths/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/2027-fubara-backs-rainbow-coalition-promises-tinubu-three-million-votes/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://www.vanguardngr.com/2026/11/oyoll-no-longer-depend-on-oil-raw-materials-for-economic-prosperity-makinde/": "2026-11-07",
+  "https://dailypost.ng/2026/11/07/2027-election-is-about-you-not-me-tinubu-tells-nigerian-youth/": "2026-11-07",
+  "https://www.premiumtimesng.com/news/top-news/923513-amaechi-challenges-wike-on-atikus-rivers-campaign-rally.html": "2026-11-07",
+  "https://www.channelstv.com/2026/11/07/okafor-strike-for-leeds-ends-tottenhams-winning-run/": "2026-11-07"
  },
  "published": [
   {
@@ -1389,6 +1401,33 @@
    "ts": "2026-11-07T14:17:20.302432+01:00",
    "ng": true,
    "src_title": "How to apply for 2026 NNPC-SNEPCo scholarship"
+  },
+  {
+   "id": "tinubu-commends-fubara-wike-rivers-peace",
+   "date": "2026-11-07",
+   "title": "Tinubu Commends Fubara and Wike Over Rivers Peace and Infrastructure",
+   "category": "Politics",
+   "ts": "2026-11-07T16:55:14.619404+01:00",
+   "ng": true,
+   "src_title": "Tinubu commends Wike, hails Fubara for embracing peace, reconciliation"
+  },
+  {
+   "id": "oyo-state-plans-economic-shift-arts",
+   "date": "2026-11-07",
+   "title": "Oyo State Plans Economic Shift to Arts, Tourism, and Exported Crafts",
+   "category": "Business",
+   "ts": "2026-11-07T16:57:42.171173+01:00",
+   "ng": true,
+   "src_title": "Oyo’ll no longer depend on oil, raw materials for economic prosperity – Makinde"
+  },
+  {
+   "id": "okafor-scores-winner-leeds-defeat-tottenham",
+   "date": "2026-11-07",
+   "title": "Okafor Scores Winner as Leeds Defeat Tottenham 1-0",
+   "category": "Sports",
+   "ts": "2026-11-07T17:02:45.980494+01:00",
+   "ng": false,
+   "src_title": "Okafor Strike For Leeds Ends Tottenham’s Winning Run"
   }
  ],
  "retries": {
@@ -1605,6 +1644,24 @@
    "title": "NNPC, SNEPCo Open Applications for 2026 National University Scholarship",
    "category": "Business",
    "ts": "2026-11-07T14:17:20.302451+01:00"
+  },
+  {
+   "id": "tinubu-commends-fubara-wike-rivers-peace",
+   "title": "Tinubu Commends Fubara and Wike Over Rivers Peace and Infrastructure",
+   "category": "Politics",
+   "ts": "2026-11-07T16:55:14.619426+01:00"
+  },
+  {
+   "id": "oyo-state-plans-economic-shift-arts",
+   "title": "Oyo State Plans Economic Shift to Arts, Tourism, and Exported Crafts",
+   "category": "Business",
+   "ts": "2026-11-07T16:57:42.171198+01:00"
+  },
+  {
+   "id": "okafor-scores-winner-leeds-defeat-tottenham",
+   "title": "Okafor Scores Winner as Leeds Defeat Tottenham 1-0",
+   "category": "Sports",
+   "ts": "2026-11-07T17:02:45.980514+01:00"
   }
  ],
  "targets_available": [
