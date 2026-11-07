@@ -1,42 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "edo-state-varsity-top-medical-graduate": [
-   "telegram",
-   "newsletter"
-  ],
-  "educated-elite-behind-nigerias-grand-corruption": [
-   "telegram",
-   "newsletter"
-  ],
-  "mr-macaroni-speaks-missing-lucrative-jobs": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "tinubu-set-visit-akwa-ibom-rivers",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "dubai-outlines-fee-steps-golden-visa",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "nma-rejects-bill-seeking-jail-doctors",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "democrats-sweep-2026-us-midterms-historic",
    "targets": [
@@ -97,7 +66,28 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "edo-state-varsity-top-medical-graduate",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "educated-elite-behind-nigerias-grand-corruption",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "mr-macaroni-speaks-missing-lucrative-jobs",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-07T08:37:52.577733+01:00"
+ "updated": "2026-11-07T07:38:09.642276+00:00"
 }

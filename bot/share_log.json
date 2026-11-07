@@ -278,5 +278,47 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-07T00:20:57.520196+00:00"
+ },
+ {
+  "id": "edo-state-varsity-top-medical-graduate",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-07T07:37:56.994836+00:00"
+ },
+ {
+  "id": "educated-elite-behind-nigerias-grand-corruption",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-07T07:38:01.807396+00:00"
+ },
+ {
+  "id": "mr-macaroni-speaks-missing-lucrative-jobs",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-07T07:38:05.904962+00:00"
+ },
+ {
+  "id": "edo-state-varsity-top-medical-graduate",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-07T07:38:09.639567+00:00"
+ },
+ {
+  "id": "educated-elite-behind-nigerias-grand-corruption",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-07T07:38:09.639600+00:00"
+ },
+ {
+  "id": "mr-macaroni-speaks-missing-lucrative-jobs",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-07T07:38:09.639611+00:00"
  }
 ]

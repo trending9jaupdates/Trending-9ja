@@ -1681,22 +1681,21 @@
   },
   "2027-i-will-resign-if-nigeria": {
    "telegram": "2026-11-07T00:20:57.520182+00:00"
+  },
+  "edo-state-varsity-top-medical-graduate": {
+   "telegram": "2026-11-07T07:37:56.994814+00:00",
+   "newsletter": "2026-11-07T07:38:09.639545+00:00"
+  },
+  "educated-elite-behind-nigerias-grand-corruption": {
+   "telegram": "2026-11-07T07:38:01.807382+00:00",
+   "newsletter": "2026-11-07T07:38:09.639594+00:00"
+  },
+  "mr-macaroni-speaks-missing-lucrative-jobs": {
+   "telegram": "2026-11-07T07:38:05.904947+00:00",
+   "newsletter": "2026-11-07T07:38:09.639607+00:00"
   }
  },
- "approved_share": {
-  "edo-state-varsity-top-medical-graduate": [
-   "telegram",
-   "newsletter"
-  ],
-  "educated-elite-behind-nigerias-grand-corruption": [
-   "telegram",
-   "newsletter"
-  ],
-  "mr-macaroni-speaks-missing-lucrative-jobs": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved_share": {},
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [
