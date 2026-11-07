@@ -683,7 +683,15 @@
   "https://punchng.com/why-henry-iwobi-are-my-favourite-players-filmmaker-nkanga/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
   "https://punchng.com/australian-singer-nishka-set-for-nigerian-debut/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
   "https://www.vanguardngr.com/2026/11/mutfwang-educated-nigerians-masterminding-corruption-institutional-decay/": "2026-11-07",
-  "https://dailypost.ng/2026/11/07/us-sanctions-nigeria-based-entity-linked-to-iran-missile-procurement/": "2026-11-07"
+  "https://dailypost.ng/2026/11/07/us-sanctions-nigeria-based-entity-linked-to-iran-missile-procurement/": "2026-11-07",
+  "https://punchng.com/i-missed-lucrative-gigs-to-earn-masters-degree-mr-macaroni/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/nigerians-should-think-twice-before-relocating-abroad-uk-defence-official/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/nigerian-teen-jailed-four-years-for-dummy-gun-robbery/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/four-nigerians-nabbed-in-india-drug-raids/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/emergency-care-doctors-reject-jail-bill-threaten-nationwide-strike/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/nigerian-wins-us-fellowship/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://www.vanguardngr.com/2026/11/trump-lesson-for-nigeria-by-stephanie-shaakaa/": "2026-11-07",
+  "https://dailypost.ng/2026/11/07/fg-clarifies-how-beneficiaries-emerge-for-n50000-nersi-relief-fund/": "2026-11-07"
  },
  "published": [
   {
@@ -1341,6 +1349,15 @@
    "ts": "2026-11-07T02:27:04.501064+01:00",
    "ng": true,
    "src_title": "Mutfwang: Educated Nigerians masterminding corruption, institutional decay"
+  },
+  {
+   "id": "mr-macaroni-speaks-missing-lucrative-jobs",
+   "date": "2026-11-07",
+   "title": "Mr Macaroni Speaks on Missing Lucrative Jobs to Earn London Master's Degree",
+   "category": "Entertainment",
+   "ts": "2026-11-07T05:11:08.950848+01:00",
+   "ng": true,
+   "src_title": "I missed lucrative gigs to earn master’s degree – Mr Macaroni"
   }
  ],
  "retries": {
@@ -1561,6 +1578,12 @@
    "title": "Educated Elite Behind Nigeria's Grand Corruption, Says Governor Caleb Mutfwang",
    "category": "Politics",
    "ts": "2026-11-07T02:27:04.501082+01:00"
+  },
+  {
+   "id": "mr-macaroni-speaks-missing-lucrative-jobs",
+   "title": "Mr Macaroni Speaks on Missing Lucrative Jobs to Earn London Master's Degree",
+   "category": "Entertainment",
+   "ts": "2026-11-07T05:11:08.950869+01:00"
   }
  ],
  "targets_available": [
