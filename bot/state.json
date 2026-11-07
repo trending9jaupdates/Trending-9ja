@@ -707,7 +707,13 @@
   "https://punchng.com/buhari-promised-me-apc-presidential-ticket-in-2022-amaechi/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
   "https://punchng.com/police-bullet-kills-girl-injures-another-in-lagos/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
   "https://punchng.com/ekiti-varsity-promotes-208-workers-restates-commitment-to-staff-welfare/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
-  "https://www.vanguardngr.com/2026/11/2027-why-is-obi-facing-attacks-despite-finishing-third-in-2023-utomi/": "2026-11-07"
+  "https://www.vanguardngr.com/2026/11/2027-why-is-obi-facing-attacks-despite-finishing-third-in-2023-utomi/": "2026-11-07",
+  "https://punchng.com/how-to-apply-for-2026-nnpc-snepco-scholarship/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/trump-deserved-us-midterm-defeat-kemi-badenoch/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/full-list-deputy-senate-president-names-85-postgraduate-scholarship-beneficiaries/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/soldiers-rescue-three-abducted-women-in-plateau/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/oyo-apm-gov-candidate-challenges-alli-to-present-senate-scorecard/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/how-many-nigerians-have-been-lifted-out-of-poverty-obi-asks-tinubu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07"
  },
  "published": [
   {
@@ -1374,6 +1380,15 @@
    "ts": "2026-11-07T05:11:08.950848+01:00",
    "ng": true,
    "src_title": "I missed lucrative gigs to earn master’s degree – Mr Macaroni"
+  },
+  {
+   "id": "nnpc-snepco-open-applications-2026-national",
+   "date": "2026-11-07",
+   "title": "NNPC, SNEPCo Open Applications for 2026 National University Scholarship",
+   "category": "Business",
+   "ts": "2026-11-07T14:17:20.302432+01:00",
+   "ng": true,
+   "src_title": "How to apply for 2026 NNPC-SNEPCo scholarship"
   }
  ],
  "retries": {
@@ -1477,7 +1492,8 @@
   "https://punchng.com/peter-obi-has-squandered-his-goodwill-shettima/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/world-bank-imf-recognise-tinubus-economic-reforms-1tn-economy-target-achievable-yilwatda/": 1,
   "https://www.vanguardngr.com/2026/11/us-reports-highest-number-of-measles-cases-in-35-years-2/": 1,
-  "https://punchng.com/uae-sponsors-mass-wedding-for-250-palestinian-couples/?utm_source=rss.punchng.com&utm_medium=web": 1
+  "https://punchng.com/uae-sponsors-mass-wedding-for-250-palestinian-couples/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://www.vanguardngr.com/2026/11/makinde-tinubus-poor-planning-plunged-millions-of-nigerians-into-hardship/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1583,7 +1599,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-07",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "nnpc-snepco-open-applications-2026-national",
+   "title": "NNPC, SNEPCo Open Applications for 2026 National University Scholarship",
+   "category": "Business",
+   "ts": "2026-11-07T14:17:20.302451+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"

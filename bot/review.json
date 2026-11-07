@@ -1,5 +1,12 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "nnpc-snepco-open-applications-2026-national",
+   "title": "NNPC, SNEPCo Open Applications for 2026 National University Scholarship",
+   "category": "Business",
+   "ts": "2026-11-07T14:17:20.302451+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -89,5 +96,5 @@
    ]
   }
  ],
- "updated": "2026-11-07T10:11:03.382131+00:00"
+ "updated": "2026-11-07T14:21:52.425075+01:00"
 }
