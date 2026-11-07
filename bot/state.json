@@ -675,7 +675,15 @@
   "https://punchng.com/13-injured-in-lagos-ibadan-expressway-crash/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
   "https://punchng.com/us-washington-voters-approve-transgender-sports-ban/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
   "https://punchng.com/njc-cant-dictate-imo-chief-judge-nominee-ag/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-06",
-  "https://dailypost.ng/2026/11/06/atikus-media-aide-paul-ibe-reacts-to-viral-video-of-tinubu-staggering-to-fall-after-campaign/": "2026-11-06"
+  "https://dailypost.ng/2026/11/06/atikus-media-aide-paul-ibe-reacts-to-viral-video-of-tinubu-staggering-to-fall-after-campaign/": "2026-11-06",
+  "https://punchng.com/i-chose-medicine-at-15-emerged-overall-best-at-21-edo-varsity-top-graduate/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/i-abandoned-my-phd-in-nigeria-after-three-days-in-kidnappers-den-uk-based-researcher/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/how-i-turned-cocoa-farm-waste-into-water-purification-solution-unimed-graduate/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/nigerians-in-tough-clashes-across-europe/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/why-henry-iwobi-are-my-favourite-players-filmmaker-nkanga/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://punchng.com/australian-singer-nishka-set-for-nigerian-debut/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-07",
+  "https://www.vanguardngr.com/2026/11/mutfwang-educated-nigerians-masterminding-corruption-institutional-decay/": "2026-11-07",
+  "https://dailypost.ng/2026/11/07/us-sanctions-nigeria-based-entity-linked-to-iran-missile-procurement/": "2026-11-07"
  },
  "published": [
   {
@@ -1315,6 +1323,24 @@
    "ts": "2026-11-06T22:58:42.928532+01:00",
    "ng": true,
    "src_title": "I’ll resign if Nigeria doesn’t improve under Atiku — Amaechi"
+  },
+  {
+   "id": "edo-state-varsity-top-medical-graduate",
+   "date": "2026-11-07",
+   "title": "Edo State Varsity Top Medical Graduate Recounts Academic Journey at 21",
+   "category": "Health",
+   "ts": "2026-11-07T02:26:12.237411+01:00",
+   "ng": true,
+   "src_title": "I chose medicine at 15, emerged overall best at 21 — Edo varsity top graduate"
+  },
+  {
+   "id": "educated-elite-behind-nigerias-grand-corruption",
+   "date": "2026-11-07",
+   "title": "Educated Elite Behind Nigeria's Grand Corruption, Says Governor Caleb Mutfwang",
+   "category": "Politics",
+   "ts": "2026-11-07T02:27:04.501064+01:00",
+   "ng": true,
+   "src_title": "Mutfwang: Educated Nigerians masterminding corruption, institutional decay"
   }
  ],
  "retries": {
@@ -1523,7 +1549,20 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-07",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "edo-state-varsity-top-medical-graduate",
+   "title": "Edo State Varsity Top Medical Graduate Recounts Academic Journey at 21",
+   "category": "Health",
+   "ts": "2026-11-07T02:26:12.237427+01:00"
+  },
+  {
+   "id": "educated-elite-behind-nigerias-grand-corruption",
+   "title": "Educated Elite Behind Nigeria's Grand Corruption, Says Governor Caleb Mutfwang",
+   "category": "Politics",
+   "ts": "2026-11-07T02:27:04.501082+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
