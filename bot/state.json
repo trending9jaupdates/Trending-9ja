@@ -747,7 +747,16 @@
   "https://punchng.com/2027-ncdc-member-rallies-voters-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
   "https://punchng.com/yoruba-started-home-video-not-nollywood-osuofia/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
   "https://www.vanguardngr.com/2026/11/inuwa-seeks-common-northern-policy-framework-to-tackle-out-of-school-children/": "2026-11-08",
-  "https://dailypost.ng/2026/11/09/2027-kefas-bwacha-tutare-16-others-battle-for-taraba-governorship/": "2026-11-08"
+  "https://dailypost.ng/2026/11/09/2027-kefas-bwacha-tutare-16-others-battle-for-taraba-governorship/": "2026-11-08",
+  "https://punchng.com/influencer-rejected-my-paid-promo-offer-for-everybody-loves-jenifa-funke-akindele/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/abuja-traders-turn-to-online-sales-over-rising-shop-rents/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://www.vanguardngr.com/2026/11/3004682/": "2026-11-08",
+  "https://punchng.com/lagos-seals-church-over-noise-complaints/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/photos-nema-receives-six-nigerian-returnees-from-us/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/presidency-dismisses-claims-tinubu-borrowed-%e2%82%a6120-trillion-in-three-years/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss": "2026-11-08",
+  "https://punchng.com/bedc-raises-staff-salaries/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://www.vanguardngr.com/2026/11/man-returns-home-after-28-yr-journey-walking-around-the-world/": "2026-11-08"
  },
  "published": [
   {
@@ -1459,6 +1468,15 @@
    "ts": "2026-11-08T11:07:45.458057+01:00",
    "ng": true,
    "src_title": "2027: Kefas, Bwacha, Tutare, 16 others battle for Taraba governorship"
+  },
+  {
+   "id": "funke-akindele-recounts-how-influencer-rejected",
+   "date": "2026-11-08",
+   "title": "Funke Akindele Recounts How Influencer Rejected Paid Offer for Her Movie",
+   "category": "Movies",
+   "ts": "2026-11-08T14:17:54.899284+01:00",
+   "ng": true,
+   "src_title": "Influencer rejected my paid promo offer for ‘Everybody Loves Jenifa’ – Funke Akindele"
   }
  ],
  "retries": {
@@ -1744,6 +1762,12 @@
    "title": "2027: 19 Candidates Battle For Taraba Governorship As Kefas, Bwacha Swap Parties",
    "category": "Politics",
    "ts": "2026-11-08T11:07:45.458078+01:00"
+  },
+  {
+   "id": "funke-akindele-recounts-how-influencer-rejected",
+   "title": "Funke Akindele Recounts How Influencer Rejected Paid Offer for Her Movie",
+   "category": "Movies",
+   "ts": "2026-11-08T14:17:54.899305+01:00"
   }
  ],
  "targets_available": [
