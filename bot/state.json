@@ -764,7 +764,16 @@
   "https://punchng.com/2027-i-have-god-nigerians-on-my-side-makinde-declares/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
   "https://www.premiumtimesng.com/news/top-news/923715-ndlea-arrests-ugandan-woman-with-87-cocaine-wraps-at-lagos-airport.html": "2026-11-08",
   "https://punchng.com/2027-ekiti-rec-seeks-stakeholders-support-for-credible-polls/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
-  "https://punchng.com/prayers-are-answered-most-in-prison-actor-baba-ijesha/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08"
+  "https://punchng.com/prayers-are-answered-most-in-prison-actor-baba-ijesha/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/epl-man-utd-fight-back-to-draw-4-4-with-villa/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/customs-revenue-hit-n1-4tn-in-september-october/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss": "2026-11-08",
+  "https://punchng.com/safricas-anc-records-worst-ever-election-result/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/ndc-questions-tinubus-fresh-ibom-seaport-approval/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/tax-ombud-seeks-tinubus-nod-for-six-regional-offices/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/train-collision-in-egypt-kills-four-injures-88/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://www.vanguardngr.com/2026/11/ogun-to-convert-6000-amotekun-so-safe-personnel-to-state-police-abiodun/": "2026-11-08",
+  "https://dailypost.ng/2026/11/08/nigerian-filling-stations-reduces-fuel-price-after-nnpcls-reduction/": "2026-11-08"
  },
  "published": [
   {
@@ -1485,6 +1494,33 @@
    "ts": "2026-11-08T14:17:54.899284+01:00",
    "ng": true,
    "src_title": "Influencer rejected my paid promo offer for ‘Everybody Loves Jenifa’ – Funke Akindele"
+  },
+  {
+   "id": "man-utd-rescue-44-draw-against",
+   "date": "2026-11-08",
+   "title": "Man Utd Rescue 4-4 Draw Against Aston Villa After Stoppage-Time Drama",
+   "category": "Sports",
+   "ts": "2026-11-08T20:04:35.300573+01:00",
+   "ng": true,
+   "src_title": "EPL: Man Utd fight back to draw 4-4 with Villa"
+  },
+  {
+   "id": "ogun-state-convert-6000-amotekun-sosafe",
+   "date": "2026-11-08",
+   "title": "Ogun State to convert 6,000 Amotekun, So-Safe officers to state police",
+   "category": "Politics",
+   "ts": "2026-11-08T20:07:50.864565+01:00",
+   "ng": true,
+   "src_title": "Ogun to convert 6,000 Amotekun, So-Safe personnel to state police — Abiodun"
+  },
+  {
+   "id": "fuel-prices-drop-abuja-filling-stations",
+   "date": "2026-11-08",
+   "title": "Fuel Prices Drop In Abuja As Filling Stations Adjust Rates Following NNPCL Cut",
+   "category": "Business",
+   "ts": "2026-11-08T20:09:32.294707+01:00",
+   "ng": true,
+   "src_title": "Nigerian filling stations reduce fuel price after NNPCL's reduction"
   }
  ],
  "retries": {
@@ -1776,6 +1812,24 @@
    "title": "Funke Akindele Recounts How Influencer Rejected Paid Offer for Her Movie",
    "category": "Movies",
    "ts": "2026-11-08T14:17:54.899305+01:00"
+  },
+  {
+   "id": "man-utd-rescue-44-draw-against",
+   "title": "Man Utd Rescue 4-4 Draw Against Aston Villa After Stoppage-Time Drama",
+   "category": "Sports",
+   "ts": "2026-11-08T20:04:35.300599+01:00"
+  },
+  {
+   "id": "ogun-state-convert-6000-amotekun-sosafe",
+   "title": "Ogun State to convert 6,000 Amotekun, So-Safe officers to state police",
+   "category": "Politics",
+   "ts": "2026-11-08T20:07:50.864596+01:00"
+  },
+  {
+   "id": "fuel-prices-drop-abuja-filling-stations",
+   "title": "Fuel Prices Drop In Abuja As Filling Stations Adjust Rates Following NNPCL Cut",
+   "category": "Business",
+   "ts": "2026-11-08T20:09:32.294734+01:00"
   }
  ],
  "targets_available": [
