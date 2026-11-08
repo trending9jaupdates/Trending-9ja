@@ -737,7 +737,17 @@
   "https://www.completesports.com/landmark-achievement-tinubu-congratulates-flamingos-on-historic-u-17-womens-world-cup-victory/": "2026-11-08",
   "https://punchng.com/nkechi-blessings-ex-falegan-apologises-over-bitter-breakup/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
   "https://punchng.com/flamingos-world-cup-victory-nigerias-pride-barau/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
-  "https://www.premiumtimesng.com/sports/football/923659-first-lady-celebrates-flamingos-after-historic-u-17-world-cup-title-win.html": "2026-11-08"
+  "https://www.premiumtimesng.com/sports/football/923659-first-lady-celebrates-flamingos-after-historic-u-17-world-cup-title-win.html": "2026-11-08",
+  "https://punchng.com/2027-oyo-community-stakeholders-vow-to-back-candidates-with-track-records/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/police-arrest-man-over-fake-alert-in-bauchi-recover-n3m-goods/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://dailypost.ng/2026/11/08/2026-u-17-wwc-infantino-salutes-flamingos-after-maiden-title-triumph/": "2026-11-08",
+  "https://punchng.com/meet-busari-coach-behind-flamingos-historic-world-cup-triumph/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/meet-nigerias-umejiaku-fifa-u-17-womens-world-cup-best-player/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://www.vanguardngr.com/2026/11/messi-wins-second-consecutive-mls-golden-boot-after-scoring-26-goals/": "2026-11-08",
+  "https://punchng.com/2027-ncdc-member-rallies-voters-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://punchng.com/yoruba-started-home-video-not-nollywood-osuofia/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-08",
+  "https://www.vanguardngr.com/2026/11/inuwa-seeks-common-northern-policy-framework-to-tackle-out-of-school-children/": "2026-11-08",
+  "https://dailypost.ng/2026/11/09/2027-kefas-bwacha-tutare-16-others-battle-for-taraba-governorship/": "2026-11-08"
  },
  "published": [
   {
@@ -1422,6 +1432,33 @@
    "ts": "2026-11-08T08:27:08.517037+01:00",
    "ng": true,
    "src_title": "Hilda Baci reacts to claims partner made her successful"
+  },
+  {
+   "id": "2027-oyo-community-leaders-vow-vote",
+   "date": "2026-11-08",
+   "title": "2027: Oyo Community Leaders Vow to Vote Candidates Based on Track Records",
+   "category": "Politics",
+   "ts": "2026-11-08T11:05:21.555455+01:00",
+   "ng": true,
+   "src_title": "2027: Oyo community stakeholders vow to back candidates with track records"
+  },
+  {
+   "id": "governor-yahaya-urges-northern-states-adopt",
+   "date": "2026-11-08",
+   "title": "Governor Yahaya Urges Northern States to Adopt Joint Plan on Out-of-School Children",
+   "category": "Politics",
+   "ts": "2026-11-08T11:07:23.002382+01:00",
+   "ng": true,
+   "src_title": "Inuwa seeks common Northern policy framework to tackle out-of-school children"
+  },
+  {
+   "id": "2027-19-candidates-battle-taraba-governorship",
+   "date": "2026-11-08",
+   "title": "2027: 19 Candidates Battle For Taraba Governorship As Kefas, Bwacha Swap Parties",
+   "category": "Politics",
+   "ts": "2026-11-08T11:07:45.458057+01:00",
+   "ng": true,
+   "src_title": "2027: Kefas, Bwacha, Tutare, 16 others battle for Taraba governorship"
   }
  ],
  "retries": {
@@ -1689,6 +1726,24 @@
    "title": "Hilda Baci Rejects Claims That Partner Dapper Made Her Successful",
    "category": "Entertainment",
    "ts": "2026-11-08T08:27:08.517078+01:00"
+  },
+  {
+   "id": "2027-oyo-community-leaders-vow-vote",
+   "title": "2027: Oyo Community Leaders Vow to Vote Candidates Based on Track Records",
+   "category": "Politics",
+   "ts": "2026-11-08T11:05:21.555479+01:00"
+  },
+  {
+   "id": "governor-yahaya-urges-northern-states-adopt",
+   "title": "Governor Yahaya Urges Northern States to Adopt Joint Plan on Out-of-School Children",
+   "category": "Politics",
+   "ts": "2026-11-08T11:07:23.002406+01:00"
+  },
+  {
+   "id": "2027-19-candidates-battle-taraba-governorship",
+   "title": "2027: 19 Candidates Battle For Taraba Governorship As Kefas, Bwacha Swap Parties",
+   "category": "Politics",
+   "ts": "2026-11-08T11:07:45.458078+01:00"
   }
  ],
  "targets_available": [
