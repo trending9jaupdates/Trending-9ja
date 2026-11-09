@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvy2imdi-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `exapc-aspirant-yahaya-seriki-backs-tinubu`",
-  "at": "2026-11-01T17:52:37.067051+01:00"
- },
- {
   "job": "mvy800xi-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `sanwoolu-models-outfit-runway-lagos-fashion`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Picture changed (new picture): `tony-elumelu-credits-mother-early-business`",
   "at": "2026-11-09T09:52:17.518974+01:00"
+ },
+ {
+  "job": "mw91hk2u-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `apc-chieftain-raises-concern-73-voter`",
+  "at": "2026-11-09T10:09:15.544938+01:00"
  }
 ]
