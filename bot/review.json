@@ -1,5 +1,18 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "2027-opposition-consensus-candidate-plan-dead",
+   "title": "2027: Opposition Consensus Candidate Plan Dead, Says G-100 Chieftain",
+   "category": "Politics",
+   "ts": "2026-11-09T05:22:48.633120+01:00"
+  },
+  {
+   "id": "apc-chieftain-raises-concern-73-voter",
+   "title": "APC Chieftain Raises Concern Over 73% Voter Apathy In Ekiti Community",
+   "category": "Politics",
+   "ts": "2026-11-09T05:24:34.071586+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -79,5 +92,5 @@
    ]
   }
  ],
- "updated": "2026-11-09T01:33:48.381717+00:00"
+ "updated": "2026-11-09T05:28:31.174420+01:00"
 }

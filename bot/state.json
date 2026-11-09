@@ -760,7 +760,17 @@
   "https://www.vanguardngr.com/2026/11/fan-rushed-to-hospital-after-stadium-stand-collapses-during-bodo-glimt-match/": "2026-11-09",
   "https://punchng.com/kaduna-kano-rail-project-hits-90-inauguration-set-for-december/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
   "https://punchng.com/navy-arrests-259-oil-thieves-destroys-168-illegal-refineries/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
-  "https://punchng.com/ndlea-arrests-ugandan-woman-with-cocaine-hidden-in-underwear/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09"
+  "https://punchng.com/ndlea-arrests-ugandan-woman-with-cocaine-hidden-in-underwear/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://punchng.com/oppositions-consensus-candidate-plan-dead-g-100-chieftain/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://punchng.com/lagos-barber-dies-after-28-days-in-police-custody-lagos-barber-dies-after-28-days-in-police-custody/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://punchng.com/naira-gains-6-3-against-dollar-as-reserves-remain-above-55bn/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://punchng.com/lagos-branches-light-up-i-fitness-gamefest-2-0/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://punchng.com/yohanna-daga-in-chelles-23-man-list-for-dr-congo/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://www.vanguardngr.com/2026/11/fermin-brace-earns-liga-leaders-barcelona-2-1-win-at-atletico/": "2026-11-09",
+  "https://punchng.com/nigeria-win-historic-youth-olympics-100m-golds/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://www.vanguardngr.com/2026/11/2027-apc-chieftain-laments-73-voter-apathy-in-aramoko/": "2026-11-09",
+  "https://www.premiumtimesng.com/opinion/923803-the-atiku-factor-by-wole-olaoye.html": "2026-11-09",
+  "https://www.channelstv.com/2026/11/08/man-utd-fight-back-twice-to-rescue-4-4-draw-against-villa/": "2026-11-09"
  },
  "published": [
   {
@@ -1442,6 +1452,24 @@
    "ts": "2026-11-08T20:09:32.294707+01:00",
    "ng": true,
    "src_title": "Nigerian filling stations reduce fuel price after NNPCL's reduction"
+  },
+  {
+   "id": "2027-opposition-consensus-candidate-plan-dead",
+   "date": "2026-11-09",
+   "title": "2027: Opposition Consensus Candidate Plan Dead, Says G-100 Chieftain",
+   "category": "Politics",
+   "ts": "2026-11-09T05:22:48.633101+01:00",
+   "ng": true,
+   "src_title": "Opposition’s consensus candidate plan dead – G-100 chieftain"
+  },
+  {
+   "id": "apc-chieftain-raises-concern-73-voter",
+   "date": "2026-11-09",
+   "title": "APC Chieftain Raises Concern Over 73% Voter Apathy In Ekiti Community",
+   "category": "Politics",
+   "ts": "2026-11-09T05:24:34.071565+01:00",
+   "ng": true,
+   "src_title": "2027: APC chieftain laments 73% voter apathy in Aramoko"
   }
  ],
  "retries": {
@@ -1558,7 +1586,8 @@
   "https://dailypost.ng/2026/11/08/cross-river-govt-presbyterian-church-clash-over-access-road/": 1,
   "https://punchng.com/seven-die-as-two-trains-collide-in-egypt/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/seven-killed-over-100-injured-in-egypt-train-collision/": 1,
-  "https://dailypost.ng/2026/11/08/boko-haram-fighter-surrenders-to-troops-with-weapon-in-borno/": 1
+  "https://dailypost.ng/2026/11/08/boko-haram-fighter-surrenders-to-troops-with-weapon-in-borno/": 1,
+  "https://dailypost.ng/2026/11/08/nvidia-ceo-jensen-huang-admits-to-affair-with-chinese-spy/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1664,7 +1693,20 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-09",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "2027-opposition-consensus-candidate-plan-dead",
+   "title": "2027: Opposition Consensus Candidate Plan Dead, Says G-100 Chieftain",
+   "category": "Politics",
+   "ts": "2026-11-09T05:22:48.633120+01:00"
+  },
+  {
+   "id": "apc-chieftain-raises-concern-73-voter",
+   "title": "APC Chieftain Raises Concern Over 73% Voter Apathy In Ekiti Community",
+   "category": "Politics",
+   "ts": "2026-11-09T05:24:34.071586+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
