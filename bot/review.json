@@ -1,25 +1,19 @@
 {
- "pending": [
-  {
-   "id": "2027-opposition-consensus-candidate-plan-dead",
-   "title": "2027: Opposition Consensus Candidate Plan Dead, Says G-100 Chieftain",
-   "category": "Politics",
-   "ts": "2026-11-09T05:22:48.633120+01:00"
-  },
-  {
-   "id": "apc-chieftain-raises-concern-73-voter",
-   "title": "APC Chieftain Raises Concern Over 73% Voter Apathy In Ekiti Community",
-   "category": "Politics",
-   "ts": "2026-11-09T05:24:34.071586+01:00"
-  },
-  {
-   "id": "tony-elumelu-credits-mother-early-business",
-   "title": "Tony Elumelu Credits Mother for Early Business Lessons at WIMBIZ Conference",
-   "category": "Business",
-   "ts": "2026-11-09T08:52:11.789007+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "2027-opposition-consensus-candidate-plan-dead": [
+   "telegram",
+   "newsletter"
+  ],
+  "apc-chieftain-raises-concern-73-voter": [
+   "telegram",
+   "newsletter"
+  ],
+  "tony-elumelu-credits-mother-early-business": [
+   "telegram",
+   "newsletter"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -98,5 +92,5 @@
    ]
   }
  ],
- "updated": "2026-11-09T09:09:18.046411+00:00"
+ "updated": "2026-11-09T10:20:04.434495+01:00"
 }
