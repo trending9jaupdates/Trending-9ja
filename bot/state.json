@@ -789,7 +789,18 @@
   "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss": "2026-11-09",
   "https://punchng.com/video-man-calls-out-vio-officials-over-worn-out-tyres/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
   "https://punchng.com/video-overcrowding-at-ogun-nysc-camp-sparks-outrage/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
-  "https://punchng.com/kano-gov-to-present-2027-budget-wednesday/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09"
+  "https://punchng.com/kano-gov-to-present-2027-budget-wednesday/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss": "2026-11-09",
+  "https://punchng.com/amosuns-wife-empowers-osun-youths-traders-with-grants/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://punchng.com/just-in-mourinho-wins-manager-of-the-month-after-perfect-october/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://punchng.com/how-nigerians-can-access-uk-evisa/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://www.vanguardngr.com/2026/11/musialas-condition-cannot-be-cured-may-never-return-to-best-bayern-president/": "2026-11-09",
+  "https://punchng.com/nysc-deployment-surge-caused-sagamu-camp-overcrowding-ogun/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://nairametrics.com/2026/11/09/aot-lagos-8-0-returns-with-bold-focus-on-ai-ethics-and-digital-governance/": "2026-11-09",
+  "https://punchng.com/police-rescue-abducted-apc-chairman-in-kano/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://punchng.com/fct-police-warn-motorists-against-one-way-driving/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://www.vanguardngr.com/2026/11/osun-labour-threatens-to-withdraw-support-for-tinubu-over-withheld-lg-funds/": "2026-11-09",
+  "https://www.premiumtimesng.com/regional/north-central/923912-saraki-accuses-kwara-government-of-political-persecution-after-dropping-18-offa-robbery-charges.html": "2026-11-09"
  },
  "published": [
   {
@@ -1498,6 +1509,24 @@
    "ts": "2026-11-09T08:52:11.788985+01:00",
    "ng": true,
    "src_title": "WIMBIZ: ‘I learnt business from my mother’ – Tony Elumelu champions women’s economic leadership"
+  },
+  {
+   "id": "olufunso-amosun-empowers-osun-youths-with",
+   "date": "2026-11-09",
+   "title": "Olufunso Amosun Empowers Osun Youths With AI Skills, N5m Grants",
+   "category": "Tech/AI",
+   "ts": "2026-11-09T14:37:06.363082+01:00",
+   "ng": true,
+   "src_title": "Amosun’s wife empowers Osun youths, traders with grants"
+  },
+  {
+   "id": "osun-labour-threatens-withhold-support-tinubu",
+   "date": "2026-11-09",
+   "title": "Osun Labour Threatens to Withhold Support for Tinubu Over Seized LG Funds",
+   "category": "Politics",
+   "ts": "2026-11-09T14:40:23.227798+01:00",
+   "ng": true,
+   "src_title": "Osun labour threatens to withdraw support for Tinubu over withheld LG funds"
   }
  ],
  "retries": {
@@ -1617,7 +1646,8 @@
   "https://dailypost.ng/2026/11/08/boko-haram-fighter-surrenders-to-troops-with-weapon-in-borno/": 1,
   "https://dailypost.ng/2026/11/08/nvidia-ceo-jensen-huang-admits-to-affair-with-chinese-spy/": 1,
   "https://punchng.com/trump-rules-out-fresh-war-with-iran/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://dailypost.ng/2026/11/09/nigerian-troops-kill-over-50-terrorists-rescue-kidnap-victims-in-nationwide-operations/": 1
+  "https://dailypost.ng/2026/11/09/nigerian-troops-kill-over-50-terrorists-rescue-kidnap-victims-in-nationwide-operations/": 1,
+  "https://dailypost.ng/2026/11/09/2026-u-17-wwc-stop-playing-victim-presidency-slams-peter-obi/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1723,7 +1753,20 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-09",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "olufunso-amosun-empowers-osun-youths-with",
+   "title": "Olufunso Amosun Empowers Osun Youths With AI Skills, N5m Grants",
+   "category": "Tech/AI",
+   "ts": "2026-11-09T14:37:06.363101+01:00"
+  },
+  {
+   "id": "osun-labour-threatens-withhold-support-tinubu",
+   "title": "Osun Labour Threatens to Withhold Support for Tinubu Over Seized LG Funds",
+   "category": "Politics",
+   "ts": "2026-11-09T14:40:23.227821+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"

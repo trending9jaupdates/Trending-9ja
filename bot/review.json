@@ -1,5 +1,18 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "olufunso-amosun-empowers-osun-youths-with",
+   "title": "Olufunso Amosun Empowers Osun Youths With AI Skills, N5m Grants",
+   "category": "Tech/AI",
+   "ts": "2026-11-09T14:37:06.363101+01:00"
+  },
+  {
+   "id": "osun-labour-threatens-withhold-support-tinubu",
+   "title": "Osun Labour Threatens to Withhold Support for Tinubu Over Seized LG Funds",
+   "category": "Politics",
+   "ts": "2026-11-09T14:40:23.227821+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -82,5 +95,5 @@
    ]
   }
  ],
- "updated": "2026-11-09T10:18:52.354587+00:00"
+ "updated": "2026-11-09T14:43:14.592261+01:00"
 }
