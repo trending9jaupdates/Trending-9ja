@@ -320,5 +320,110 @@
   "ok": true,
   "message": "email scheduled",
   "at": "2026-11-07T07:38:09.639611+00:00"
+ },
+ {
+  "id": "nnpc-snepco-open-applications-2026-national",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:37:45.049802+00:00"
+ },
+ {
+  "id": "tinubu-commends-fubara-wike-rivers-peace",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:37:49.512555+00:00"
+ },
+ {
+  "id": "oyo-state-plans-economic-shift-arts",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:37:53.655427+00:00"
+ },
+ {
+  "id": "okafor-scores-winner-leeds-defeat-tottenham",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:37:57.679189+00:00"
+ },
+ {
+  "id": "tinubu-embraces-governor-fubara-apc-campaign",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:01.525605+00:00"
+ },
+ {
+  "id": "samson-adamu-confirmed-first-nigerian-substantive",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:05.417802+00:00"
+ },
+ {
+  "id": "epl-jamie-redknapp-names-brighton-arsenals",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:10.002252+00:00"
+ },
+ {
+  "id": "hilda-baci-rejects-claims-that-partner",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:14.017255+00:00"
+ },
+ {
+  "id": "2027-oyo-community-leaders-vow-vote",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:17.885710+00:00"
+ },
+ {
+  "id": "governor-yahaya-urges-northern-states-adopt",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:21.753531+00:00"
+ },
+ {
+  "id": "2027-19-candidates-battle-taraba-governorship",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:25.635790+00:00"
+ },
+ {
+  "id": "funke-akindele-recounts-how-influencer-rejected",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:29.527004+00:00"
+ },
+ {
+  "id": "man-utd-rescue-44-draw-against",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:33.335707+00:00"
+ },
+ {
+  "id": "ogun-state-convert-6000-amotekun-sosafe",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:37.396559+00:00"
+ },
+ {
+  "id": "fuel-prices-drop-abuja-filling-stations",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T00:38:41.345730+00:00"
  }
 ]

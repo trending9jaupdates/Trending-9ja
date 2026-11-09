@@ -1773,55 +1773,54 @@
   "mr-macaroni-speaks-missing-lucrative-jobs": {
    "telegram": "2026-11-07T07:38:05.904947+00:00",
    "newsletter": "2026-11-07T07:38:09.639607+00:00"
+  },
+  "nnpc-snepco-open-applications-2026-national": {
+   "telegram": "2026-11-09T00:37:45.049781+00:00"
+  },
+  "tinubu-commends-fubara-wike-rivers-peace": {
+   "telegram": "2026-11-09T00:37:49.512538+00:00"
+  },
+  "oyo-state-plans-economic-shift-arts": {
+   "telegram": "2026-11-09T00:37:53.655411+00:00"
+  },
+  "okafor-scores-winner-leeds-defeat-tottenham": {
+   "telegram": "2026-11-09T00:37:57.679174+00:00"
+  },
+  "tinubu-embraces-governor-fubara-apc-campaign": {
+   "telegram": "2026-11-09T00:38:01.525589+00:00"
+  },
+  "samson-adamu-confirmed-first-nigerian-substantive": {
+   "telegram": "2026-11-09T00:38:05.417785+00:00"
+  },
+  "epl-jamie-redknapp-names-brighton-arsenals": {
+   "telegram": "2026-11-09T00:38:10.002235+00:00"
+  },
+  "hilda-baci-rejects-claims-that-partner": {
+   "telegram": "2026-11-09T00:38:14.017237+00:00"
+  },
+  "2027-oyo-community-leaders-vow-vote": {
+   "telegram": "2026-11-09T00:38:17.885695+00:00"
+  },
+  "governor-yahaya-urges-northern-states-adopt": {
+   "telegram": "2026-11-09T00:38:21.753514+00:00"
+  },
+  "2027-19-candidates-battle-taraba-governorship": {
+   "telegram": "2026-11-09T00:38:25.635776+00:00"
+  },
+  "funke-akindele-recounts-how-influencer-rejected": {
+   "telegram": "2026-11-09T00:38:29.526989+00:00"
+  },
+  "man-utd-rescue-44-draw-against": {
+   "telegram": "2026-11-09T00:38:33.335690+00:00"
+  },
+  "ogun-state-convert-6000-amotekun-sosafe": {
+   "telegram": "2026-11-09T00:38:37.396543+00:00"
+  },
+  "fuel-prices-drop-abuja-filling-stations": {
+   "telegram": "2026-11-09T00:38:41.345715+00:00"
   }
  },
- "approved_share": {
-  "nnpc-snepco-open-applications-2026-national": [
-   "telegram"
-  ],
-  "tinubu-commends-fubara-wike-rivers-peace": [
-   "telegram"
-  ],
-  "oyo-state-plans-economic-shift-arts": [
-   "telegram"
-  ],
-  "okafor-scores-winner-leeds-defeat-tottenham": [
-   "telegram"
-  ],
-  "tinubu-embraces-governor-fubara-apc-campaign": [
-   "telegram"
-  ],
-  "samson-adamu-confirmed-first-nigerian-substantive": [
-   "telegram"
-  ],
-  "epl-jamie-redknapp-names-brighton-arsenals": [
-   "telegram"
-  ],
-  "hilda-baci-rejects-claims-that-partner": [
-   "telegram"
-  ],
-  "2027-oyo-community-leaders-vow-vote": [
-   "telegram"
-  ],
-  "governor-yahaya-urges-northern-states-adopt": [
-   "telegram"
-  ],
-  "2027-19-candidates-battle-taraba-governorship": [
-   "telegram"
-  ],
-  "funke-akindele-recounts-how-influencer-rejected": [
-   "telegram"
-  ],
-  "man-utd-rescue-44-draw-against": [
-   "telegram"
-  ],
-  "ogun-state-convert-6000-amotekun-sosafe": [
-   "telegram"
-  ],
-  "fuel-prices-drop-abuja-filling-stations": [
-   "telegram"
-  ]
- },
+ "approved_share": {},
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [
