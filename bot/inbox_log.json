@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvuj3fct-delete.json",
-  "ok": false,
-  "message": "FAILED - story 'harry-kane-wins-2026-ballon-dor-2' not found",
-  "at": "2026-10-30T06:25:35.038353+01:00"
- },
- {
   "job": "mvxlaktl-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `leao-praises-osimhen-penalty-gesture-galatasaray`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Approved 15 stories for sharing to telegram",
   "at": "2026-11-09T01:37:40.844174+01:00"
+ },
+ {
+  "job": "mw90emls-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `fuel-prices-drop-abuja-filling-stations`",
+  "at": "2026-11-09T09:38:59.351504+01:00"
  }
 ]
