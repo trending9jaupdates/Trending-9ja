@@ -1,97 +1,52 @@
 {
- "pending": [
-  {
-   "id": "nnpc-snepco-open-applications-2026-national",
-   "title": "NNPC, SNEPCo Open Applications for 2026 National University Scholarship",
-   "category": "Business",
-   "ts": "2026-11-07T14:17:20.302451+01:00"
-  },
-  {
-   "id": "tinubu-commends-fubara-wike-rivers-peace",
-   "title": "Tinubu Commends Fubara and Wike Over Rivers Peace and Infrastructure",
-   "category": "Politics",
-   "ts": "2026-11-07T16:55:14.619426+01:00"
-  },
-  {
-   "id": "oyo-state-plans-economic-shift-arts",
-   "title": "Oyo State Plans Economic Shift to Arts, Tourism, and Exported Crafts",
-   "category": "Business",
-   "ts": "2026-11-07T16:57:42.171198+01:00"
-  },
-  {
-   "id": "okafor-scores-winner-leeds-defeat-tottenham",
-   "title": "Okafor Scores Winner as Leeds Defeat Tottenham 1-0",
-   "category": "Sports",
-   "ts": "2026-11-07T17:02:45.980514+01:00"
-  },
-  {
-   "id": "tinubu-embraces-governor-fubara-apc-campaign",
-   "title": "Tinubu Embraces Governor Fubara at APC Campaign Event in Rivers State",
-   "category": "Politics",
-   "ts": "2026-11-07T20:13:35.669377+01:00"
-  },
-  {
-   "id": "samson-adamu-confirmed-first-nigerian-substantive",
-   "title": "Samson Adamu Confirmed as First Nigerian Substantive CAF General Secretary",
-   "category": "Sports",
-   "ts": "2026-11-08T02:32:31.831683+01:00"
-  },
-  {
-   "id": "epl-jamie-redknapp-names-brighton-arsenals",
-   "title": "EPL: Jamie Redknapp Names Brighton as Arsenal's Main Title Rivals",
-   "category": "Sports",
-   "ts": "2026-11-08T02:33:43.087408+01:00"
-  },
-  {
-   "id": "hilda-baci-rejects-claims-that-partner",
-   "title": "Hilda Baci Rejects Claims That Partner Dapper Made Her Successful",
-   "category": "Entertainment",
-   "ts": "2026-11-08T08:27:08.517078+01:00"
-  },
-  {
-   "id": "2027-oyo-community-leaders-vow-vote",
-   "title": "2027: Oyo Community Leaders Vow to Vote Candidates Based on Track Records",
-   "category": "Politics",
-   "ts": "2026-11-08T11:05:21.555479+01:00"
-  },
-  {
-   "id": "governor-yahaya-urges-northern-states-adopt",
-   "title": "Governor Yahaya Urges Northern States to Adopt Joint Plan on Out-of-School Children",
-   "category": "Politics",
-   "ts": "2026-11-08T11:07:23.002406+01:00"
-  },
-  {
-   "id": "2027-19-candidates-battle-taraba-governorship",
-   "title": "2027: 19 Candidates Battle For Taraba Governorship As Kefas, Bwacha Swap Parties",
-   "category": "Politics",
-   "ts": "2026-11-08T11:07:45.458078+01:00"
-  },
-  {
-   "id": "funke-akindele-recounts-how-influencer-rejected",
-   "title": "Funke Akindele Recounts How Influencer Rejected Paid Offer for Her Movie",
-   "category": "Movies",
-   "ts": "2026-11-08T14:17:54.899305+01:00"
-  },
-  {
-   "id": "man-utd-rescue-44-draw-against",
-   "title": "Man Utd Rescue 4-4 Draw Against Aston Villa After Stoppage-Time Drama",
-   "category": "Sports",
-   "ts": "2026-11-08T20:04:35.300599+01:00"
-  },
-  {
-   "id": "ogun-state-convert-6000-amotekun-sosafe",
-   "title": "Ogun State to convert 6,000 Amotekun, So-Safe officers to state police",
-   "category": "Politics",
-   "ts": "2026-11-08T20:07:50.864596+01:00"
-  },
-  {
-   "id": "fuel-prices-drop-abuja-filling-stations",
-   "title": "Fuel Prices Drop In Abuja As Filling Stations Adjust Rates Following NNPCL Cut",
-   "category": "Business",
-   "ts": "2026-11-08T20:09:32.294734+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "nnpc-snepco-open-applications-2026-national": [
+   "telegram"
+  ],
+  "tinubu-commends-fubara-wike-rivers-peace": [
+   "telegram"
+  ],
+  "oyo-state-plans-economic-shift-arts": [
+   "telegram"
+  ],
+  "okafor-scores-winner-leeds-defeat-tottenham": [
+   "telegram"
+  ],
+  "tinubu-embraces-governor-fubara-apc-campaign": [
+   "telegram"
+  ],
+  "samson-adamu-confirmed-first-nigerian-substantive": [
+   "telegram"
+  ],
+  "epl-jamie-redknapp-names-brighton-arsenals": [
+   "telegram"
+  ],
+  "hilda-baci-rejects-claims-that-partner": [
+   "telegram"
+  ],
+  "2027-oyo-community-leaders-vow-vote": [
+   "telegram"
+  ],
+  "governor-yahaya-urges-northern-states-adopt": [
+   "telegram"
+  ],
+  "2027-19-candidates-battle-taraba-governorship": [
+   "telegram"
+  ],
+  "funke-akindele-recounts-how-influencer-rejected": [
+   "telegram"
+  ],
+  "man-utd-rescue-44-draw-against": [
+   "telegram"
+  ],
+  "ogun-state-convert-6000-amotekun-sosafe": [
+   "telegram"
+  ],
+  "fuel-prices-drop-abuja-filling-stations": [
+   "telegram"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -180,5 +135,5 @@
    ]
   }
  ],
- "updated": "2026-11-08T22:02:00.018398+00:00"
+ "updated": "2026-11-09T01:37:40.844672+01:00"
 }

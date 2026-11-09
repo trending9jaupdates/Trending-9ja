@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvuizqbo-delete.json",
-  "ok": false,
-  "message": "FAILED - story 'harry-kane-wins-2026-ballon-dor-3' not found",
-  "at": "2026-10-30T06:22:42.471838+01:00"
- },
- {
   "job": "mvuj3fct-delete.json",
   "ok": false,
   "message": "FAILED - story 'harry-kane-wins-2026-ballon-dor-2' not found",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Approved 3 stories for sharing to telegram, newsletter",
   "at": "2026-11-07T08:37:52.577226+01:00"
+ },
+ {
+  "job": "mw8j7q90-share.json",
+  "ok": true,
+  "message": "Approved 15 stories for sharing to telegram",
+  "at": "2026-11-09T01:37:40.844174+01:00"
  }
 ]
