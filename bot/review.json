@@ -1,42 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "2027-opposition-consensus-candidate-plan-dead": [
-   "telegram",
-   "newsletter"
-  ],
-  "apc-chieftain-raises-concern-73-voter": [
-   "telegram",
-   "newsletter"
-  ],
-  "tony-elumelu-credits-mother-early-business": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "okafor-scores-winner-leeds-defeat-tottenham",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "tinubu-embraces-governor-fubara-apc-campaign",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "samson-adamu-confirmed-first-nigerian-substantive",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "epl-jamie-redknapp-names-brighton-arsenals",
    "targets": [
@@ -90,7 +59,28 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "2027-opposition-consensus-candidate-plan-dead",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "apc-chieftain-raises-concern-73-voter",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "tony-elumelu-credits-mother-early-business",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-09T10:20:04.434495+01:00"
+ "updated": "2026-11-09T09:20:20.795888+00:00"
 }

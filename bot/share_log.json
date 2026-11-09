@@ -425,5 +425,47 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-09T00:38:41.345730+00:00"
+ },
+ {
+  "id": "2027-opposition-consensus-candidate-plan-dead",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T09:20:07.988251+00:00"
+ },
+ {
+  "id": "apc-chieftain-raises-concern-73-voter",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T09:20:12.734785+00:00"
+ },
+ {
+  "id": "tony-elumelu-credits-mother-early-business",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-09T09:20:17.200550+00:00"
+ },
+ {
+  "id": "2027-opposition-consensus-candidate-plan-dead",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-09T09:20:20.792728+00:00"
+ },
+ {
+  "id": "apc-chieftain-raises-concern-73-voter",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-09T09:20:20.792763+00:00"
+ },
+ {
+  "id": "tony-elumelu-credits-mother-early-business",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-09T09:20:20.792775+00:00"
  }
 ]
