@@ -770,7 +770,17 @@
   "https://punchng.com/nigeria-win-historic-youth-olympics-100m-golds/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
   "https://www.vanguardngr.com/2026/11/2027-apc-chieftain-laments-73-voter-apathy-in-aramoko/": "2026-11-09",
   "https://www.premiumtimesng.com/opinion/923803-the-atiku-factor-by-wole-olaoye.html": "2026-11-09",
-  "https://www.channelstv.com/2026/11/08/man-utd-fight-back-twice-to-rescue-4-4-draw-against-villa/": "2026-11-09"
+  "https://www.channelstv.com/2026/11/08/man-utd-fight-back-twice-to-rescue-4-4-draw-against-villa/": "2026-11-09",
+  "https://punchng.com/gospel-singer-toluwanisings-for-burial-today/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://punchng.com/flamingos-arrive-in-abuja-after-historic-u-17-world-cup-triumph/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://www.vanguardngr.com/2026/11/son-uploads-mancap-certified-products-online-to-check-fakes/": "2026-11-09",
+  "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss": "2026-11-09",
+  "https://punchng.com/african-footballers-shine-across-europes-top-leagues/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://www.vanguardngr.com/2026/11/nigerian-woman-entrepreneur-wins-award-at-world-investment-forum/": "2026-11-09",
+  "https://punchng.com/morning-recap-lagos-barber-dies-after-detention-fg-seeks-500m-loan-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://punchng.com/five-conditions-for-skipping-australian-visa-english-test/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-09",
+  "https://www.vanguardngr.com/2026/11/wimbiz-i-learnt-business-from-my-mother-tony-elumelu-champions-womens-economic-leadership/": "2026-11-09",
+  "https://www.premiumtimesng.com/business/business-news/923830-bua-cement-unilever-jaiz-bank-top-stock-pick-this-week.html": "2026-11-09"
  },
  "published": [
   {
@@ -1470,6 +1480,15 @@
    "ts": "2026-11-09T05:24:34.071565+01:00",
    "ng": true,
    "src_title": "2027: APC chieftain laments 73% voter apathy in Aramoko"
+  },
+  {
+   "id": "tony-elumelu-credits-mother-early-business",
+   "date": "2026-11-09",
+   "title": "Tony Elumelu Credits Mother for Early Business Lessons at WIMBIZ Conference",
+   "category": "Business",
+   "ts": "2026-11-09T08:52:11.788985+01:00",
+   "ng": true,
+   "src_title": "WIMBIZ: ‘I learnt business from my mother’ – Tony Elumelu champions women’s economic leadership"
   }
  ],
  "retries": {
@@ -1587,7 +1606,9 @@
   "https://punchng.com/seven-die-as-two-trains-collide-in-egypt/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/seven-killed-over-100-injured-in-egypt-train-collision/": 1,
   "https://dailypost.ng/2026/11/08/boko-haram-fighter-surrenders-to-troops-with-weapon-in-borno/": 1,
-  "https://dailypost.ng/2026/11/08/nvidia-ceo-jensen-huang-admits-to-affair-with-chinese-spy/": 1
+  "https://dailypost.ng/2026/11/08/nvidia-ceo-jensen-huang-admits-to-affair-with-chinese-spy/": 1,
+  "https://punchng.com/trump-rules-out-fresh-war-with-iran/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://dailypost.ng/2026/11/09/nigerian-troops-kill-over-50-terrorists-rescue-kidnap-victims-in-nationwide-operations/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1705,6 +1726,12 @@
    "title": "APC Chieftain Raises Concern Over 73% Voter Apathy In Ekiti Community",
    "category": "Politics",
    "ts": "2026-11-09T05:24:34.071586+01:00"
+  },
+  {
+   "id": "tony-elumelu-credits-mother-early-business",
+   "title": "Tony Elumelu Credits Mother for Early Business Lessons at WIMBIZ Conference",
+   "category": "Business",
+   "ts": "2026-11-09T08:52:11.789007+01:00"
   }
  ],
  "targets_available": [
