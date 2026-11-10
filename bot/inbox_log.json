@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvyul1o0-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `kimi-antonelli-makes-history-youngest-f1`",
-  "at": "2026-11-02T06:58:18.218331+01:00"
- },
- {
   "job": "mvz0rl20-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `venezuela-coach-fras-reacts-u17-world`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Approved 3 stories for sharing to telegram, newsletter",
   "at": "2026-11-09T10:20:04.433952+01:00"
+ },
+ {
+  "job": "mwa81814-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `wimafrica-advocates-financial-access-women-leaders`",
+  "at": "2026-11-10T06:00:17.704332+01:00"
  }
 ]
