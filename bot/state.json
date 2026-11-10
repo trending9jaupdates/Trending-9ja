@@ -805,7 +805,16 @@
   "https://www.premiumtimesng.com/news/top-news/924019-navy-rescues-bayelsa-commissioner-nscdc-official-5-others-from-drowning.html": "2026-11-10",
   "https://www.channelstv.com/2026/11/09/video-apc-national-chairman-defends-wikes-%e2%82%a610m-reward-for-council-that-delivers-for-tinubu/": "2026-11-10",
   "https://www.legit.ng/politics/1740461-tinubus-visit-tuesday-november-10-declared-public-holiday/": "2026-11-10",
-  "https://www.bellanaija.com/2026/11/chioma-ude-afriff-15-women-in-cinema-dinner/": "2026-11-10"
+  "https://www.bellanaija.com/2026/11/chioma-ude-afriff-15-women-in-cinema-dinner/": "2026-11-10",
+  "https://punchng.com/im-a-godfather-but-dont-interfere-in-abioduns-govt-osoba/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/ill-restore-subsidy-to-ease-hardship-atiku-insists/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://www.vanguardngr.com/2026/11/2027-tinubu-will-win-he-has-no-competition-orji-kalu/": "2026-11-10",
+  "https://punchng.com/2027-tinubu-will-win-by-landslide-kalu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/outrage-as-4300-corps-members-cram-into-ogun-camp/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss": "2026-11-10",
+  "https://punchng.com/niger-gov-sings-im-born-again-at-christian-concert/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/canada-makes-rural-immigration-programme-permanent-to-attract-skilled-workers/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://dailypost.ng/2026/11/10/pasan-shelves-planned-shutdown-as-taraba-assembly-agrees-to-address-workers-demands/": "2026-11-10"
  },
  "published": [
   {
@@ -1508,6 +1517,15 @@
    "ts": "2026-11-10T05:18:23.758065+01:00",
    "ng": true,
    "src_title": "Jubilation as government declares tomorrow public holiday"
+  },
+  {
+   "id": "i-am-godfather-but-dont-meddle",
+   "date": "2026-11-10",
+   "title": "I Am A Godfather But Don't Meddle In Abiodun's Govt — Osoba",
+   "category": "Politics",
+   "ts": "2026-11-10T08:34:37.493486+01:00",
+   "ng": true,
+   "src_title": "I’m a godfather, but don’t interfere in Abiodun’s govt — Osoba"
   }
  ],
  "retries": {
@@ -1632,7 +1650,8 @@
   "https://punchng.com/delta-hospital-denies-free-dna-test-claims/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://punchng.com/umeh-calls-igbo-opposing-obis-2027-ambition-enemies-of-south-east/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/flamingos-presidency-obi-bicker-over-access-to-players-at-abuja-airport/": 1,
-  "https://dailypost.ng/2026/11/09/troops-repel-fulani-militia-attack-in-plateau/": 1
+  "https://dailypost.ng/2026/11/09/troops-repel-fulani-militia-attack-in-plateau/": 1,
+  "https://www.vanguardngr.com/2026/11/i-give-kudos-to-people-who-sent-me-to-jail-its-like-school-orji-kalu/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1762,6 +1781,12 @@
    "title": "Jigawa Declares Public Holiday for President Tinubu's Official Visit",
    "category": "Politics",
    "ts": "2026-11-10T05:18:23.758084+01:00"
+  },
+  {
+   "id": "i-am-godfather-but-dont-meddle",
+   "title": "I Am A Godfather But Don't Meddle In Abiodun's Govt — Osoba",
+   "category": "Politics",
+   "ts": "2026-11-10T08:34:37.493507+01:00"
   }
  ],
  "targets_available": [
