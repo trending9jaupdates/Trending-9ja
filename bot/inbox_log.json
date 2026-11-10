@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvzepe66-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `british-adventurer-karl-bushby-completes-28year`",
-  "at": "2026-11-02T16:21:34.793713+01:00"
- },
- {
   "job": "mvzhgs3t-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `taraba-poly-denies-online-report-proposed`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Picture changed (new picture): `man-utd-consider-sacking-michael-carrick`",
   "at": "2026-11-10T06:12:48.122412+01:00"
+ },
+ {
+  "job": "mwa8osqv-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `jigawa-declares-public-holiday-president-tinubus`",
+  "at": "2026-11-10T06:18:37.837412+01:00"
  }
 ]
