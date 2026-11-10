@@ -1,30 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "active-telecom-subscriptions-nigeria-reach-200": [
-   "telegram"
-  ],
-  "cbn-automates-subnational-fiscal-data-collection": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "ogun-state-convert-6000-amotekun-sosafe",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "fuel-prices-drop-abuja-filling-stations",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "2027-opposition-consensus-candidate-plan-dead",
    "targets": [
@@ -92,7 +73,19 @@
     "newsletter",
     "telegram"
    ]
+  },
+  {
+   "id": "active-telecom-subscriptions-nigeria-reach-200",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "cbn-automates-subnational-fiscal-data-collection",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-10T11:46:08.894023+01:00"
+ "updated": "2026-11-10T10:46:21.166187+00:00"
 }

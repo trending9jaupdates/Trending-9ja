@@ -1,12 +1,5 @@
 [
  {
-  "id": "world-bank-initiative-trains-388-state",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-02T16:41:33.425132+00:00"
- },
- {
   "id": "42-delta-trade-unions-back-tinubu",
   "target": "telegram",
   "ok": true,
@@ -551,5 +544,19 @@
   "ok": true,
   "message": "email scheduled",
   "at": "2026-11-10T08:10:15.176074+00:00"
+ },
+ {
+  "id": "active-telecom-subscriptions-nigeria-reach-200",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-10T10:46:13.201064+00:00"
+ },
+ {
+  "id": "cbn-automates-subnational-fiscal-data-collection",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-10T10:46:18.164093+00:00"
  }
 ]
