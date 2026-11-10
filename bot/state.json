@@ -1740,18 +1740,6 @@
  "thin_report": "2026-11-10",
  "pending_share": [
   {
-   "id": "olufunso-amosun-empowers-osun-youths-with",
-   "title": "Olufunso Amosun Empowers Osun Youths With AI Skills, N5m Grants",
-   "category": "Tech/AI",
-   "ts": "2026-11-09T14:37:06.363101+01:00"
-  },
-  {
-   "id": "osun-labour-threatens-withhold-support-tinubu",
-   "title": "Osun Labour Threatens to Withhold Support for Tinubu Over Seized LG Funds",
-   "category": "Politics",
-   "ts": "2026-11-09T14:40:23.227821+01:00"
-  },
-  {
    "id": "wimafrica-advocates-financial-access-women-leaders",
    "title": "WIMAFRICA Advocates Financial Access For Women Leaders At Lagos Economic Summit",
    "category": "Business",
@@ -1951,7 +1939,14 @@
    "newsletter": "2026-11-09T09:20:20.792771+00:00"
   }
  },
- "approved_share": {},
+ "approved_share": {
+  "olufunso-amosun-empowers-osun-youths-with": [
+   "telegram"
+  ],
+  "osun-labour-threatens-withhold-support-tinubu": [
+   "telegram"
+  ]
+ },
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [

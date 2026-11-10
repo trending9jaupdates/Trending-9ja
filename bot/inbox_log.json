@@ -1,17 +1,5 @@
 [
  {
-  "job": "mvz0rl20-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `venezuela-coach-fras-reacts-u17-world`",
-  "at": "2026-11-02T09:51:32.562196+01:00"
- },
- {
-  "job": "mvzaam0v-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `2027-election-barau-tips-tinubu-victory`",
-  "at": "2026-11-02T14:18:15.989101+01:00"
- },
- {
   "job": "mvzapasr-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `natasha-akpotiuduaghan-launches-2027-kogi-central`",
@@ -358,5 +346,17 @@
   "ok": true,
   "message": "Picture changed (new picture): `wimafrica-advocates-financial-access-women-leaders`",
   "at": "2026-11-10T06:00:17.704332+01:00"
+ },
+ {
+  "job": "mwa83f30-share.json",
+  "ok": true,
+  "message": "Approved 1 story for sharing to telegram",
+  "at": "2026-11-10T06:02:09.411225+01:00"
+ },
+ {
+  "job": "mwa83oww-share.json",
+  "ok": true,
+  "message": "Approved 1 story for sharing to telegram",
+  "at": "2026-11-10T06:02:09.411302+01:00"
  }
 ]
