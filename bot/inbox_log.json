@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvzhjdb9-share.json",
-  "ok": true,
-  "message": "Approved 1 story for sharing to telegram",
-  "at": "2026-11-02T17:41:28.369981+01:00"
- },
- {
   "job": "mvzhjzvc-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `world-bank-initiative-trains-388-state`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Approved 2 stories for sharing to telegram",
   "at": "2026-11-10T11:46:08.893720+01:00"
+ },
+ {
+  "job": "mwb9kq45-share.json",
+  "ok": true,
+  "message": "Approved 1 story for sharing to telegram",
+  "at": "2026-11-10T23:31:08.818650+01:00"
  }
 ]
