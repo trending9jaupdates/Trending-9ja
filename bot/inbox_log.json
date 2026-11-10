@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvzapasr-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `natasha-akpotiuduaghan-launches-2027-kogi-central`",
-  "at": "2026-11-02T14:29:30.108067+01:00"
- },
- {
   "job": "mvzctptn-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `priscilla-ojo-stuns-custom-outfit-singer`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Approved 1 story for sharing to telegram",
   "at": "2026-11-10T06:02:09.411302+01:00"
+ },
+ {
+  "job": "mwa89eqz-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `canada-makes-rural-immigration-pathway-permanent`",
+  "at": "2026-11-10T06:06:40.594023+01:00"
  }
 ]
