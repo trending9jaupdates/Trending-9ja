@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvzhjae4-share.json",
-  "ok": true,
-  "message": "Approved 1 story for sharing to telegram",
-  "at": "2026-11-02T17:41:28.369869+01:00"
- },
- {
   "job": "mvzhjdb9-share.json",
   "ok": true,
   "message": "Approved 1 story for sharing to telegram",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Picture changed (new picture): `active-telecom-subscriptions-nigeria-reach-200`",
   "at": "2026-11-10T11:36:37.098827+01:00"
+ },
+ {
+  "job": "mwake3az-share.json",
+  "ok": true,
+  "message": "Approved 2 stories for sharing to telegram",
+  "at": "2026-11-10T11:46:08.893720+01:00"
  }
 ]

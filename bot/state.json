@@ -1788,20 +1788,7 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-10",
- "pending_share": [
-  {
-   "id": "active-telecom-subscriptions-nigeria-reach-200",
-   "title": "Active Telecom Subscriptions In Nigeria Reach 200 Million As 5G Usage Expands",
-   "category": "Business",
-   "ts": "2026-11-10T11:16:54.899426+01:00"
-  },
-  {
-   "id": "cbn-automates-subnational-fiscal-data-collection",
-   "title": "CBN Automates Sub-National Fiscal Data Collection Across 36 States and 774 LGAs",
-   "category": "Business",
-   "ts": "2026-11-10T11:18:20.040168+01:00"
-  }
- ],
+ "pending_share": [],
  "targets_available": [
   "telegram",
   "newsletter"
@@ -2003,7 +1990,14 @@
    "newsletter": "2026-11-10T08:10:15.176072+00:00"
   }
  },
- "approved_share": {},
+ "approved_share": {
+  "active-telecom-subscriptions-nigeria-reach-200": [
+   "telegram"
+  ],
+  "cbn-automates-subnational-fiscal-data-collection": [
+   "telegram"
+  ]
+ },
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [
