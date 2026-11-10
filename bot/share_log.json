@@ -481,5 +481,75 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-10T05:02:18.110712+00:00"
+ },
+ {
+  "id": "wimafrica-advocates-financial-access-women-leaders",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-10T08:09:51.624102+00:00"
+ },
+ {
+  "id": "canada-makes-rural-immigration-pathway-permanent",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-10T08:09:56.221509+00:00"
+ },
+ {
+  "id": "man-utd-consider-sacking-michael-carrick",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-10T08:10:01.893261+00:00"
+ },
+ {
+  "id": "jigawa-declares-public-holiday-president-tinubus",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-10T08:10:06.990973+00:00"
+ },
+ {
+  "id": "i-am-godfather-but-dont-meddle",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-10T08:10:11.633464+00:00"
+ },
+ {
+  "id": "wimafrica-advocates-financial-access-women-leaders",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-10T08:10:15.176027+00:00"
+ },
+ {
+  "id": "canada-makes-rural-immigration-pathway-permanent",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-10T08:10:15.176053+00:00"
+ },
+ {
+  "id": "man-utd-consider-sacking-michael-carrick",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-10T08:10:15.176061+00:00"
+ },
+ {
+  "id": "jigawa-declares-public-holiday-president-tinubus",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-10T08:10:15.176068+00:00"
+ },
+ {
+  "id": "i-am-godfather-but-dont-meddle",
+  "target": "newsletter",
+  "ok": true,
+  "message": "email scheduled",
+  "at": "2026-11-10T08:10:15.176074+00:00"
  }
 ]

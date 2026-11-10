@@ -1937,30 +1937,29 @@
   },
   "osun-labour-threatens-withhold-support-tinubu": {
    "telegram": "2026-11-10T05:02:18.110693+00:00"
+  },
+  "wimafrica-advocates-financial-access-women-leaders": {
+   "telegram": "2026-11-10T08:09:51.624082+00:00",
+   "newsletter": "2026-11-10T08:10:15.176006+00:00"
+  },
+  "canada-makes-rural-immigration-pathway-permanent": {
+   "telegram": "2026-11-10T08:09:56.221493+00:00",
+   "newsletter": "2026-11-10T08:10:15.176049+00:00"
+  },
+  "man-utd-consider-sacking-michael-carrick": {
+   "telegram": "2026-11-10T08:10:01.893244+00:00",
+   "newsletter": "2026-11-10T08:10:15.176059+00:00"
+  },
+  "jigawa-declares-public-holiday-president-tinubus": {
+   "telegram": "2026-11-10T08:10:06.990957+00:00",
+   "newsletter": "2026-11-10T08:10:15.176066+00:00"
+  },
+  "i-am-godfather-but-dont-meddle": {
+   "telegram": "2026-11-10T08:10:11.633448+00:00",
+   "newsletter": "2026-11-10T08:10:15.176072+00:00"
   }
  },
- "approved_share": {
-  "wimafrica-advocates-financial-access-women-leaders": [
-   "telegram",
-   "newsletter"
-  ],
-  "canada-makes-rural-immigration-pathway-permanent": [
-   "telegram",
-   "newsletter"
-  ],
-  "man-utd-consider-sacking-michael-carrick": [
-   "telegram",
-   "newsletter"
-  ],
-  "jigawa-declares-public-holiday-president-tinubus": [
-   "telegram",
-   "newsletter"
-  ],
-  "i-am-godfather-but-dont-meddle": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved_share": {},
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [

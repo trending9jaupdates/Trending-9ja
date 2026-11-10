@@ -1,62 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "wimafrica-advocates-financial-access-women-leaders": [
-   "telegram",
-   "newsletter"
-  ],
-  "canada-makes-rural-immigration-pathway-permanent": [
-   "telegram",
-   "newsletter"
-  ],
-  "man-utd-consider-sacking-michael-carrick": [
-   "telegram",
-   "newsletter"
-  ],
-  "jigawa-declares-public-holiday-president-tinubus": [
-   "telegram",
-   "newsletter"
-  ],
-  "i-am-godfather-but-dont-meddle": [
-   "telegram",
-   "newsletter"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "2027-oyo-community-leaders-vow-vote",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "governor-yahaya-urges-northern-states-adopt",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "2027-19-candidates-battle-taraba-governorship",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "funke-akindele-recounts-how-influencer-rejected",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "man-utd-rescue-44-draw-against",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "ogun-state-convert-6000-amotekun-sosafe",
    "targets": [
@@ -101,7 +50,42 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "wimafrica-advocates-financial-access-women-leaders",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "canada-makes-rural-immigration-pathway-permanent",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "man-utd-consider-sacking-michael-carrick",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "jigawa-declares-public-holiday-president-tinubus",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
+  },
+  {
+   "id": "i-am-godfather-but-dont-meddle",
+   "targets": [
+    "newsletter",
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-10T09:09:46.499993+01:00"
+ "updated": "2026-11-10T08:10:15.178856+00:00"
 }
