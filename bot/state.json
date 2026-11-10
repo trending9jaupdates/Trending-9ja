@@ -814,7 +814,18 @@
   "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss": "2026-11-10",
   "https://punchng.com/niger-gov-sings-im-born-again-at-christian-concert/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
   "https://punchng.com/canada-makes-rural-immigration-programme-permanent-to-attract-skilled-workers/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
-  "https://dailypost.ng/2026/11/10/pasan-shelves-planned-shutdown-as-taraba-assembly-agrees-to-address-workers-demands/": "2026-11-10"
+  "https://dailypost.ng/2026/11/10/pasan-shelves-planned-shutdown-as-taraba-assembly-agrees-to-address-workers-demands/": "2026-11-10",
+  "https://punchng.com/iran-urges-us-to-meet-demands-to-end-war/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/turkiye-to-build-defence-factories-in-nigeria-targets-5bn-trade/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/wenger-considers-challenging-infantino-for-fifa-presidency-report/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss": "2026-11-10",
+  "https://punchng.com/ekiti-apm-candidate-promises-100-federal-jobs/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/ex-gov-dakingari-backs-idris-for-second-term-in-kebbi/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://www.vanguardngr.com/2026/11/nigerias-active-telecom-lines-hit-200m-as-5g-share-crosses-5/": "2026-11-10",
+  "https://dailypost.ng/2026/11/10/actress-moyo-lawal-questions-relationship-advice-from-singles-says-she-has-never-experienced-unreciprocated-love/": "2026-11-10",
+  "https://www.premiumtimesng.com/news/more-news/924084-customs-hands-over-intercepted-lpg-consignment-to-nmdpra.html": "2026-11-10",
+  "https://www.channelstv.com/2026/11/10/cbn-digitalises-sub-national-survey-across-states-fct-lgas/": "2026-11-10",
+  "https://www.bellanaija.com/2026/11/funke-akindele-eki-kere-buba-and-iro-the-four-london-premiere/": "2026-11-10"
  },
  "published": [
   {
@@ -1526,6 +1537,24 @@
    "ts": "2026-11-10T08:34:37.493486+01:00",
    "ng": true,
    "src_title": "I’m a godfather, but don’t interfere in Abiodun’s govt — Osoba"
+  },
+  {
+   "id": "active-telecom-subscriptions-nigeria-reach-200",
+   "date": "2026-11-10",
+   "title": "Active Telecom Subscriptions In Nigeria Reach 200 Million As 5G Usage Expands",
+   "category": "Business",
+   "ts": "2026-11-10T11:16:54.899405+01:00",
+   "ng": true,
+   "src_title": "Nigeria’s active telecom lines hit 200m as 5G share crosses 5%"
+  },
+  {
+   "id": "cbn-automates-subnational-fiscal-data-collection",
+   "date": "2026-11-10",
+   "title": "CBN Automates Sub-National Fiscal Data Collection Across 36 States and 774 LGAs",
+   "category": "Business",
+   "ts": "2026-11-10T11:18:20.040144+01:00",
+   "ng": true,
+   "src_title": "CBN Digitalises Sub-National Survey Across States, FCT, LGAs"
   }
  ],
  "retries": {
@@ -1651,7 +1680,9 @@
   "https://punchng.com/umeh-calls-igbo-opposing-obis-2027-ambition-enemies-of-south-east/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/flamingos-presidency-obi-bicker-over-access-to-players-at-abuja-airport/": 1,
   "https://dailypost.ng/2026/11/09/troops-repel-fulani-militia-attack-in-plateau/": 1,
-  "https://www.vanguardngr.com/2026/11/i-give-kudos-to-people-who-sent-me-to-jail-its-like-school-orji-kalu/": 1
+  "https://www.vanguardngr.com/2026/11/i-give-kudos-to-people-who-sent-me-to-jail-its-like-school-orji-kalu/": 1,
+  "https://punchng.com/how-i-rejected-us-asylum-landed-in-prison-obasanjo/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://www.legit.ng/sports/football/1740523-felix-nmecha-nigerian-born-dortmund-star-faces-backlash-religious-goal-celebration/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1757,7 +1788,20 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-10",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "active-telecom-subscriptions-nigeria-reach-200",
+   "title": "Active Telecom Subscriptions In Nigeria Reach 200 Million As 5G Usage Expands",
+   "category": "Business",
+   "ts": "2026-11-10T11:16:54.899426+01:00"
+  },
+  {
+   "id": "cbn-automates-subnational-fiscal-data-collection",
+   "title": "CBN Automates Sub-National Fiscal Data Collection Across 36 States and 774 LGAs",
+   "category": "Business",
+   "ts": "2026-11-10T11:18:20.040168+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
