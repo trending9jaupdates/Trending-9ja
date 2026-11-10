@@ -1,22 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "fg-launches-52500-minimum-monthly-pension": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "2027-opposition-consensus-candidate-plan-dead",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
   {
    "id": "apc-chieftain-raises-concern-73-voter",
    "targets": [
@@ -89,7 +78,13 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "fg-launches-52500-minimum-monthly-pension",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-10T23:31:08.819062+01:00"
+ "updated": "2026-11-10T22:31:15.431717+00:00"
 }

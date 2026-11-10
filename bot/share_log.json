@@ -1,12 +1,5 @@
 [
  {
-  "id": "42-delta-trade-unions-back-tinubu",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-02T16:41:38.793791+00:00"
- },
- {
   "id": "taraba-poly-denies-online-report-proposed",
   "target": "telegram",
   "ok": true,
@@ -558,5 +551,12 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-10T10:46:18.164093+00:00"
+ },
+ {
+  "id": "fg-launches-52500-minimum-monthly-pension",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-10T22:31:12.428880+00:00"
  }
 ]
