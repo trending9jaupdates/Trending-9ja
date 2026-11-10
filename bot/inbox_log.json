@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvzctptn-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `priscilla-ojo-stuns-custom-outfit-singer`",
-  "at": "2026-11-02T15:29:12.774098+01:00"
- },
- {
   "job": "mvzepe66-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `british-adventurer-karl-bushby-completes-28year`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Picture changed (new picture): `canada-makes-rural-immigration-pathway-permanent`",
   "at": "2026-11-10T06:06:40.594023+01:00"
+ },
+ {
+  "job": "mwa8hd5a-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `man-utd-consider-sacking-michael-carrick`",
+  "at": "2026-11-10T06:12:48.122412+01:00"
  }
 ]
