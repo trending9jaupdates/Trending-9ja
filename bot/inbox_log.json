@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvzhgs3t-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `taraba-poly-denies-online-report-proposed`",
-  "at": "2026-11-02T17:38:52.009883+01:00"
- },
- {
   "job": "mvzhhwqk-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `42-delta-trade-unions-back-tinubu`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Picture changed (new picture): `jigawa-declares-public-holiday-president-tinubus`",
   "at": "2026-11-10T06:18:37.837412+01:00"
+ },
+ {
+  "job": "mwaemk8n-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `i-am-godfather-but-dont-meddle`",
+  "at": "2026-11-10T09:04:48.334151+01:00"
  }
 ]
