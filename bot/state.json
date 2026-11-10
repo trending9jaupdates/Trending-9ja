@@ -851,7 +851,16 @@
   "https://punchng.com/adeleke-dismisses-reports-of-secret-foreign-loan/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
   "https://punchng.com/actress-ademoye-rejects-apology-over-movie-demonetisation/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
   "https://punchng.com/fg-begins-osun-63mva-transformer-project-to-improve-power-supply/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
-  "https://punchng.com/full-list-tinubus-2027-campaign-promises/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10"
+  "https://punchng.com/full-list-tinubus-2027-campaign-promises/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/video-112-emergency-number-fails-live-test-apc-chieftain-seeks-more-time/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/nigerians-are-not-that-hungry-apc-chieftain/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss": "2026-11-10",
+  "https://punchng.com/keyamo-flags-off-kogi-airport-construction/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/pension-reforms-not-2027-campaign-gimmick-pencom/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/trump-ally-jim-jordan-elected-house-republican-leader/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://www.vanguardngr.com/2026/11/tinubu-unveils-%e2%82%a652500-minimum-pension-for-retirees/": "2026-11-10",
+  "https://www.premiumtimesng.com/news/top-news/924315-nhrc-records-384196-human-rights-violation-complaints-in-october-cases-up-13-4.html": "2026-11-10",
+  "https://www.legit.ng/people/1740687-south-korea-publishes-minimum-age-requirement-foreigners-applying-citizenship/": "2026-11-10"
  },
  "published": [
   {
@@ -1581,6 +1590,15 @@
    "ts": "2026-11-10T11:18:20.040144+01:00",
    "ng": true,
    "src_title": "CBN Digitalises Sub-National Survey Across States, FCT, LGAs"
+  },
+  {
+   "id": "fg-launches-52500-minimum-monthly-pension",
+   "date": "2026-11-10",
+   "title": "FG Launches ₦52,500 Minimum Monthly Pension For Over 173,000 Retirees",
+   "category": "Business",
+   "ts": "2026-11-10T23:01:32.389508+01:00",
+   "ng": true,
+   "src_title": "Tinubu unveils ₦52,500 minimum pension for retirees"
   }
  ],
  "retries": {
@@ -1708,7 +1726,10 @@
   "https://dailypost.ng/2026/11/09/troops-repel-fulani-militia-attack-in-plateau/": 1,
   "https://www.vanguardngr.com/2026/11/i-give-kudos-to-people-who-sent-me-to-jail-its-like-school-orji-kalu/": 1,
   "https://punchng.com/how-i-rejected-us-asylum-landed-in-prison-obasanjo/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://www.legit.ng/sports/football/1740523-felix-nmecha-nigerian-born-dortmund-star-faces-backlash-religious-goal-celebration/": 1
+  "https://www.legit.ng/sports/football/1740523-felix-nmecha-nigerian-born-dortmund-star-faces-backlash-religious-goal-celebration/": 1,
+  "https://punchng.com/serap-demands-release-of-detained-fij-journalist-ojukwu/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://dailypost.ng/2026/11/10/salvadoran-forces-bombard-haitian-gang-leaders-mansion/": 1,
+  "https://www.channelstv.com/2026/11/10/video-wikes-%e2%82%a610m-pledge-inec-police-can-trigger-investigation-says-okoye/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1814,7 +1835,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-10",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "fg-launches-52500-minimum-monthly-pension",
+   "title": "FG Launches ₦52,500 Minimum Monthly Pension For Over 173,000 Retirees",
+   "category": "Business",
+   "ts": "2026-11-10T23:01:32.389528+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"

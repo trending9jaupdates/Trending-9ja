@@ -1,5 +1,12 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "fg-launches-52500-minimum-monthly-pension",
+   "title": "FG Launches ₦52,500 Minimum Monthly Pension For Over 173,000 Retirees",
+   "category": "Business",
+   "ts": "2026-11-10T23:01:32.389528+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -87,5 +94,5 @@
    ]
   }
  ],
- "updated": "2026-11-10T19:19:40.109005+00:00"
+ "updated": "2026-11-10T23:05:41.389231+01:00"
 }
