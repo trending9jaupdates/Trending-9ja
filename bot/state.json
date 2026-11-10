@@ -794,7 +794,18 @@
   "https://punchng.com/developer-residents-propose-industrial-pump-to-tackle-lagos-estate-flooding/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
   "https://punchng.com/babcock-student-alive-receiving-treatment-after-suspected-suicide/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
   "https://www.vanguardngr.com/2026/11/canada-makes-rural-immigration-programme-permanent/": "2026-11-10",
-  "https://dailypost.ng/2026/11/09/epl-carricks-job-in-danger-with-man-utd-set-to-sack-him-during-november-break/": "2026-11-10"
+  "https://dailypost.ng/2026/11/09/epl-carricks-job-in-danger-with-man-utd-set-to-sack-him-during-november-break/": "2026-11-10",
+  "https://punchng.com/india-detains-three-nigerians-over-alleged-illegal-stay/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss": "2026-11-10",
+  "https://punchng.com/lagos-school-refuse-cleared-after-punch-report/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/41-year-old-nabbed-over-bayelsa-sand-dealers-death/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/lagos-ogun-partner-to-strengthen-traditional-medicine-regulation/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/again-ok-movement-natasha-clash-over-constituency-cash-giveaway/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://punchng.com/ai-photos-southern-mbelt-leaders-seek-voters-register-audit/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-10",
+  "https://www.premiumtimesng.com/news/top-news/924019-navy-rescues-bayelsa-commissioner-nscdc-official-5-others-from-drowning.html": "2026-11-10",
+  "https://www.channelstv.com/2026/11/09/video-apc-national-chairman-defends-wikes-%e2%82%a610m-reward-for-council-that-delivers-for-tinubu/": "2026-11-10",
+  "https://www.legit.ng/politics/1740461-tinubus-visit-tuesday-november-10-declared-public-holiday/": "2026-11-10",
+  "https://www.bellanaija.com/2026/11/chioma-ude-afriff-15-women-in-cinema-dinner/": "2026-11-10"
  },
  "published": [
   {
@@ -1488,6 +1499,15 @@
    "ts": "2026-11-10T02:30:05.284271+01:00",
    "ng": false,
    "src_title": "EPL: Carrick's job in danger with Man Utd set to sack him during November break"
+  },
+  {
+   "id": "jigawa-declares-public-holiday-president-tinubus",
+   "date": "2026-11-10",
+   "title": "Jigawa Declares Public Holiday for President Tinubu's Official Visit",
+   "category": "Politics",
+   "ts": "2026-11-10T05:18:23.758065+01:00",
+   "ng": true,
+   "src_title": "Jubilation as government declares tomorrow public holiday"
   }
  ],
  "retries": {
@@ -1610,7 +1630,9 @@
   "https://dailypost.ng/2026/11/09/nigerian-troops-kill-over-50-terrorists-rescue-kidnap-victims-in-nationwide-operations/": 1,
   "https://dailypost.ng/2026/11/09/2026-u-17-wwc-stop-playing-victim-presidency-slams-peter-obi/": 1,
   "https://punchng.com/delta-hospital-denies-free-dna-test-claims/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://punchng.com/umeh-calls-igbo-opposing-obis-2027-ambition-enemies-of-south-east/?utm_source=rss.punchng.com&utm_medium=web": 1
+  "https://punchng.com/umeh-calls-igbo-opposing-obis-2027-ambition-enemies-of-south-east/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://www.vanguardngr.com/2026/11/flamingos-presidency-obi-bicker-over-access-to-players-at-abuja-airport/": 1,
+  "https://dailypost.ng/2026/11/09/troops-repel-fulani-militia-attack-in-plateau/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1746,6 +1768,12 @@
    "title": "Man Utd consider sacking Michael Carrick during international break - Report",
    "category": "Sports",
    "ts": "2026-11-10T02:30:05.284290+01:00"
+  },
+  {
+   "id": "jigawa-declares-public-holiday-president-tinubus",
+   "title": "Jigawa Declares Public Holiday for President Tinubu's Official Visit",
+   "category": "Politics",
+   "ts": "2026-11-10T05:18:23.758084+01:00"
   }
  ],
  "targets_available": [
