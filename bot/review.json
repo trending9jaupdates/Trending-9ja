@@ -25,31 +25,12 @@
    "ts": "2026-11-10T05:18:23.758084+01:00"
   }
  ],
- "approved": {
-  "olufunso-amosun-empowers-osun-youths-with": [
-   "telegram"
-  ],
-  "osun-labour-threatens-withhold-support-tinubu": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "epl-jamie-redknapp-names-brighton-arsenals",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "hilda-baci-rejects-claims-that-partner",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "2027-oyo-community-leaders-vow-vote",
    "targets": [
@@ -112,7 +93,19 @@
     "newsletter",
     "telegram"
    ]
+  },
+  {
+   "id": "olufunso-amosun-empowers-osun-youths-with",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "osun-labour-threatens-withhold-support-tinubu",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-10T06:02:09.411615+01:00"
+ "updated": "2026-11-10T05:02:21.112739+00:00"
 }
