@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvzhj5ft-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `world-bank-initiative-trains-388-state`",
-  "at": "2026-11-02T17:40:50.972259+01:00"
- },
- {
   "job": "mvzhj8ol-share.json",
   "ok": true,
   "message": "Approved 1 story for sharing to telegram",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Approved 5 stories for sharing to telegram, newsletter",
   "at": "2026-11-10T09:09:46.499610+01:00"
+ },
+ {
+  "job": "mwajw39m-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `cbn-automates-subnational-fiscal-data-collection`",
+  "at": "2026-11-10T11:32:17.920383+01:00"
  }
 ]
