@@ -1757,38 +1757,7 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-10",
- "pending_share": [
-  {
-   "id": "wimafrica-advocates-financial-access-women-leaders",
-   "title": "WIMAFRICA Advocates Financial Access For Women Leaders At Lagos Economic Summit",
-   "category": "Business",
-   "ts": "2026-11-10T02:26:08.310199+01:00"
-  },
-  {
-   "id": "canada-makes-rural-immigration-pathway-permanent",
-   "title": "Canada Makes Rural Immigration Pathway Permanent For Foreign Workers",
-   "category": "Politics",
-   "ts": "2026-11-10T02:27:54.495258+01:00"
-  },
-  {
-   "id": "man-utd-consider-sacking-michael-carrick",
-   "title": "Man Utd consider sacking Michael Carrick during international break - Report",
-   "category": "Sports",
-   "ts": "2026-11-10T02:30:05.284290+01:00"
-  },
-  {
-   "id": "jigawa-declares-public-holiday-president-tinubus",
-   "title": "Jigawa Declares Public Holiday for President Tinubu's Official Visit",
-   "category": "Politics",
-   "ts": "2026-11-10T05:18:23.758084+01:00"
-  },
-  {
-   "id": "i-am-godfather-but-dont-meddle",
-   "title": "I Am A Godfather But Don't Meddle In Abiodun's Govt — Osoba",
-   "category": "Politics",
-   "ts": "2026-11-10T08:34:37.493507+01:00"
-  }
- ],
+ "pending_share": [],
  "targets_available": [
   "telegram",
   "newsletter"
@@ -1970,7 +1939,28 @@
    "telegram": "2026-11-10T05:02:18.110693+00:00"
   }
  },
- "approved_share": {},
+ "approved_share": {
+  "wimafrica-advocates-financial-access-women-leaders": [
+   "telegram",
+   "newsletter"
+  ],
+  "canada-makes-rural-immigration-pathway-permanent": [
+   "telegram",
+   "newsletter"
+  ],
+  "man-utd-consider-sacking-michael-carrick": [
+   "telegram",
+   "newsletter"
+  ],
+  "jigawa-declares-public-holiday-president-tinubus": [
+   "telegram",
+   "newsletter"
+  ],
+  "i-am-godfather-but-dont-meddle": [
+   "telegram",
+   "newsletter"
+  ]
+ },
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [
