@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvzhj8ol-share.json",
-  "ok": true,
-  "message": "Approved 1 story for sharing to telegram",
-  "at": "2026-11-02T17:41:28.369741+01:00"
- },
- {
   "job": "mvzhjae4-share.json",
   "ok": true,
   "message": "Approved 1 story for sharing to telegram",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Picture changed (new picture): `cbn-automates-subnational-fiscal-data-collection`",
   "at": "2026-11-10T11:32:17.920383+01:00"
+ },
+ {
+  "job": "mwak1qix-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `active-telecom-subscriptions-nigeria-reach-200`",
+  "at": "2026-11-10T11:36:37.098827+01:00"
  }
 ]
