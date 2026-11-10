@@ -1,0 +1,10 @@
+{
+ "type": "share",
+ "ids": [
+  "active-telecom-subscriptions-nigeria-reach-200",
+  "cbn-automates-subnational-fiscal-data-collection"
+ ],
+ "targets": [
+  "telegram"
+ ]
+}
