@@ -824,7 +824,21 @@
   "https://punchng.com/2300411-2/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
   "https://dailypost.ng/2026/11/11/portugal-shame-it-annoys-me-denmarks-joachim-andersen-reveals-ronaldo-regret-2/": "2026-11-11",
   "https://www.premiumtimesng.com/regional/south-south-regional/924445-2027-dont-use-ibom-deep-seaport-for-political-bargain-cso-tells-tinubu.html": "2026-11-11",
-  "https://www.channelstv.com/2026/11/11/police-arrest-seven-murder-arson-suspects-in-akwa-ibom/": "2026-11-11"
+  "https://www.channelstv.com/2026/11/11/police-arrest-seven-murder-arson-suspects-in-akwa-ibom/": "2026-11-11",
+  "https://punchng.com/fury-joshua-fight-cardiff-residents-oppose-late-night-extension/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://punchng.com/court-overturns-gay-sex-ban-in-trinidad-and-tobago/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://punchng.com/2027-police-partner-tech-firms-to-track-deepfake-creators/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss": "2026-11-11",
+  "https://punchng.com/2027-experts-outline-ways-to-detect-ai-manipulated-content/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://www.vanguardngr.com/2026/11/man-utd-reach-verbal-agreement-with-pochettino-to-replace-carrick/": "2026-11-11",
+  "https://punchng.com/fg-opens-applications-for-n4bn-3mtt-funding/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://www.legit.ng/sports/football/1740835-tinubu-rewards-flamingos-n100-million-world-cup-win-sets-condition-access/": "2026-11-11",
+  "https://www.completesports.com/afcon-2027q-full-house-in-uyo-as-super-eagles-intensify-preparations-for-tanzania-clash/": "2026-11-11",
+  "https://punchng.com/only-yari-alake-idris-can-speak-for-tinubu-campaign-gbajabiamila/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://www.vanguardngr.com/2026/11/kerrygold-engages-women-in-business-and-leadership-at-25th-wimbiz-annual-conference/": "2026-11-11",
+  "https://dailypost.ng/2026/11/11/relax-dg-ahmed-bala-edward-onoja-salamatu-baiwa-take-renewed-hope-campaign-to-streets-of-lokoja/": "2026-11-11",
+  "https://www.premiumtimesng.com/business/business-news/924472-cop31-climate-activists-reject-carbon-capture-marine-geoengineering-as-false-solutions.html": "2026-11-11",
+  "https://www.legit.ng/people/1740834-armenia-sets-age-requirements-foreigners-seeking-armenian-citizenship/": "2026-11-11"
  },
  "published": [
   {
@@ -1512,6 +1526,33 @@
    "ts": "2026-11-11T14:32:33.456789+01:00",
    "ng": true,
    "src_title": "Tinubu seeks Reps approval to implement N10.79tn external borrowing plan"
+  },
+  {
+   "id": "cardiff-residents-oppose-latenight-license-extension",
+   "date": "2026-11-11",
+   "title": "Cardiff Residents Oppose Late-Night License Extension For Fury-Joshua Clash",
+   "category": "Sports",
+   "ts": "2026-11-11T16:49:12.698159+01:00",
+   "ng": true,
+   "src_title": "Fury-Joshua fight: Cardiff residents oppose late-night extension"
+  },
+  {
+   "id": "rtifn-leaders-edward-onoja-take-tinubus",
+   "date": "2026-11-11",
+   "title": "RTIFN Leaders, Edward Onoja Take Tinubu's Campaign to Lokoja Streets",
+   "category": "Politics",
+   "ts": "2026-11-11T16:51:04.993335+01:00",
+   "ng": true,
+   "src_title": "RELAX DG Ahmed Bala, Edward Onoja, Salamatu Baiwa take Renewed Hope campaign to streets of Lokoja"
+  },
+  {
+   "id": "armenia-announces-age-limit-requirements-foreigners",
+   "date": "2026-11-11",
+   "title": "Armenia Announces Age Limit and Requirements for Foreigners Seeking Citizenship",
+   "category": "Politics",
+   "ts": "2026-11-11T16:54:29.522972+01:00",
+   "ng": true,
+   "src_title": "Armenia clarifies how old foreigners must be before seeking Armenian citizenship"
   }
  ],
  "retries": {
@@ -1646,7 +1687,8 @@
   "https://punchng.com/awujale-ijebu-chiefs-sue-abiodun-over-interregnum-council/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://punchng.com/lagos-offers-free-hiv-tests-to-workers-trade-fair-visitors/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/efcc-recovers-3m-n1-3bn-from-aiteo-newcross/": 1,
-  "https://www.vanguardngr.com/2026/11/air-traffic-controllers-warn-fg-over-deteriorating-aviation-communication-systems/": 1
+  "https://www.vanguardngr.com/2026/11/air-traffic-controllers-warn-fg-over-deteriorating-aviation-communication-systems/": 1,
+  "https://www.channelstv.com/2026/11/11/kenya-discharges-last-ebola-patient/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1782,6 +1824,24 @@
    "title": "Tinubu Asks Reps to Approve N10.79tn Foreign Borrowing Plan",
    "category": "Business",
    "ts": "2026-11-11T14:32:33.456818+01:00"
+  },
+  {
+   "id": "cardiff-residents-oppose-latenight-license-extension",
+   "title": "Cardiff Residents Oppose Late-Night License Extension For Fury-Joshua Clash",
+   "category": "Sports",
+   "ts": "2026-11-11T16:49:12.698183+01:00"
+  },
+  {
+   "id": "rtifn-leaders-edward-onoja-take-tinubus",
+   "title": "RTIFN Leaders, Edward Onoja Take Tinubu's Campaign to Lokoja Streets",
+   "category": "Politics",
+   "ts": "2026-11-11T16:51:04.993363+01:00"
+  },
+  {
+   "id": "armenia-announces-age-limit-requirements-foreigners",
+   "title": "Armenia Announces Age Limit and Requirements for Foreigners Seeking Citizenship",
+   "category": "Politics",
+   "ts": "2026-11-11T16:54:29.522997+01:00"
   }
  ],
  "targets_available": [
