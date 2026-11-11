@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvzhjzvc-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `world-bank-initiative-trains-388-state`",
-  "at": "2026-11-02T17:41:28.399727+01:00"
- },
- {
   "job": "mvzhk8au-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `42-delta-trade-unions-back-tinubu`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Approved 1 story for sharing to telegram",
   "at": "2026-11-10T23:31:08.818650+01:00"
+ },
+ {
+  "job": "mwccsw24-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `fg-plans-major-agricultural-reforms-lower`",
+  "at": "2026-11-11T17:49:19.987301+01:00"
  }
 ]
