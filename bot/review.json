@@ -1,5 +1,12 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "fg-plans-major-agricultural-reforms-lower",
+   "title": "FG Plans Major Agricultural Reforms to Lower Food Inflation and Boost Security",
+   "category": "Business",
+   "ts": "2026-11-11T02:31:46.794765+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -86,5 +93,5 @@
    ]
   }
  ],
- "updated": "2026-11-10T22:31:15.431717+00:00"
+ "updated": "2026-11-11T02:33:59.759139+01:00"
 }
