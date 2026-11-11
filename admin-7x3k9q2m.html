@@ -17,6 +17,11 @@ header{display:flex;align-items:center;gap:.6rem;padding:.7rem 1rem;background:l
 header h1{font-size:1.05rem;margin:0;flex:1}
 header button{background:rgba(255,255,255,.18);color:#fff;border:0;border-radius:8px;padding:.45rem .7rem;font-size:.9rem}
 #screen-lock{display:none;padding:1.2rem;overflow:auto}
+#screen-connect{display:none;flex:1;min-height:0;flex-direction:column;overflow-y:auto;padding:1rem}
+.val{display:flex;gap:.5rem;align-items:center;margin:.3rem 0 .8rem}
+.val code{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:.55rem .6rem;font-size:.85rem}
+.pick{display:block;border:1px solid var(--line);border-radius:12px;padding:.7rem;margin:.5rem 0;cursor:pointer}
+.pick input{margin-right:.5rem}
 #screen-review{display:none;flex:1;min-height:0;flex-direction:column;overflow-y:auto;padding:1rem}
 .rv{display:flex;gap:.8rem;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:.8rem;margin-bottom:.8rem}
 .rv img.th{width:92px;height:92px;object-fit:cover;border-radius:10px;flex:none;background:var(--line)}
@@ -72,6 +77,10 @@ a{color:var(--g2)}
   </header>
 
   <section id="screen-lock"></section>
+
+  <section id="screen-connect">
+    <div id="connect-body"></div>
+  </section>
 
   <section id="screen-review">
     <div id="review-top"></div>
@@ -311,6 +320,33 @@ Reply with JSON only: {"title":"","summary":"","category":"","paragraphs":["",""
       body: paras.join('\n\n'), sources };
   }
 
+  /* ---------- Facebook & Instagram connection helper ---------- */
+  async function graphGet(path, params) {
+    const q = new URLSearchParams(params).toString();
+    const r = await fetch('https://graph.facebook.com/' + path + '?' + q);
+    let d = {};
+    try { d = await r.json(); } catch (e) { /* not json */ }
+    if (!r.ok || d.error) throw new Error((d.error && d.error.message) || ('HTTP ' + r.status));
+    return d;
+  }
+  async function metaConnect(appId, appSecret, shortToken) {
+    const ex = await graphGet('oauth/access_token', { grant_type: 'fb_exchange_token', client_id: appId.trim(),
+      client_secret: appSecret.trim(), fb_exchange_token: shortToken.trim() });
+    const pages = await graphGet('me/accounts', { fields: 'id,name,access_token,instagram_business_account{id,username}',
+      limit: '25', access_token: ex.access_token });
+    return (pages.data || []).map(p => ({ id: p.id, name: p.name, token: p.access_token,
+      ig: p.instagram_business_account ? { id: p.instagram_business_account.id, username: p.instagram_business_account.username || '' } : null }));
+  }
+  const META_NEEDED = ['pages_manage_posts', 'pages_read_engagement'];
+  async function metaTokenInfo(appId, appSecret, token) {
+    const d = await graphGet('debug_token', { input_token: token, access_token: appId.trim() + '|' + appSecret.trim() });
+    const x = d.data || {};
+    const scopes = x.scopes || [];
+    return { valid: !!x.is_valid, never: x.expires_at === 0,
+      expires: x.expires_at ? new Date(x.expires_at * 1000).toISOString().slice(0, 10) : null,
+      missing: META_NEEDED.filter(n => !scopes.includes(n)) };
+  }
+
   /* ---------- review & sharing ---------- */
   const TARGET_LABELS = { telegram: 'Telegram channel', facebook: 'Facebook Page', instagram: 'Instagram', newsletter: 'Newsletter' };
   function parseReview(text) {
@@ -407,7 +443,7 @@ Reply with JSON only: {"title":"","summary":"","category":"","paragraphs":["",""
     return job;
   }
   return { b64, sealVault, openVault, ghClient, parseArchive, readStory, systemPrompt, parseModelJson,
-    listModels, gemini, research, parseReview, summariseShare, TARGET_LABELS, checkAction, describeAction, buildJob };
+    listModels, gemini, research, metaConnect, metaTokenInfo, parseReview, summariseShare, TARGET_LABELS, checkAction, describeAction, buildJob };
 })();
 
 /* ============================================================
@@ -429,11 +465,13 @@ function startUI() {
     $('screen-lock').style.display = which === 'lock' ? 'block' : 'none';
     $('screen-chat').style.display = which === 'chat' ? 'flex' : 'none';
     $('screen-review').style.display = which === 'review' ? 'flex' : 'none';
-    const inside = which === 'chat' || which === 'review';
+    $('screen-connect').style.display = which === 'connect' ? 'flex' : 'none';
+    S.screen = which;
+    const inside = which === 'chat' || which === 'review' || which === 'connect';
     $('btn-lock').style.display = inside ? '' : 'none';
     $('btn-settings').style.display = inside ? '' : 'none';
     $('btn-review').style.display = inside ? '' : 'none';
-    $('btn-review').textContent = which === 'review' ? 'Chat' : 'Review';
+    $('btn-review').textContent = which === 'chat' ? 'Review' : 'Chat';
     if (S.badge && which !== 'review') { const b = el('b', {}, String(S.badge)); $('btn-review').append(b); }
   }
   function lockScreen() {
@@ -646,6 +684,62 @@ function startUI() {
     }
   }
 
+  /* ----- connect Facebook & Instagram ----- */
+  function openConnect() {
+    show('connect');
+    const box = $('connect-body');
+    box.textContent = '';
+    const appId = el('input', { type: 'text', placeholder: 'App ID (numbers)', autocomplete: 'off' });
+    const secret = el('input', { type: 'password', placeholder: 'App secret', autocomplete: 'off' });
+    const tok = el('textarea', { rows: '3', placeholder: 'Short-lived token from Graph API Explorer', autocomplete: 'off' });
+    const out = el('div');
+    const err = el('div', { class: 'err' });
+    const go = el('button', { class: 'btn' }, 'Find my Page and Instagram');
+    const clear = el('button', { class: 'btn alt', style: 'margin-left:.5rem' }, 'Clear everything');
+    const copyRow = (label, value) => {
+      const b = el('button', { class: 'btn alt' }, 'Copy');
+      b.onclick = async () => { try { await navigator.clipboard.writeText(value); b.textContent = 'Copied'; } catch (e) { b.textContent = 'Press and hold the text to copy'; } };
+      const shown = value.length > 18 ? value.slice(0, 8) + '...' + value.slice(-4) : value;
+      return el('div', {}, el('label', {}, label), el('div', { class: 'val' }, el('code', {}, shown), b));
+    };
+    clear.onclick = () => { appId.value = secret.value = tok.value = ''; out.textContent = ''; err.textContent = ''; };
+    go.onclick = async () => {
+      err.textContent = ''; out.textContent = '';
+      if (!appId.value.trim() || !secret.value.trim() || tok.value.trim().length < 20) { err.textContent = 'Fill in all three boxes.'; return; }
+      go.disabled = true; go.textContent = 'Working...';
+      try {
+        const pages = await Core.metaConnect(appId.value, secret.value, tok.value);
+        if (!pages.length) { err.textContent = 'No Pages found. In Graph API Explorer, generate the token again and choose your Page when it asks.'; return; }
+        const list = el('div'), result = el('div');
+        pages.forEach((pg, i) => {
+          const r = el('input', { type: 'radio', name: 'pg' });
+          r.onchange = async () => {
+            result.textContent = '';
+            result.append(copyRow('FACEBOOK_PAGE_ID', pg.id), copyRow('FACEBOOK_PAGE_TOKEN', pg.token));
+            if (pg.ig) result.append(copyRow('INSTAGRAM_USER_ID', pg.ig.id));
+            else result.append(el('p', { class: 'note' }, 'No Instagram account is linked to this Page. That is fine for Facebook: only the first two values are needed. Instagram can be connected separately with its own token.'));
+            const info = el('p', { class: 'note' }, 'Checking the token...');
+            result.append(info);
+            try {
+              const ti = await Core.metaTokenInfo(appId.value, secret.value, pg.token);
+              info.textContent = (ti.valid ? 'Token is valid. ' : 'Token is NOT valid. ') + (ti.never ? 'It does not expire.' : (ti.expires ? 'It expires on ' + ti.expires + '.' : ''))
+                + (ti.missing.length ? ' Missing permissions: ' + ti.missing.join(', ') + '. Generate the token again and tick them.' : ' All needed permissions are present.');
+            } catch (e) { info.textContent = 'Could not check the token: ' + e.message; }
+          };
+          list.append(el('label', { class: 'pick' }, r, el('b', {}, pg.name), el('div', { class: 'note' }, 'Facebook Page ' + pg.id + (pg.ig ? ' - Instagram @' + (pg.ig.username || pg.ig.id) : ' - no Instagram linked'))));
+        });
+        out.append(el('p', { class: 'note' }, 'Choose your Page:'), list, result);
+      } catch (e) { err.textContent = 'Meta said: ' + e.message; }
+      finally { go.disabled = false; go.textContent = 'Find my Page and Instagram'; }
+    };
+    box.append(el('div', { class: 'panel' },
+      el('h2', {}, 'Connect Facebook and Instagram'),
+      el('p', { class: 'note' }, 'This turns the short token you get from Meta into a lasting one and shows the values the bot needs for Facebook. Nothing here is saved: close or clear this screen and it is gone. Then add each value as a GitHub secret with exactly the name shown.'),
+      el('p', { class: 'note' }, 'Instagram without a linked Page: in your Meta app open Instagram API setup with Instagram Login, tap Generate token next to your Instagram account, and save that token as the GitHub secret INSTAGRAM_TOKEN. No Page is needed, and the token lasts 60 days.'),
+      el('label', {}, 'App ID'), appId, el('label', {}, 'App secret'), secret, el('label', {}, 'Short-lived user token'), tok, err,
+      el('div', { style: 'margin-top:1rem' }, go, clear), out));
+  }
+
   /* ----- review screen ----- */
   function setBadge(n) { S.badge = n; $('btn-review').textContent = $('screen-review').style.display === 'flex' ? 'Chat' : 'Review'; if (n && $('screen-review').style.display !== 'flex') $('btn-review').append(el('b', {}, String(n))); }
   async function loadReview() {
@@ -773,10 +867,12 @@ function startUI() {
     ['Fix wording', 'Fix the wording in the story about '],
     ['Remove a story', 'Remove the story about '],
     ['Run the bot', 'Run the bot now to fetch fresh news.'],
+    ['Connect Facebook & Instagram', 'CONNECT'],
     ['Recent runs', null]
   ];
   chips.forEach(([label, text]) => $('chips').append(el('button', { class: 'chip', onclick: async () => {
     touch();
+    if (text === 'CONNECT') { openConnect(); return; }
     if (text === null) {
       try {
         const runs = await S.gh.latestRuns(5);
@@ -798,7 +894,7 @@ function startUI() {
     renderPending(); touch();
   };
   $('btn-lock').onclick = lock;
-  $('btn-review').onclick = () => { touch(); if ($('screen-review').style.display === 'flex') { show('chat'); loadReview(); } else openReview(); };
+  $('btn-review').onclick = () => { touch(); if (S.screen !== 'chat') { show('chat'); loadReview(); } else openReview(); };
   $('btn-settings').onclick = () => {
     bubble('Settings: your keys are saved on this device only, encrypted with your passcode. The page locks itself after ' + SETTINGS.autoLockMinutes + ' minutes. To use a new token or key, lock the page, tap "Forget keys on this device", and set it up again.', 'sys');
   };
