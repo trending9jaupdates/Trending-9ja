@@ -838,7 +838,17 @@
   "https://www.vanguardngr.com/2026/11/kerrygold-engages-women-in-business-and-leadership-at-25th-wimbiz-annual-conference/": "2026-11-11",
   "https://dailypost.ng/2026/11/11/relax-dg-ahmed-bala-edward-onoja-salamatu-baiwa-take-renewed-hope-campaign-to-streets-of-lokoja/": "2026-11-11",
   "https://www.premiumtimesng.com/business/business-news/924472-cop31-climate-activists-reject-carbon-capture-marine-geoengineering-as-false-solutions.html": "2026-11-11",
-  "https://www.legit.ng/people/1740834-armenia-sets-age-requirements-foreigners-seeking-armenian-citizenship/": "2026-11-11"
+  "https://www.legit.ng/people/1740834-armenia-sets-age-requirements-foreigners-seeking-armenian-citizenship/": "2026-11-11",
+  "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss": "2026-11-11",
+  "https://www.vanguardngr.com/2026/11/us-withdraws-from-u17-world-cup-in-qatar-over-security-fears/": "2026-11-11",
+  "https://punchng.com/dss-intercepts-21-ak-47-rifles-machine-guns-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://punchng.com/one-injured-as-herders-farmers-clash-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://punchng.com/oau-mourns-ex-vc-wale-omole/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://dailypost.ng/2026/11/11/one-injured-as-herders-clash-with-farmers-in-jigawa/": "2026-11-11",
+  "https://punchng.com/uk-moves-to-ban-goods-linked-to-illegal-deforestation/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://punchng.com/gains-of-tinubus-reforms-already-visible-minister/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://www.vanguardngr.com/2026/11/canada-to-fast-track-permanent-residence-for-200000-foreigners-in-2027/": "2026-11-11",
+  "https://www.premiumtimesng.com/business/business-news/924556-cop31-homef-demands-clarity-over-fossil-fuel-language-in-ongoing-climate-talks-in-turkey.html": "2026-11-11"
  },
  "published": [
   {
@@ -1553,6 +1563,15 @@
    "ts": "2026-11-11T16:54:29.522972+01:00",
    "ng": true,
    "src_title": "Armenia clarifies how old foreigners must be before seeking Armenian citizenship"
+  },
+  {
+   "id": "canada-speed-up-permanent-residency-200000",
+   "date": "2026-11-11",
+   "title": "Canada to Speed Up Permanent Residency for 200,000 Foreigners in 2027",
+   "category": "Politics",
+   "ts": "2026-11-11T23:06:59.075433+01:00",
+   "ng": true,
+   "src_title": "Canada to fast-track permanent residence for 200,000 foreigners in 2027"
   }
  ],
  "retries": {
@@ -1688,7 +1707,9 @@
   "https://punchng.com/lagos-offers-free-hiv-tests-to-workers-trade-fair-visitors/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/efcc-recovers-3m-n1-3bn-from-aiteo-newcross/": 1,
   "https://www.vanguardngr.com/2026/11/air-traffic-controllers-warn-fg-over-deteriorating-aviation-communication-systems/": 1,
-  "https://www.channelstv.com/2026/11/11/kenya-discharges-last-ebola-patient/": 1
+  "https://www.channelstv.com/2026/11/11/kenya-discharges-last-ebola-patient/": 1,
+  "https://punchng.com/2027-pdp-condemns-attack-on-pantamis-supporters-in-gombe/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://dailypost.ng/2026/11/11/troops-raid-terrorists-hideouts-recover-five-motorcycles-in-taraba/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1842,6 +1863,12 @@
    "title": "Armenia Announces Age Limit and Requirements for Foreigners Seeking Citizenship",
    "category": "Politics",
    "ts": "2026-11-11T16:54:29.522997+01:00"
+  },
+  {
+   "id": "canada-speed-up-permanent-residency-200000",
+   "title": "Canada to Speed Up Permanent Residency for 200,000 Foreigners in 2027",
+   "category": "Politics",
+   "ts": "2026-11-11T23:06:59.075455+01:00"
   }
  ],
  "targets_available": [
