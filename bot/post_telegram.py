@@ -97,8 +97,9 @@ def available_targets():
         t.append("telegram")
     if ENV("FACEBOOK_PAGE_ID") and ENV("FACEBOOK_PAGE_TOKEN"):
         t.append("facebook")
-        if ENV("INSTAGRAM_USER_ID"):
-            t.append("instagram")
+    # Instagram works on its own (INSTAGRAM_TOKEN), or through a Page that is linked to it
+    if ENV("INSTAGRAM_TOKEN") or (ENV("FACEBOOK_PAGE_TOKEN") and ENV("INSTAGRAM_USER_ID")):
+        t.append("instagram")
     if ENV("KIT_API_KEY"):
         t.append("newsletter")
     return t
@@ -145,23 +146,28 @@ def share_facebook(st):
 
 
 def share_instagram(st):
-    ig, tok = ENV("INSTAGRAM_USER_ID"), ENV("FACEBOOK_PAGE_TOKEN")
+    """Route 1 (no Facebook Page needed): INSTAGRAM_TOKEN from Meta's 'Instagram API with Instagram Login'.
+    Route 2: a Page token plus INSTAGRAM_USER_ID, when the account is linked to a Facebook Page."""
     caption = (f"{st['title']}\n\n{st['summary'][:600]}\n\nRead the full story - link in our bio "
                f"(trending9ja.com.ng)\n\n{hashtags(st['category'])}")[:2200]
-    made = call(f"https://graph.facebook.com/{ig}/media",
-                {"image_url": st["image"], "caption": caption, "access_token": tok}, form=True)
+    if ENV("INSTAGRAM_TOKEN"):
+        host, who, hdr, extra = "https://graph.instagram.com", "me", {"Authorization": "Bearer " + ENV("INSTAGRAM_TOKEN")}, {}
+    else:
+        host, who, hdr = "https://graph.facebook.com", ENV("INSTAGRAM_USER_ID"), {}
+        extra = {"access_token": ENV("FACEBOOK_PAGE_TOKEN")}
+    made = call(f"{host}/{who}/media", dict({"image_url": st["image"], "caption": caption}, **extra), headers=hdr, form=True)
     cid = made.get("id")
     if not cid:
         raise RuntimeError("Instagram did not accept the picture")
     for _ in range(12):  # wait until Instagram has processed the picture
-        s = call(f"https://graph.facebook.com/{cid}?fields=status_code&access_token={urllib.parse.quote(tok)}",
-                 method="GET")
+        q = urllib.parse.urlencode(dict({"fields": "status_code"}, **extra))
+        s = call(f"{host}/{cid}?{q}", headers=hdr, method="GET")
         if s.get("status_code") == "FINISHED":
             break
         if s.get("status_code") == "ERROR":
             raise RuntimeError("Instagram could not process the picture")
         time.sleep(5)
-    call(f"https://graph.facebook.com/{ig}/media_publish", {"creation_id": cid, "access_token": tok}, form=True)
+    call(f"{host}/{who}/media_publish", dict({"creation_id": cid}, **extra), headers=hdr, form=True)
 
 
 def share_newsletter(stories):
@@ -225,6 +231,40 @@ def notify_owner(state, waiting):
         log("Could not message the owner:", e)
 
 
+# --------------------------------------------------------------------------- Instagram token reminder
+def instagram_token_check(state, problem=None):
+    """INSTAGRAM_TOKEN lasts 60 days. Tell the owner (in Telegram) before it runs out, or when it has failed."""
+    tok = ENV("INSTAGRAM_TOKEN")
+    if not tok:
+        return
+    import hashlib
+    key = hashlib.sha256(tok.encode()).hexdigest()[:12]
+    seen = state.setdefault("ig_token_seen", {})
+    now = datetime.datetime.now(datetime.timezone.utc)
+    seen.setdefault(key, now.isoformat())
+    for k in [k for k in seen if k != key]:
+        seen.pop(k)  # an older token that has since been replaced
+    age = (now - datetime.datetime.fromisoformat(seen[key])).days
+    warn_at = CFG.get("instagram_token_warn_days", 50)
+    last = state.get("ig_warned_at")
+    recent = last and (now - datetime.datetime.fromisoformat(last)).days < 3
+    expired_hint = problem and re.search(r"token|oauth|expired|session|permission", problem, re.I)
+    if (age >= warn_at or expired_hint) and not recent:
+        text = ("⚠️ <b>Instagram needs a fresh token</b>\n\n" +
+                ("Instagram refused the last post: " + html.escape(problem[:120]) + "\n\n" if expired_hint else
+                 f"The connection is {age} days old and expires at 60 days.\n\n") +
+                "In the Meta developer dashboard open your app, go to Instagram API setup with Instagram Login, "
+                "tap Generate token next to your account, then paste it into the GitHub secret INSTAGRAM_TOKEN.")
+        chat = find_owner_chat(state)
+        if chat and ENV("TELEGRAM_BOT_TOKEN"):
+            try:
+                call(f"https://api.telegram.org/bot{ENV('TELEGRAM_BOT_TOKEN')}/sendMessage",
+                     {"chat_id": chat, "text": text, "parse_mode": "HTML"})
+                state["ig_warned_at"] = now.isoformat()
+            except RuntimeError as e:
+                log("Could not send the Instagram reminder:", e)
+
+
 # --------------------------------------------------------------------------- main
 def main():
     state_path = BOT / "state.json"
@@ -280,6 +320,8 @@ def main():
             except RuntimeError as e:
                 attempts[key] = attempts.get(key, 0) + 1
                 record(sid, target, False, str(e))
+                if target == "instagram":
+                    instagram_token_check(state, str(e))
                 if attempts[key] < 3:
                     remaining.append(target)
         if remaining:
@@ -305,6 +347,8 @@ def main():
                     approved[sid] = [t for t in approved.get(sid, []) if t != "newsletter"]
                     if not approved[sid]:
                         approved.pop(sid, None)
+
+    instagram_token_check(state)
 
     # tell the owner about stories waiting for an OK
     if CFG.get("share_mode", "approve") == "approve":
