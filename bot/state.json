@@ -809,7 +809,22 @@
   "https://www.channelstv.com/2026/11/11/fg-commissions-three-cng-facilities-in-kano/": "2026-11-11",
   "https://www.legit.ng/people/1740764-australia-lists-2-age-groups-exempt-citizenship-test/": "2026-11-11",
   "https://www.bellanaija.com/2026/11/delphino-drunch-glenlivet-lagos/": "2026-11-11",
-  "https://techcabal.com/2026/11/11/opay-moniepoint-fintech-economics/": "2026-11-11"
+  "https://techcabal.com/2026/11/11/opay-moniepoint-fintech-economics/": "2026-11-11",
+  "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss": "2026-11-11",
+  "https://punchng.com/tinubu-seeks-reps-approval-to-implement-n10-79tn-external-borrowing-plan/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://dailypost.ng/2026/11/11/afcon-2027q-full-house-in-uyo-as-super-eagles-gear-up-for-tanzania-clash/": "2026-11-11",
+  "https://punchng.com/apc-chieftain-hails-okpebholos-infrastructure-projects/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss": "2026-11-11",
+  "https://punchng.com/17-rescued-one-injured-in-lagos-cng-bus-fire/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://www.bbc.co.uk/sport/football/articles/cm5ynnklgl9xo?at_medium=RSS&at_campaign=rss": "2026-11-11",
+  "https://punchng.com/2027-inec-to-review-adc-judgment-after-receiving-certified-copy/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://punchng.com/2027-local-languages-key-to-fighting-ai-misinformation-expert/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://www.vanguardngr.com/2026/11/tinubu-seeks-reps-approval-for-7-7bn-external-borrowing-plan-in-2026-budget/": "2026-11-11",
+  "https://nairametrics.com/2026/11/11/vnl-capital-launches-money-market-and-equity-funds/": "2026-11-11",
+  "https://punchng.com/2300411-2/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-11",
+  "https://dailypost.ng/2026/11/11/portugal-shame-it-annoys-me-denmarks-joachim-andersen-reveals-ronaldo-regret-2/": "2026-11-11",
+  "https://www.premiumtimesng.com/regional/south-south-regional/924445-2027-dont-use-ibom-deep-seaport-for-political-bargain-cso-tells-tinubu.html": "2026-11-11",
+  "https://www.channelstv.com/2026/11/11/police-arrest-seven-murder-arson-suspects-in-akwa-ibom/": "2026-11-11"
  },
  "published": [
   {
@@ -1488,6 +1503,15 @@
    "ts": "2026-11-11T11:22:33.872890+01:00",
    "ng": true,
    "src_title": "What OPay and Moniepoint’s numbers reveal about fintech economics"
+  },
+  {
+   "id": "tinubu-asks-reps-approve-n1079tn-foreign",
+   "date": "2026-11-11",
+   "title": "Tinubu Asks Reps to Approve N10.79tn Foreign Borrowing Plan",
+   "category": "Business",
+   "ts": "2026-11-11T14:32:33.456789+01:00",
+   "ng": true,
+   "src_title": "Tinubu seeks Reps approval to implement N10.79tn external borrowing plan"
   }
  ],
  "retries": {
@@ -1621,7 +1645,8 @@
   "https://www.channelstv.com/2026/11/10/video-wikes-%e2%82%a610m-pledge-inec-police-can-trigger-investigation-says-okoye/": 1,
   "https://punchng.com/awujale-ijebu-chiefs-sue-abiodun-over-interregnum-council/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://punchng.com/lagos-offers-free-hiv-tests-to-workers-trade-fair-visitors/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://www.vanguardngr.com/2026/11/efcc-recovers-3m-n1-3bn-from-aiteo-newcross/": 1
+  "https://www.vanguardngr.com/2026/11/efcc-recovers-3m-n1-3bn-from-aiteo-newcross/": 1,
+  "https://www.vanguardngr.com/2026/11/air-traffic-controllers-warn-fg-over-deteriorating-aviation-communication-systems/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1751,6 +1776,12 @@
    "title": "OPay and Moniepoint Process Combined $644bn as Fintech Scale Expands",
    "category": "Tech/AI",
    "ts": "2026-11-11T11:22:33.872908+01:00"
+  },
+  {
+   "id": "tinubu-asks-reps-approve-n1079tn-foreign",
+   "title": "Tinubu Asks Reps to Approve N10.79tn Foreign Borrowing Plan",
+   "category": "Business",
+   "ts": "2026-11-11T14:32:33.456818+01:00"
   }
  ],
  "targets_available": [
