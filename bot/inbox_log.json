@@ -1,11 +1,5 @@
 [
  {
-  "job": "mvzhk8au-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `42-delta-trade-unions-back-tinubu`",
-  "at": "2026-11-02T17:48:39.694620+01:00"
- },
- {
   "job": "mvzhkdpj-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `taraba-poly-denies-online-report-proposed`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Picture changed (new picture): `fg-plans-major-agricultural-reforms-lower`",
   "at": "2026-11-11T17:49:19.987301+01:00"
+ },
+ {
+  "job": "mwcvx9t0-share.json",
+  "ok": true,
+  "message": "Skipped sharing for 1 story",
+  "at": "2026-11-12T02:44:31.981216+01:00"
  }
 ]
