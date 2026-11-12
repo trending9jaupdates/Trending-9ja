@@ -1748,26 +1748,7 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-12",
- "pending_share": [
-  {
-   "id": "minister-tasks-local-governments-justify-monthly",
-   "title": "Minister Tasks Local Governments to Justify Monthly Allocations With Projects",
-   "category": "Politics",
-   "ts": "2026-11-12T18:41:07.220567+01:00"
-  },
-  {
-   "id": "2027-judge-my-administration-impact-projects",
-   "title": "2027: Judge My Administration By Impact And Projects, Tinubu Tells Nigerians",
-   "category": "Politics",
-   "ts": "2026-11-12T18:43:54.584128+01:00"
-  },
-  {
-   "id": "unn-confirms-death-four-students-offcampus",
-   "title": "UNN Confirms Death of Four Students After Off-Campus Party in Enugu",
-   "category": "Health",
-   "ts": "2026-11-12T18:45:33.643305+01:00"
-  }
- ],
+ "pending_share": [],
  "targets_available": [
   "telegram",
   "newsletter"
@@ -2005,7 +1986,17 @@
    "telegram": "2026-11-12T01:50:11.231878+00:00"
   }
  },
- "approved_share": {},
+ "approved_share": {
+  "minister-tasks-local-governments-justify-monthly": [
+   "telegram"
+  ],
+  "2027-judge-my-administration-impact-projects": [
+   "telegram"
+  ],
+  "unn-confirms-death-four-students-offcampus": [
+   "telegram"
+  ]
+ },
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [

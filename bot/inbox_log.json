@@ -1,11 +1,5 @@
 [
  {
-  "job": "mw0y6ndk-share.json",
-  "ok": true,
-  "message": "Approved 1 story for sharing to telegram",
-  "at": "2026-11-03T18:14:53.487824+01:00"
- },
- {
   "job": "mw0yzlra-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `gombe-varsity-asuu-rejects-salary-arrears`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Picture changed (new picture): `unn-confirms-death-four-students-offcampus`",
   "at": "2026-11-12T21:57:42.742272+01:00"
+ },
+ {
+  "job": "mwe1at00-share.json",
+  "ok": true,
+  "message": "Approved 3 stories for sharing to telegram",
+  "at": "2026-11-12T22:02:48.429002+01:00"
  }
 ]
