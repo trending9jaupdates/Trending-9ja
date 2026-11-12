@@ -1,100 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "fg-plans-major-agricultural-reforms-lower": [
-   "telegram"
-  ],
-  "fg-unveils-three-new-cng-infrastructure": [
-   "telegram"
-  ],
-  "australia-details-age-brackets-exempt-from": [
-   "telegram"
-  ],
-  "opay-moniepoint-process-combined-644bn-fintech": [
-   "telegram"
-  ],
-  "tinubu-asks-reps-approve-n1079tn-foreign": [
-   "telegram"
-  ],
-  "cardiff-residents-oppose-latenight-license-extension": [
-   "telegram"
-  ],
-  "rtifn-leaders-edward-onoja-take-tinubus": [
-   "telegram"
-  ],
-  "armenia-announces-age-limit-requirements-foreigners": [
-   "telegram"
-  ],
-  "canada-speed-up-permanent-residency-200000": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "apc-chieftain-raises-concern-73-voter",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
-  {
-   "id": "tony-elumelu-credits-mother-early-business",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
-  {
-   "id": "olufunso-amosun-empowers-osun-youths-with",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "osun-labour-threatens-withhold-support-tinubu",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "wimafrica-advocates-financial-access-women-leaders",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
-  {
-   "id": "canada-makes-rural-immigration-pathway-permanent",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
-  {
-   "id": "man-utd-consider-sacking-michael-carrick",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
-  {
-   "id": "jigawa-declares-public-holiday-president-tinubus",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
-  {
-   "id": "i-am-godfather-but-dont-meddle",
-   "targets": [
-    "newsletter",
-    "telegram"
-   ]
-  },
   {
    "id": "active-telecom-subscriptions-nigeria-reach-200",
    "targets": [
@@ -112,7 +23,61 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "fg-plans-major-agricultural-reforms-lower",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "fg-unveils-three-new-cng-infrastructure",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "australia-details-age-brackets-exempt-from",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "opay-moniepoint-process-combined-644bn-fintech",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "tinubu-asks-reps-approve-n1079tn-foreign",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "cardiff-residents-oppose-latenight-license-extension",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "rtifn-leaders-edward-onoja-take-tinubus",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "armenia-announces-age-limit-requirements-foreigners",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "canada-speed-up-permanent-residency-200000",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-12T02:49:24.118201+01:00"
+ "updated": "2026-11-12T01:50:14.235263+00:00"
 }

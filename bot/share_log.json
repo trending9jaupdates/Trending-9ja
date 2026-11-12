@@ -1,68 +1,5 @@
 [
  {
-  "id": "taraba-poly-denies-online-report-proposed",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-02T16:41:43.855351+00:00"
- },
- {
-  "id": "inec-promises-inclusive-2027-elections-persons",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-02T19:30:05.892997+00:00"
- },
- {
-  "id": "alnassr-thrash-pakhtakor-62-champions-league",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-03T08:28:30.317744+00:00"
- },
- {
-  "id": "nigeria-france-target-higher-energy-investments",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-03T17:14:59.030892+00:00"
- },
- {
-  "id": "gombe-varsity-asuu-rejects-salary-arrears",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-03T18:03:52.367780+00:00"
- },
- {
-  "id": "gombe-varsity-asuu-rejects-salary-arrears",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-03T18:03:56.185662+00:00"
- },
- {
-  "id": "2027-ogun-indigenes-back-adebutu-under",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-03T22:41:30.219732+00:00"
- },
- {
-  "id": "experts-urge-nigerian-farmers-adopt-soilbased",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-04T06:20:58.782589+00:00"
- },
- {
-  "id": "state-police-bill-clears-assembly-threshold",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-04T06:21:28.232282+00:00"
- },
- {
   "id": "state-police-bill-clears-assembly-threshold",
   "target": "newsletter",
   "ok": true,
@@ -558,5 +495,68 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-10T22:31:12.428880+00:00"
+ },
+ {
+  "id": "fg-plans-major-agricultural-reforms-lower",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T01:49:29.368406+00:00"
+ },
+ {
+  "id": "fg-unveils-three-new-cng-infrastructure",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T01:49:37.948159+00:00"
+ },
+ {
+  "id": "australia-details-age-brackets-exempt-from",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T01:49:44.112740+00:00"
+ },
+ {
+  "id": "opay-moniepoint-process-combined-644bn-fintech",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T01:49:48.742319+00:00"
+ },
+ {
+  "id": "tinubu-asks-reps-approve-n1079tn-foreign",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T01:49:53.026778+00:00"
+ },
+ {
+  "id": "cardiff-residents-oppose-latenight-license-extension",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T01:49:57.411594+00:00"
+ },
+ {
+  "id": "rtifn-leaders-edward-onoja-take-tinubus",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T01:50:02.382118+00:00"
+ },
+ {
+  "id": "armenia-announces-age-limit-requirements-foreigners",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T01:50:06.352479+00:00"
+ },
+ {
+  "id": "canada-speed-up-permanent-residency-200000",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T01:50:11.231896+00:00"
  }
 ]

@@ -1908,37 +1908,36 @@
   },
   "fg-launches-52500-minimum-monthly-pension": {
    "telegram": "2026-11-10T22:31:12.428861+00:00"
+  },
+  "fg-plans-major-agricultural-reforms-lower": {
+   "telegram": "2026-11-12T01:49:29.368383+00:00"
+  },
+  "fg-unveils-three-new-cng-infrastructure": {
+   "telegram": "2026-11-12T01:49:37.948142+00:00"
+  },
+  "australia-details-age-brackets-exempt-from": {
+   "telegram": "2026-11-12T01:49:44.112723+00:00"
+  },
+  "opay-moniepoint-process-combined-644bn-fintech": {
+   "telegram": "2026-11-12T01:49:48.742301+00:00"
+  },
+  "tinubu-asks-reps-approve-n1079tn-foreign": {
+   "telegram": "2026-11-12T01:49:53.026761+00:00"
+  },
+  "cardiff-residents-oppose-latenight-license-extension": {
+   "telegram": "2026-11-12T01:49:57.411577+00:00"
+  },
+  "rtifn-leaders-edward-onoja-take-tinubus": {
+   "telegram": "2026-11-12T01:50:02.382097+00:00"
+  },
+  "armenia-announces-age-limit-requirements-foreigners": {
+   "telegram": "2026-11-12T01:50:06.352464+00:00"
+  },
+  "canada-speed-up-permanent-residency-200000": {
+   "telegram": "2026-11-12T01:50:11.231878+00:00"
   }
  },
- "approved_share": {
-  "fg-plans-major-agricultural-reforms-lower": [
-   "telegram"
-  ],
-  "fg-unveils-three-new-cng-infrastructure": [
-   "telegram"
-  ],
-  "australia-details-age-brackets-exempt-from": [
-   "telegram"
-  ],
-  "opay-moniepoint-process-combined-644bn-fintech": [
-   "telegram"
-  ],
-  "tinubu-asks-reps-approve-n1079tn-foreign": [
-   "telegram"
-  ],
-  "cardiff-residents-oppose-latenight-license-extension": [
-   "telegram"
-  ],
-  "rtifn-leaders-edward-onoja-take-tinubus": [
-   "telegram"
-  ],
-  "armenia-announces-age-limit-requirements-foreigners": [
-   "telegram"
-  ],
-  "canada-speed-up-permanent-residency-200000": [
-   "telegram"
-  ]
- },
+ "approved_share": {},
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [
