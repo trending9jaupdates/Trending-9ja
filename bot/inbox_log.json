@@ -1,35 +1,5 @@
 [
  {
-  "job": "mvzhkdpj-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `taraba-poly-denies-online-report-proposed`",
-  "at": "2026-11-02T17:48:39.698962+01:00"
- },
- {
-  "job": "mvzhtbvu-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `world-bank-initiative-trains-388-state`",
-  "at": "2026-11-02T17:48:39.701638+01:00"
- },
- {
-  "job": "mvzi068f-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `jimmy-odukoya-introduces-wife-mo-jasmine`",
-  "at": "2026-11-02T17:53:58.677396+01:00"
- },
- {
-  "job": "mvznd8s6-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `inec-promises-inclusive-2027-elections-persons`",
-  "at": "2026-11-02T20:24:05.913523+01:00"
- },
- {
-  "job": "mvznkv44-share.json",
-  "ok": true,
-  "message": "Approved 1 story for sharing to telegram",
-  "at": "2026-11-02T20:30:01.055436+01:00"
- },
- {
   "job": "mw0ds0q1-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `alnassr-thrash-pakhtakor-62-champions-league`",
@@ -358,5 +328,35 @@
   "ok": true,
   "message": "Skipped sharing for 1 story",
   "at": "2026-11-12T02:44:31.981216+01:00"
+ },
+ {
+  "job": "mwcvxbg3-share.json",
+  "ok": true,
+  "message": "Skipped sharing for 1 story",
+  "at": "2026-11-12T02:49:24.116981+01:00"
+ },
+ {
+  "job": "mwcvxcn7-share.json",
+  "ok": true,
+  "message": "Skipped sharing for 1 story",
+  "at": "2026-11-12T02:49:24.117105+01:00"
+ },
+ {
+  "job": "mwcvxdoe-share.json",
+  "ok": true,
+  "message": "Skipped sharing for 1 story",
+  "at": "2026-11-12T02:49:24.117212+01:00"
+ },
+ {
+  "job": "mwcvxfaq-share.json",
+  "ok": true,
+  "message": "Approved 9 stories for sharing to telegram",
+  "at": "2026-11-12T02:49:24.117450+01:00"
+ },
+ {
+  "job": "mwcw3inq-share.json",
+  "ok": true,
+  "message": "Approved 8 stories for sharing to telegram",
+  "at": "2026-11-12T02:49:24.117682+01:00"
  }
 ]

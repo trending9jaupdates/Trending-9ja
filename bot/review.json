@@ -1,55 +1,34 @@
 {
- "pending": [
-  {
-   "id": "fg-unveils-three-new-cng-infrastructure",
-   "title": "FG Unveils Three New CNG Infrastructure Facilities in Kano",
-   "category": "Business",
-   "ts": "2026-11-11T11:20:47.968292+01:00"
-  },
-  {
-   "id": "australia-details-age-brackets-exempt-from",
-   "title": "Australia Details Age Brackets Exempt from Citizenship Test",
-   "category": "Politics",
-   "ts": "2026-11-11T11:21:36.390460+01:00"
-  },
-  {
-   "id": "opay-moniepoint-process-combined-644bn-fintech",
-   "title": "OPay and Moniepoint Process Combined $644bn as Fintech Scale Expands",
-   "category": "Tech/AI",
-   "ts": "2026-11-11T11:22:33.872908+01:00"
-  },
-  {
-   "id": "tinubu-asks-reps-approve-n1079tn-foreign",
-   "title": "Tinubu Asks Reps to Approve N10.79tn Foreign Borrowing Plan",
-   "category": "Business",
-   "ts": "2026-11-11T14:32:33.456818+01:00"
-  },
-  {
-   "id": "cardiff-residents-oppose-latenight-license-extension",
-   "title": "Cardiff Residents Oppose Late-Night License Extension For Fury-Joshua Clash",
-   "category": "Sports",
-   "ts": "2026-11-11T16:49:12.698183+01:00"
-  },
-  {
-   "id": "rtifn-leaders-edward-onoja-take-tinubus",
-   "title": "RTIFN Leaders, Edward Onoja Take Tinubu's Campaign to Lokoja Streets",
-   "category": "Politics",
-   "ts": "2026-11-11T16:51:04.993363+01:00"
-  },
-  {
-   "id": "armenia-announces-age-limit-requirements-foreigners",
-   "title": "Armenia Announces Age Limit and Requirements for Foreigners Seeking Citizenship",
-   "category": "Politics",
-   "ts": "2026-11-11T16:54:29.522997+01:00"
-  },
-  {
-   "id": "canada-speed-up-permanent-residency-200000",
-   "title": "Canada to Speed Up Permanent Residency for 200,000 Foreigners in 2027",
-   "category": "Politics",
-   "ts": "2026-11-11T23:06:59.075455+01:00"
-  }
- ],
- "approved": {},
+ "pending": [],
+ "approved": {
+  "fg-plans-major-agricultural-reforms-lower": [
+   "telegram"
+  ],
+  "fg-unveils-three-new-cng-infrastructure": [
+   "telegram"
+  ],
+  "australia-details-age-brackets-exempt-from": [
+   "telegram"
+  ],
+  "opay-moniepoint-process-combined-644bn-fintech": [
+   "telegram"
+  ],
+  "tinubu-asks-reps-approve-n1079tn-foreign": [
+   "telegram"
+  ],
+  "cardiff-residents-oppose-latenight-license-extension": [
+   "telegram"
+  ],
+  "rtifn-leaders-edward-onoja-take-tinubus": [
+   "telegram"
+  ],
+  "armenia-announces-age-limit-requirements-foreigners": [
+   "telegram"
+  ],
+  "canada-speed-up-permanent-residency-200000": [
+   "telegram"
+  ]
+ },
  "targets": [
   "telegram",
   "newsletter"
@@ -135,5 +114,5 @@
    ]
   }
  ],
- "updated": "2026-11-12T01:44:34.192143+00:00"
+ "updated": "2026-11-12T02:49:24.118201+01:00"
 }
