@@ -1,11 +1,5 @@
 [
  {
-  "job": "mw0fdz0s-share.json",
-  "ok": true,
-  "message": "Approved 1 story for sharing to telegram",
-  "at": "2026-11-03T09:28:25.433343+01:00"
- },
- {
   "job": "mw0ks4d8-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `nigeria-france-target-higher-energy-investments`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Picture changed (new picture): `minister-tasks-local-governments-justify-monthly`",
   "at": "2026-11-12T21:29:58.116195+01:00"
+ },
+ {
+  "job": "mwe0scwc-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `2027-judge-my-administration-impact-projects`",
+  "at": "2026-11-12T21:48:29.518177+01:00"
  }
 ]
