@@ -1,5 +1,24 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "minister-tasks-local-governments-justify-monthly",
+   "title": "Minister Tasks Local Governments to Justify Monthly Allocations With Projects",
+   "category": "Politics",
+   "ts": "2026-11-12T18:41:07.220567+01:00"
+  },
+  {
+   "id": "2027-judge-my-administration-impact-projects",
+   "title": "2027: Judge My Administration By Impact And Projects, Tinubu Tells Nigerians",
+   "category": "Politics",
+   "ts": "2026-11-12T18:43:54.584128+01:00"
+  },
+  {
+   "id": "unn-confirms-death-four-students-offcampus",
+   "title": "UNN Confirms Death of Four Students After Off-Campus Party in Enugu",
+   "category": "Health",
+   "ts": "2026-11-12T18:45:33.643305+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -79,5 +98,5 @@
    ]
   }
  ],
- "updated": "2026-11-12T07:30:33.230173+00:00"
+ "updated": "2026-11-12T18:45:33.643349+01:00"
 }

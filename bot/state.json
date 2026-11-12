@@ -786,7 +786,19 @@
   "https://punchng.com/new-york-police-arrest-17-year-old-over-ghanaian-teens-murder/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-12",
   "https://punchng.com/morning-recap-court-ruling-deepens-adc-crisis-ig-cancels-police-leave-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-12",
   "https://punchng.com/indonesian-vp-resigns-over-high-school-certificate-scandal/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-12",
-  "https://www.premiumtimesng.com/business/business-news/924593-cop31-nigeria-ranks-third-among-countries-with-highest-registered-participants-at-un-climate-conference.html": "2026-11-12"
+  "https://www.premiumtimesng.com/business/business-news/924593-cop31-nigeria-ranks-third-among-countries-with-highest-registered-participants-at-un-climate-conference.html": "2026-11-12",
+  "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss": "2026-11-12",
+  "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss": "2026-11-12",
+  "https://punchng.com/soyinka-urges-students-to-embrace-innovation/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-12",
+  "https://punchng.com/nasarawa-deploys-mobile-toilets-to-end-open-defecation/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-12",
+  "https://punchng.com/one-dead-four-wounded-in-us-shooting/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-12",
+  "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss": "2026-11-12",
+  "https://punchng.com/unn-confirms-four-students-dead-after-off-campus-party/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-12",
+  "https://www.channelstv.com/2026/11/12/unn-confirms-death-of-four-students-after-off-campus-party/": "2026-11-12",
+  "https://punchng.com/2027-re-elect-tinubu-to-complete-economic-reforms-minister/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-12",
+  "https://www.vanguardngr.com/2026/11/budget-minister-challenges-lgs-to-justify-monthly-allocations/": "2026-11-12",
+  "https://dailypost.ng/2026/11/12/2027-judge-my-administration-by-lives-touched-projects-completed-tinubu/": "2026-11-12",
+  "https://www.premiumtimesng.com/news/headlines/924722-unn-confirms-death-of-four-students-during-house-party.html": "2026-11-12"
  },
  "published": [
   {
@@ -1462,6 +1474,33 @@
    "ts": "2026-11-11T23:06:59.075433+01:00",
    "ng": true,
    "src_title": "Canada to fast-track permanent residence for 200,000 foreigners in 2027"
+  },
+  {
+   "id": "minister-tasks-local-governments-justify-monthly",
+   "date": "2026-11-12",
+   "title": "Minister Tasks Local Governments to Justify Monthly Allocations With Projects",
+   "category": "Politics",
+   "ts": "2026-11-12T18:41:07.220543+01:00",
+   "ng": true,
+   "src_title": "Budget Minister challenges LGs to justify monthly allocations"
+  },
+  {
+   "id": "2027-judge-my-administration-impact-projects",
+   "date": "2026-11-12",
+   "title": "2027: Judge My Administration By Impact And Projects, Tinubu Tells Nigerians",
+   "category": "Politics",
+   "ts": "2026-11-12T18:43:54.584103+01:00",
+   "ng": true,
+   "src_title": "2027: Judge my administration by lives touched, projects completed – Tinubu"
+  },
+  {
+   "id": "unn-confirms-death-four-students-offcampus",
+   "date": "2026-11-12",
+   "title": "UNN Confirms Death of Four Students After Off-Campus Party in Enugu",
+   "category": "Health",
+   "ts": "2026-11-12T18:45:33.643281+01:00",
+   "ng": true,
+   "src_title": "UNN confirms death of four students during house party"
   }
  ],
  "retries": {
@@ -1602,7 +1641,8 @@
   "https://dailypost.ng/2026/11/11/troops-raid-terrorists-hideouts-recover-five-motorcycles-in-taraba/": 1,
   "https://punchng.com/gospel-singer-apologises-to-toluwanisings-wife-over-%e2%82%a66m-donation/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/who-could-potentially-replace-jensen-huang-if-nvidia-ousts-him/": 1,
-  "https://dailypost.ng/2026/11/12/obidient-movement-is-one-of-nigerias-biggest-political-scams-sowore-slams-peter-obi/": 1
+  "https://dailypost.ng/2026/11/12/obidient-movement-is-one-of-nigerias-biggest-political-scams-sowore-slams-peter-obi/": 1,
+  "https://punchng.com/ndc-blames-apc-for-lagos-attack-ruling-party-denies-involvement/?utm_source=rss.punchng.com&utm_medium=web": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1708,7 +1748,26 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-12",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "minister-tasks-local-governments-justify-monthly",
+   "title": "Minister Tasks Local Governments to Justify Monthly Allocations With Projects",
+   "category": "Politics",
+   "ts": "2026-11-12T18:41:07.220567+01:00"
+  },
+  {
+   "id": "2027-judge-my-administration-impact-projects",
+   "title": "2027: Judge My Administration By Impact And Projects, Tinubu Tells Nigerians",
+   "category": "Politics",
+   "ts": "2026-11-12T18:43:54.584128+01:00"
+  },
+  {
+   "id": "unn-confirms-death-four-students-offcampus",
+   "title": "UNN Confirms Death of Four Students After Off-Campus Party in Enugu",
+   "category": "Health",
+   "ts": "2026-11-12T18:45:33.643305+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
