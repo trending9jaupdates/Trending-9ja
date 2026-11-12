@@ -1984,19 +1984,18 @@
   },
   "canada-speed-up-permanent-residency-200000": {
    "telegram": "2026-11-12T01:50:11.231878+00:00"
+  },
+  "minister-tasks-local-governments-justify-monthly": {
+   "telegram": "2026-11-12T21:02:52.217807+00:00"
+  },
+  "2027-judge-my-administration-impact-projects": {
+   "telegram": "2026-11-12T21:02:57.450999+00:00"
+  },
+  "unn-confirms-death-four-students-offcampus": {
+   "telegram": "2026-11-12T21:03:02.383836+00:00"
   }
  },
- "approved_share": {
-  "minister-tasks-local-governments-justify-monthly": [
-   "telegram"
-  ],
-  "2027-judge-my-administration-impact-projects": [
-   "telegram"
-  ],
-  "unn-confirms-death-four-students-offcampus": [
-   "telegram"
-  ]
- },
+ "approved_share": {},
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [

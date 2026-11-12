@@ -1,39 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "minister-tasks-local-governments-justify-monthly": [
-   "telegram"
-  ],
-  "2027-judge-my-administration-impact-projects": [
-   "telegram"
-  ],
-  "unn-confirms-death-four-students-offcampus": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "active-telecom-subscriptions-nigeria-reach-200",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "cbn-automates-subnational-fiscal-data-collection",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "fg-launches-52500-minimum-monthly-pension",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "fg-plans-major-agricultural-reforms-lower",
    "targets": [
@@ -87,7 +59,25 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "minister-tasks-local-governments-justify-monthly",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "2027-judge-my-administration-impact-projects",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "unn-confirms-death-four-students-offcampus",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-12T22:02:48.429306+01:00"
+ "updated": "2026-11-12T21:03:05.385757+00:00"
 }

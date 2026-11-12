@@ -1,26 +1,5 @@
 [
  {
-  "id": "state-police-bill-clears-assembly-threshold",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-04T06:21:32.478120+00:00"
- },
- {
-  "id": "experts-urge-nigerian-farmers-adopt-soilbased",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-04T06:21:32.478151+00:00"
- },
- {
-  "id": "us-midterms-democrats-win-texas-governor",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-04T13:14:59.107053+00:00"
- },
- {
   "id": "nigerianborn-scholar-dapo-akande-elected-icj",
   "target": "telegram",
   "ok": true,
@@ -558,5 +537,26 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-12T01:50:11.231896+00:00"
+ },
+ {
+  "id": "minister-tasks-local-governments-justify-monthly",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T21:02:52.217829+00:00"
+ },
+ {
+  "id": "2027-judge-my-administration-impact-projects",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T21:02:57.451014+00:00"
+ },
+ {
+  "id": "unn-confirms-death-four-students-offcampus",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-12T21:03:02.383852+00:00"
  }
 ]
