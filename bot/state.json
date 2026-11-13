@@ -726,7 +726,19 @@
   "https://punchng.com/nigerias-digital-credit-access-below-20-nitda/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
   "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss": "2026-11-13",
   "https://punchng.com/gunmen-shoot-abuja-man-dead-four-arrested/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
-  "https://punchng.com/wema-bank-awards-n300m-to-11-tech-innovation-winners/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13"
+  "https://punchng.com/wema-bank-awards-n300m-to-11-tech-innovation-winners/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://punchng.com/meet-ohaebosim-first-nigerian-american-to-become-lieutenant-governor-in-us/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://punchng.com/kidnappers-demand-n500m-ransom-for-funaab-graduate-three-others/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://www.vanguardngr.com/2026/11/inec-to-obey-court-on-atikus-adc-candidacy-amupitan/": "2026-11-13",
+  "https://punchng.com/2027-inec-will-obey-court-ruling-on-atikus-candidacy-amupitan/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://www.vanguardngr.com/2026/11/40-of-premium-bread-bakers-shut-down-in-2yrs-2/": "2026-11-13",
+  "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss": "2026-11-13",
+  "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_medium=RSS&at_campaign=rss": "2026-11-13",
+  "https://punchng.com/i-never-owned-pro-tinubu-x-account-inec-chairman/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://punchng.com/morning-recap-inec-fixes-mock-poll-date-police-probe-obi-town-hall-attack-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://punchng.com/trcn-uncovers-250-fake-certificates-in-teachers-recruitment/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://dailypost.ng/2026/11/13/ashswag-beats-carter-efe-peller-to-win-international-streamer-award/": "2026-11-13",
+  "https://www.premiumtimesng.com/opinion/924714-beyond-the-dutse-rally-tinubus-reforms-northern-expectations-and-the-politics-of-2027-by-kubura-garba.html": "2026-11-13"
  },
  "published": [
   {
@@ -1333,6 +1345,15 @@
    "ts": "2026-11-12T18:45:33.643281+01:00",
    "ng": true,
    "src_title": "UNN confirms death of four students during house party"
+  },
+  {
+   "id": "kc-ohaebosim-becomes-first-nigerianamerican-elected",
+   "date": "2026-11-13",
+   "title": "KC Ohaebosim Becomes First Nigerian-American Elected US Lieutenant Governor",
+   "category": "Politics",
+   "ts": "2026-11-13T07:57:55.279262+01:00",
+   "ng": true,
+   "src_title": "Meet Ohaebosim, first Nigerian-American to become lieutenant governor in US"
   }
  ],
  "retries": {
@@ -1474,7 +1495,8 @@
   "https://punchng.com/gospel-singer-apologises-to-toluwanisings-wife-over-%e2%82%a66m-donation/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/who-could-potentially-replace-jensen-huang-if-nvidia-ousts-him/": 1,
   "https://dailypost.ng/2026/11/12/obidient-movement-is-one-of-nigerias-biggest-political-scams-sowore-slams-peter-obi/": 1,
-  "https://punchng.com/ndc-blames-apc-for-lagos-attack-ruling-party-denies-involvement/?utm_source=rss.punchng.com&utm_medium=web": 1
+  "https://punchng.com/ndc-blames-apc-for-lagos-attack-ruling-party-denies-involvement/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://www.vanguardngr.com/2026/11/amupitan-denies-owning-pro-apc-x-account/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1580,7 +1602,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-13",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "kc-ohaebosim-becomes-first-nigerianamerican-elected",
+   "title": "KC Ohaebosim Becomes First Nigerian-American Elected US Lieutenant Governor",
+   "category": "Politics",
+   "ts": "2026-11-13T07:57:55.279284+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"

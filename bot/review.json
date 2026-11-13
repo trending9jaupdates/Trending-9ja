@@ -1,5 +1,12 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "kc-ohaebosim-becomes-first-nigerianamerican-elected",
+   "title": "KC Ohaebosim Becomes First Nigerian-American Elected US Lieutenant Governor",
+   "category": "Politics",
+   "ts": "2026-11-13T07:57:55.279284+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -79,5 +86,5 @@
    ]
   }
  ],
- "updated": "2026-11-12T23:42:11.574264+00:00"
+ "updated": "2026-11-13T08:03:57.190289+01:00"
 }
