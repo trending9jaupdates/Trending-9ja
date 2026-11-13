@@ -1,11 +1,5 @@
 [
  {
-  "job": "mw0yzlra-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `gombe-varsity-asuu-rejects-salary-arrears`",
-  "at": "2026-11-03T18:37:28.033178+01:00"
- },
- {
   "job": "mw0zxc38-share.json",
   "ok": true,
   "message": "Approved 1 story for sharing to telegram, newsletter",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Approved 3 stories for sharing to telegram",
   "at": "2026-11-12T22:02:48.429002+01:00"
+ },
+ {
+  "job": "mweox17y-image.json",
+  "ok": true,
+  "message": "Picture changed (new picture): `kc-ohaebosim-becomes-first-nigerianamerican-elected`",
+  "at": "2026-11-13T09:03:58.287419+01:00"
  }
 ]
