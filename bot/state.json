@@ -738,7 +738,19 @@
   "https://punchng.com/morning-recap-inec-fixes-mock-poll-date-police-probe-obi-town-hall-attack-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
   "https://punchng.com/trcn-uncovers-250-fake-certificates-in-teachers-recruitment/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
   "https://dailypost.ng/2026/11/13/ashswag-beats-carter-efe-peller-to-win-international-streamer-award/": "2026-11-13",
-  "https://www.premiumtimesng.com/opinion/924714-beyond-the-dutse-rally-tinubus-reforms-northern-expectations-and-the-politics-of-2027-by-kubura-garba.html": "2026-11-13"
+  "https://www.premiumtimesng.com/opinion/924714-beyond-the-dutse-rally-tinubus-reforms-northern-expectations-and-the-politics-of-2027-by-kubura-garba.html": "2026-11-13",
+  "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss": "2026-11-13",
+  "https://www.vanguardngr.com/2026/11/u-23-afconq-nigeria-suffer-2-0-defeat-to-dr-congo-in-first-leg/": "2026-11-13",
+  "https://punchng.com/tinubu-flags-off-bakassi-seaport-in-cross-river/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://punchng.com/katsina-deploys-1008-forest-guards-against-bandits/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://punchng.com/2027-condemn-electoral-violence-nrm-urges-tinubu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://www.bbc.co.uk/sport/football/articles/ckedq01zve04o?at_medium=RSS&at_campaign=rss": "2026-11-13",
+  "https://www.vanguardngr.com/2026/11/carrick-says-love-never-dies-after-man-utd-sacking/": "2026-11-13",
+  "https://punchng.com/efcc-secures-conviction-of-mining-firm-two-others-in-kwara/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://www.bbc.co.uk/sport/swimming/articles/cmy86x3y5dd8o?at_medium=RSS&at_campaign=rss": "2026-11-13",
+  "https://punchng.com/us-family-sets-guinness-world-record-with-five-generations-born-september-14/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://punchng.com/2027-wike-questions-obis-patriotism-over-anthem/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-13",
+  "https://dailypost.ng/2026/11/13/cooking-gas-price-jumps-to-n1800-kg-as-nigerians-pay-more-lpg/": "2026-11-13"
  },
  "published": [
   {
@@ -1354,6 +1366,33 @@
    "ts": "2026-11-13T07:57:55.279262+01:00",
    "ng": true,
    "src_title": "Meet Ohaebosim, first Nigerian-American to become lieutenant governor in US"
+  },
+  {
+   "id": "tinubu-flags-off-35bn-bakassi-deep",
+   "date": "2026-11-13",
+   "title": "Tinubu Flags Off $3.5bn Bakassi Deep Seaport Project in Cross River",
+   "category": "Business",
+   "ts": "2026-11-13T18:19:09.770915+01:00",
+   "ng": true,
+   "src_title": "Tinubu flags off Bakassi seaport in Cross River"
+  },
+  {
+   "id": "u23-afconq-nigeria-defeated-20-dr",
+   "date": "2026-11-13",
+   "title": "U-23 AFCONQ: Nigeria Defeated 2-0 by DR Congo in First Leg",
+   "category": "Sports",
+   "ts": "2026-11-13T18:22:05.661428+01:00",
+   "ng": true,
+   "src_title": "U-23 AFCONQ: Nigeria suffer 2-0 defeat to DR Congo in first leg"
+  },
+  {
+   "id": "cooking-gas-price-surges-n1800-per",
+   "date": "2026-11-13",
+   "title": "Cooking Gas Price Surges to N1,800 Per Kilogram in Nigeria",
+   "category": "Business",
+   "ts": "2026-11-13T18:22:53.164529+01:00",
+   "ng": true,
+   "src_title": "Cooking Gas price jumps to N1,800/kg as Nigerians pay more for LPG"
   }
  ],
  "retries": {
@@ -1608,6 +1647,24 @@
    "title": "KC Ohaebosim Becomes First Nigerian-American Elected US Lieutenant Governor",
    "category": "Politics",
    "ts": "2026-11-13T07:57:55.279284+01:00"
+  },
+  {
+   "id": "tinubu-flags-off-35bn-bakassi-deep",
+   "title": "Tinubu Flags Off $3.5bn Bakassi Deep Seaport Project in Cross River",
+   "category": "Business",
+   "ts": "2026-11-13T18:19:09.770965+01:00"
+  },
+  {
+   "id": "u23-afconq-nigeria-defeated-20-dr",
+   "title": "U-23 AFCONQ: Nigeria Defeated 2-0 by DR Congo in First Leg",
+   "category": "Sports",
+   "ts": "2026-11-13T18:22:05.661488+01:00"
+  },
+  {
+   "id": "cooking-gas-price-surges-n1800-per",
+   "title": "Cooking Gas Price Surges to N1,800 Per Kilogram in Nigeria",
+   "category": "Business",
+   "ts": "2026-11-13T18:22:53.164581+01:00"
   }
  ],
  "targets_available": [
