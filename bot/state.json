@@ -672,7 +672,17 @@
   "https://punchng.com/toyin-abraham-threatens-legal-action-over-defamatory-posts-2/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
   "https://punchng.com/toluwanisings-leaked-voice-notes-fuel-outrage-against-singers-family/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
   "https://punchng.com/i-woke-up-to-n100m-alert-after-apc-campaign-portable/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
-  "https://www.premiumtimesng.com/promoted/925054-zamfara-stands-still-as-gov-lawal-hosts-first-lady-remi-tinubu-for-mega-rally.html": "2026-11-14"
+  "https://www.premiumtimesng.com/promoted/925054-zamfara-stands-still-as-gov-lawal-hosts-first-lady-remi-tinubu-for-mega-rally.html": "2026-11-14",
+  "https://punchng.com/morning-recap-fani-kayode-south-africa-clash-tinubu-aide-denies-convoy-attack-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://punchng.com/us-reopens-airspace-after-flight-disruption-rules-out-cyberattack/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://punchng.com/tinubus-aide-dismisses-reports-of-attack-on-presidential-convoy-in-abuja/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://punchng.com/argentina-lose-2-1-to-uruguay-in-first-post-messi-match/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss": "2026-11-14",
+  "https://punchng.com/ebola-who-hails-nigeria-as-62-contacts-complete-monitoring-no-new-cases-recorded/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://punchng.com/5-things-voters-must-do-before-election-day/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://dailypost.ng/2026/11/14/afcon-2027q-chelle-hails-arokodare-after-brace-against-tanzania/": "2026-11-14",
+  "https://www.premiumtimesng.com/opinion/925067-lagos-thugs-london-protesters-and-the-chaos-before-the-ballot-by-adeola-akinremi.html": "2026-11-14",
+  "https://www.channelstv.com/2026/11/14/nnpc-receives-c-of-o-for-proposed-edo-refinery/": "2026-11-14"
  },
  "published": [
   {
@@ -1292,6 +1302,15 @@
    "ts": "2026-11-14T00:44:35.708832+01:00",
    "ng": true,
    "src_title": "Super sub Arokodare’s brace keeps Eagles’ AFCON hopes alive"
+  },
+  {
+   "id": "afcon-2027-qualifier-ric-chelle-praises",
+   "date": "2026-11-14",
+   "title": "AFCON 2027 Qualifier: Éric Chelle Praises Tolu Arokodare After Brace Against Tanzania",
+   "category": "Sports",
+   "ts": "2026-11-14T07:46:31.368436+01:00",
+   "ng": true,
+   "src_title": "AFCON 2027Q: Chelle hails Arokodare after brace against Tanzania"
   }
  ],
  "retries": {
@@ -1436,7 +1455,8 @@
   "https://punchng.com/ndc-blames-apc-for-lagos-attack-ruling-party-denies-involvement/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/amupitan-denies-owning-pro-apc-x-account/": 1,
   "https://www.vanguardngr.com/2026/11/2027-pdps-popoola-pledges-to-tackle-insecurity-infrastructure-deficit/": 1,
-  "https://dailypost.ng/2026/11/13/prophet-remanded-in-prison-for-filming-tolwanisings-corpse-after-failed-attempt-to-resurrect-him/": 1
+  "https://dailypost.ng/2026/11/13/prophet-remanded-in-prison-for-filming-tolwanisings-corpse-after-failed-attempt-to-resurrect-him/": 1,
+  "https://www.vanguardngr.com/2026/11/tinubu-aide-dismisses-claims-of-convoy-stoning/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1572,6 +1592,12 @@
    "title": "Arokodare Scores Brace as Super Eagles Beat Tanzania 3-1 in AFCON Qualifier",
    "category": "Sports",
    "ts": "2026-11-14T00:44:35.708895+01:00"
+  },
+  {
+   "id": "afcon-2027-qualifier-ric-chelle-praises",
+   "title": "AFCON 2027 Qualifier: Éric Chelle Praises Tolu Arokodare After Brace Against Tanzania",
+   "category": "Sports",
+   "ts": "2026-11-14T07:46:31.368458+01:00"
   }
  ],
  "targets_available": [
