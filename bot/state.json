@@ -692,7 +692,17 @@
   "https://punchng.com/dr-congo-rwanda-clash-over-francophone-top-job/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
   "https://punchng.com/2027-osun-apc-leaders-rally-support-for-tinubus-re-election/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
   "https://dailypost.ng/2026/11/14/nnl-offor-targets-akwa-united-victory-over-abakaliki-fc/": "2026-11-14",
-  "https://www.premiumtimesng.com/news/more-news/925140-concerns-mount-as-apc-failed-to-present-partys-flags-to-candidates-at-ondo-rally.html": "2026-11-14"
+  "https://www.premiumtimesng.com/news/more-news/925140-concerns-mount-as-apc-failed-to-present-partys-flags-to-candidates-at-ondo-rally.html": "2026-11-14",
+  "https://www.vanguardngr.com/2026/11/denmark-hammer-ronaldo-less-portugal-4-1-in-nations-league-match/": "2026-11-14",
+  "https://punchng.com/tonto-dikeh-dedicates-church-building-in-honour-of-jerry-eze/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://punchng.com/nigerian-mission-fires-back-at-ramaphosas-spokesman/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://punchng.com/denmark-thrash-portugal-4-1-in-first-game-after-ronaldos-retirement/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://www.vanguardngr.com/2026/11/frsc-confirms-one-dead-eight-injured-in-anambra-multiple-crash/": "2026-11-14",
+  "https://punchng.com/mbappe-available-for-frances-nations-league-clash-against-turkey-zidane/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://www.vanguardngr.com/2026/11/lookman-ruled-out-of-tanzania-return-leg-with-knee-ligament-sprain/": "2026-11-14",
+  "https://www.vanguardngr.com/2026/11/japan-score-in-injury-time-to-stun-brazil-3-2-in-singapore/": "2026-11-14",
+  "https://punchng.com/who-issues-first-guideline-on-type-1-diabetes-in-adults/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14",
+  "https://punchng.com/2027-gombe-apc-targets-one-million-votes-for-tinubu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-14"
  },
  "published": [
   {
@@ -1321,6 +1331,24 @@
    "ts": "2026-11-14T07:46:31.368436+01:00",
    "ng": true,
    "src_title": "AFCON 2027Q: Chelle hails Arokodare after brace against Tanzania"
+  },
+  {
+   "id": "tonto-dikeh-dedicates-new-church-building",
+   "date": "2026-11-14",
+   "title": "Tonto Dikeh Dedicates New Church Building to Honor Pastor Jerry Eze",
+   "category": "Entertainment",
+   "ts": "2026-11-14T23:36:51.384456+01:00",
+   "ng": true,
+   "src_title": "Tonto Dikeh dedicates church building in honour of Jerry Eze"
+  },
+  {
+   "id": "denmark-defeat-portugal-41-first-match",
+   "date": "2026-11-14",
+   "title": "Denmark Defeat Portugal 4-1 in First Match Following Ronaldo's Retirement",
+   "category": "Sports",
+   "ts": "2026-11-14T23:40:43.566164+01:00",
+   "ng": false,
+   "src_title": "Denmark hammer Ronaldo-less Portugal 4-1 in Nations League match"
   }
  ],
  "retries": {
@@ -1611,6 +1639,18 @@
    "title": "AFCON 2027 Qualifier: Éric Chelle Praises Tolu Arokodare After Brace Against Tanzania",
    "category": "Sports",
    "ts": "2026-11-14T07:46:31.368458+01:00"
+  },
+  {
+   "id": "tonto-dikeh-dedicates-new-church-building",
+   "title": "Tonto Dikeh Dedicates New Church Building to Honor Pastor Jerry Eze",
+   "category": "Entertainment",
+   "ts": "2026-11-14T23:36:51.384478+01:00"
+  },
+  {
+   "id": "denmark-defeat-portugal-41-first-match",
+   "title": "Denmark Defeat Portugal 4-1 in First Match Following Ronaldo's Retirement",
+   "category": "Sports",
+   "ts": "2026-11-14T23:40:43.566188+01:00"
   }
  ],
  "targets_available": [
