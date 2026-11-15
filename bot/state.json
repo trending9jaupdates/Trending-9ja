@@ -1488,62 +1488,7 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-15",
- "pending_share": [
-  {
-   "id": "kc-ohaebosim-becomes-first-nigerianamerican-elected",
-   "title": "KC Ohaebosim Becomes First Nigerian-American Elected US Lieutenant Governor",
-   "category": "Politics",
-   "ts": "2026-11-13T07:57:55.279284+01:00"
-  },
-  {
-   "id": "tinubu-flags-off-35bn-bakassi-deep",
-   "title": "Tinubu Flags Off $3.5bn Bakassi Deep Seaport Project in Cross River",
-   "category": "Business",
-   "ts": "2026-11-13T18:19:09.770965+01:00"
-  },
-  {
-   "id": "u23-afconq-nigeria-defeated-20-dr",
-   "title": "U-23 AFCONQ: Nigeria Defeated 2-0 by DR Congo in First Leg",
-   "category": "Sports",
-   "ts": "2026-11-13T18:22:05.661488+01:00"
-  },
-  {
-   "id": "cooking-gas-price-surges-n1800-per",
-   "title": "Cooking Gas Price Surges to N1,800 Per Kilogram in Nigeria",
-   "category": "Business",
-   "ts": "2026-11-13T18:22:53.164581+01:00"
-  },
-  {
-   "id": "arokodare-scores-brace-super-eagles-beat",
-   "title": "Arokodare Scores Brace as Super Eagles Beat Tanzania 3-1 in AFCON Qualifier",
-   "category": "Sports",
-   "ts": "2026-11-14T00:44:35.708895+01:00"
-  },
-  {
-   "id": "afcon-2027-qualifier-ric-chelle-praises",
-   "title": "AFCON 2027 Qualifier: Éric Chelle Praises Tolu Arokodare After Brace Against Tanzania",
-   "category": "Sports",
-   "ts": "2026-11-14T07:46:31.368458+01:00"
-  },
-  {
-   "id": "tonto-dikeh-dedicates-new-church-building",
-   "title": "Tonto Dikeh Dedicates New Church Building to Honor Pastor Jerry Eze",
-   "category": "Entertainment",
-   "ts": "2026-11-14T23:36:51.384478+01:00"
-  },
-  {
-   "id": "denmark-defeat-portugal-41-first-match",
-   "title": "Denmark Defeat Portugal 4-1 in First Match Following Ronaldo's Retirement",
-   "category": "Sports",
-   "ts": "2026-11-14T23:40:43.566188+01:00"
-  },
-  {
-   "id": "2027-atiku-tours-bauchi-communities-challenges",
-   "title": "2027: Atiku Tours Bauchi Communities, Challenges Tinubu on Grassroots Outreach",
-   "category": "Politics",
-   "ts": "2026-11-15T17:27:48.811336+01:00"
-  }
- ],
+ "pending_share": [],
  "targets_available": [
   "telegram",
   "newsletter"
@@ -1790,7 +1735,35 @@
    "telegram": "2026-11-12T21:03:02.383836+00:00"
   }
  },
- "approved_share": {},
+ "approved_share": {
+  "kc-ohaebosim-becomes-first-nigerianamerican-elected": [
+   "telegram"
+  ],
+  "tinubu-flags-off-35bn-bakassi-deep": [
+   "telegram"
+  ],
+  "u23-afconq-nigeria-defeated-20-dr": [
+   "telegram"
+  ],
+  "cooking-gas-price-surges-n1800-per": [
+   "telegram"
+  ],
+  "arokodare-scores-brace-super-eagles-beat": [
+   "telegram"
+  ],
+  "afcon-2027-qualifier-ric-chelle-praises": [
+   "telegram"
+  ],
+  "tonto-dikeh-dedicates-new-church-building": [
+   "telegram"
+  ],
+  "denmark-defeat-portugal-41-first-match": [
+   "telegram"
+  ],
+  "2027-atiku-tours-bauchi-communities-challenges": [
+   "telegram"
+  ]
+ },
  "share_attempts": {},
  "owner_chat_id": 8503339229,
  "notified": [

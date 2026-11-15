@@ -1,11 +1,5 @@
 [
  {
-  "job": "mw19uuyp-share.json",
-  "ok": true,
-  "message": "Approved 1 story for sharing to telegram",
-  "at": "2026-11-03T23:41:27.021199+01:00"
- },
- {
   "job": "mw1o72ik-image.json",
   "ok": true,
   "message": "Picture changed (new picture): `experts-urge-nigerian-farmers-adopt-soilbased`",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Picture changed (new picture): `arokodare-scores-brace-super-eagles-beat`",
   "at": "2026-11-14T08:33:53.579515+01:00"
+ },
+ {
+  "job": "mwifb8fy-share.json",
+  "ok": true,
+  "message": "Approved 9 stories for sharing to telegram",
+  "at": "2026-11-15T23:46:15.417319+01:00"
  }
 ]
