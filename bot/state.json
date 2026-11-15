@@ -627,7 +627,16 @@
   "https://punchng.com/photos-army-decorates-seven-newly-promoted-senior-officers-in-jos/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
   "https://dailypost.ng/2026/11/15/since-7-oclock-fire-ravages-gwagwalada-market-in-abuja-video/": "2026-11-15",
   "https://www.premiumtimesng.com/promoted/925210-2027-udeh-unveils-atm-support-group-for-tinubu-mbah-apc-candidates.html": "2026-11-15",
-  "https://www.legit.ng/nigeria/1741398-just-sanusi-reacts-winner-emerges-apc-rerun-primary/": "2026-11-15"
+  "https://www.legit.ng/nigeria/1741398-just-sanusi-reacts-winner-emerges-apc-rerun-primary/": "2026-11-15",
+  "https://punchng.com/lagos-targets-1tn-economy-by-2052-sanwo-olu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
+  "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss": "2026-11-15",
+  "https://punchng.com/mcilroy-dedicates-record-equalling-dubai-title-to-father/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
+  "https://dailypost.ng/2026/11/15/national-assembly-to-transmit-state-police-bill-to-tinubu-this-week-bamidele/": "2026-11-15",
+  "https://punchng.com/state-police-senate-sets-november-17-deadline-for-four-states/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
+  "https://punchng.com/benue-apc-crisis-caused-by-my-refusal-to-share-state-funds-alia/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
+  "https://punchng.com/fela-sade-adu-shine-at-rock-roll-hall-of-fame/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
+  "https://www.vanguardngr.com/2026/11/2027-atiku-storms-bauchi-communities-questions-tinubus-grassroots-outreach/": "2026-11-15",
+  "https://www.premiumtimesng.com/news/top-news/925341-video-how-i-regained-consciousness-met-others-lying-dead-unn-party-survivor.html": "2026-11-15"
  },
  "published": [
   {
@@ -1210,6 +1219,15 @@
    "ts": "2026-11-14T23:40:43.566164+01:00",
    "ng": false,
    "src_title": "Denmark hammer Ronaldo-less Portugal 4-1 in Nations League match"
+  },
+  {
+   "id": "2027-atiku-tours-bauchi-communities-challenges",
+   "date": "2026-11-15",
+   "title": "2027: Atiku Tours Bauchi Communities, Challenges Tinubu on Grassroots Outreach",
+   "category": "Politics",
+   "ts": "2026-11-15T17:27:48.811319+01:00",
+   "ng": true,
+   "src_title": "2027: Atiku storms Bauchi communities, questions Tinubu’s grassroots outreach"
   }
  ],
  "retries": {
@@ -1361,7 +1379,10 @@
   "https://www.channelstv.com/2026/11/14/tinubu-assures-plateau-of-support-to-rebuild-communities-affected-by-insurgency/": 1,
   "https://punchng.com/kano-arrests-1760-drug-suspects-secures-890-convictions/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/igando-accident-woman-killed-as-lexus-rams-into-commercial-bus/": 1,
-  "https://www.channelstv.com/2026/11/14/video-were-the-only-party-with-13-states-amaechi-says-adc-will-win-north-east-north-west/": 1
+  "https://www.channelstv.com/2026/11/14/video-were-the-only-party-with-13-states-amaechi-says-adc-will-win-north-east-north-west/": 1,
+  "https://punchng.com/naf-to-honour-25-ondo-plane-crash-victims-november-26/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://dailypost.ng/2026/11/15/anambra-police-arrest-five-suspected-kidnappers-recover-remains-of-victim-vehicle-n5m-ransom/": 1,
+  "https://www.channelstv.com/2026/11/15/ndlea-arrests-american-basketball-player-with-34kg-cannabis-at-lagos-airport/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1515,6 +1536,12 @@
    "title": "Denmark Defeat Portugal 4-1 in First Match Following Ronaldo's Retirement",
    "category": "Sports",
    "ts": "2026-11-14T23:40:43.566188+01:00"
+  },
+  {
+   "id": "2027-atiku-tours-bauchi-communities-challenges",
+   "title": "2027: Atiku Tours Bauchi Communities, Challenges Tinubu on Grassroots Outreach",
+   "category": "Politics",
+   "ts": "2026-11-15T17:27:48.811336+01:00"
   }
  ],
  "targets_available": [
