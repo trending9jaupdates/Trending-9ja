@@ -1,93 +1,11 @@
 {
  "pending": [],
- "approved": {
-  "kc-ohaebosim-becomes-first-nigerianamerican-elected": [
-   "telegram"
-  ],
-  "tinubu-flags-off-35bn-bakassi-deep": [
-   "telegram"
-  ],
-  "u23-afconq-nigeria-defeated-20-dr": [
-   "telegram"
-  ],
-  "cooking-gas-price-surges-n1800-per": [
-   "telegram"
-  ],
-  "arokodare-scores-brace-super-eagles-beat": [
-   "telegram"
-  ],
-  "afcon-2027-qualifier-ric-chelle-praises": [
-   "telegram"
-  ],
-  "tonto-dikeh-dedicates-new-church-building": [
-   "telegram"
-  ],
-  "denmark-defeat-portugal-41-first-match": [
-   "telegram"
-  ],
-  "2027-atiku-tours-bauchi-communities-challenges": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
-  {
-   "id": "fg-plans-major-agricultural-reforms-lower",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "fg-unveils-three-new-cng-infrastructure",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "australia-details-age-brackets-exempt-from",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "opay-moniepoint-process-combined-644bn-fintech",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "tinubu-asks-reps-approve-n1079tn-foreign",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "cardiff-residents-oppose-latenight-license-extension",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "rtifn-leaders-edward-onoja-take-tinubus",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "armenia-announces-age-limit-requirements-foreigners",
-   "targets": [
-    "telegram"
-   ]
-  },
-  {
-   "id": "canada-speed-up-permanent-residency-200000",
-   "targets": [
-    "telegram"
-   ]
-  },
   {
    "id": "minister-tasks-local-governments-justify-monthly",
    "targets": [
@@ -105,7 +23,61 @@
    "targets": [
     "telegram"
    ]
+  },
+  {
+   "id": "kc-ohaebosim-becomes-first-nigerianamerican-elected",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "tinubu-flags-off-35bn-bakassi-deep",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "u23-afconq-nigeria-defeated-20-dr",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "cooking-gas-price-surges-n1800-per",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "arokodare-scores-brace-super-eagles-beat",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "afcon-2027-qualifier-ric-chelle-praises",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "tonto-dikeh-dedicates-new-church-building",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "denmark-defeat-portugal-41-first-match",
+   "targets": [
+    "telegram"
+   ]
+  },
+  {
+   "id": "2027-atiku-tours-bauchi-communities-challenges",
+   "targets": [
+    "telegram"
+   ]
   }
  ],
- "updated": "2026-11-15T23:46:15.417709+01:00"
+ "updated": "2026-11-15T22:46:55.168932+00:00"
 }
