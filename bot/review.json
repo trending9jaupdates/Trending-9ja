@@ -1,5 +1,12 @@
 {
- "pending": [],
+ "pending": [
+  {
+   "id": "nations-league-france-beat-turkey-21",
+   "title": "Nations League: France Beat Turkey 2-1 To Finish Top Of Group A1",
+   "category": "Sports",
+   "ts": "2026-11-16T00:03:18.689564+01:00"
+  }
+ ],
  "approved": {},
  "targets": [
   "telegram",
@@ -79,5 +86,5 @@
    ]
   }
  ],
- "updated": "2026-11-15T22:46:55.168932+00:00"
+ "updated": "2026-11-16T00:04:35.071584+01:00"
 }

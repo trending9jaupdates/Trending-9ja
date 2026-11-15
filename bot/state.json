@@ -636,7 +636,17 @@
   "https://punchng.com/benue-apc-crisis-caused-by-my-refusal-to-share-state-funds-alia/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
   "https://punchng.com/fela-sade-adu-shine-at-rock-roll-hall-of-fame/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
   "https://www.vanguardngr.com/2026/11/2027-atiku-storms-bauchi-communities-questions-tinubus-grassroots-outreach/": "2026-11-15",
-  "https://www.premiumtimesng.com/news/top-news/925341-video-how-i-regained-consciousness-met-others-lying-dead-unn-party-survivor.html": "2026-11-15"
+  "https://www.premiumtimesng.com/news/top-news/925341-video-how-i-regained-consciousness-met-others-lying-dead-unn-party-survivor.html": "2026-11-15",
+  "https://www.vanguardngr.com/2026/11/france-beat-turkey-to-finish-top-of-nations-league-group/": "2026-11-15",
+  "https://www.bbc.co.uk/sport/football/articles/ckdd10v6vqjpo?at_medium=RSS&at_campaign=rss": "2026-11-15",
+  "https://www.vanguardngr.com/2026/11/england-end-spains-44-game-unbeaten-run-with-3-2-win/": "2026-11-15",
+  "https://punchng.com/summon-parties-over-violence-dickson-urges-abdulsalami-panel-inec/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
+  "https://punchng.com/sokoto-gov-promises-to-construct-more-urban-roads/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
+  "https://www.vanguardngr.com/2026/11/video-sanwo-olu-hosts-boxing-legend-floyd-mayweather-in-lagos/": "2026-11-15",
+  "https://punchng.com/2027-yayi-warns-against-attacks-on-apc-candidates-destruction-of-billboards/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
+  "https://punchng.com/my-son-is-a-huge-fan-of-yamal-declan-rice/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
+  "https://punchng.com/wenger-rules-out-fifa-presidential-bid-report/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-15",
+  "https://www.premiumtimesng.com/news/top-news/925414-naf-to-hold-memorial-for-victims-of-october-5-aircraft-crash.html": "2026-11-15"
  },
  "published": [
   {
@@ -1228,6 +1238,15 @@
    "ts": "2026-11-15T17:27:48.811319+01:00",
    "ng": true,
    "src_title": "2027: Atiku storms Bauchi communities, questions Tinubu’s grassroots outreach"
+  },
+  {
+   "id": "nations-league-france-beat-turkey-21",
+   "date": "2026-11-15",
+   "title": "Nations League: France Beat Turkey 2-1 To Finish Top Of Group A1",
+   "category": "Sports",
+   "ts": "2026-11-16T00:03:18.689545+01:00",
+   "ng": false,
+   "src_title": "France beat Turkey to finish top of Nations League group"
   }
  ],
  "retries": {
@@ -1382,7 +1401,9 @@
   "https://www.channelstv.com/2026/11/14/video-were-the-only-party-with-13-states-amaechi-says-adc-will-win-north-east-north-west/": 1,
   "https://punchng.com/naf-to-honour-25-ondo-plane-crash-victims-november-26/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://dailypost.ng/2026/11/15/anambra-police-arrest-five-suspected-kidnappers-recover-remains-of-victim-vehicle-n5m-ransom/": 1,
-  "https://www.channelstv.com/2026/11/15/ndlea-arrests-american-basketball-player-with-34kg-cannabis-at-lagos-airport/": 1
+  "https://www.channelstv.com/2026/11/15/ndlea-arrests-american-basketball-player-with-34kg-cannabis-at-lagos-airport/": 1,
+  "https://punchng.com/tinubu-approves-recruitment-of-28000-soldiers-50000-police-officers/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://dailypost.ng/2026/11/15/benue-apc-crisis-alia-campaign-council-accuses-audu-coalition-of-plot-to-destabilise-party/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1488,7 +1509,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-15",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "nations-league-france-beat-turkey-21",
+   "title": "Nations League: France Beat Turkey 2-1 To Finish Top Of Group A1",
+   "category": "Sports",
+   "ts": "2026-11-16T00:03:18.689564+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
