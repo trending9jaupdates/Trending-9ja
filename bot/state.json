@@ -570,7 +570,20 @@
   "https://punchng.com/abuja-half-marathon-eyes-silver-label-after-record-run-2/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-16",
   "https://punchng.com/jabu-alumni-condemn-inec-chair-harassment-in-uk/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-16",
   "https://www.premiumtimesng.com/news/top-news/925437-nestle-hbm-nigeria-stanbic-ibtc-holdings-top-stock-pick-this-week.html": "2026-11-16",
-  "https://www.channelstv.com/2026/11/16/us-airports-expected-to-return-to-normal-today-officials/": "2026-11-16"
+  "https://www.channelstv.com/2026/11/16/us-airports-expected-to-return-to-normal-today-officials/": "2026-11-16",
+  "https://www.bbc.co.uk/sport/football/articles/cwg7lr2ly3ngo?at_medium=RSS&at_campaign=rss": "2026-11-16",
+  "https://punchng.com/plateau-lg-imposes-12-hour-curfew-after-gunmen-burn-seven-houses/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-16",
+  "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss": "2026-11-16",
+  "https://punchng.com/evening-recap-tinubu-frees-78-suspects-only-14-states-pay-pensions-other-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-16",
+  "https://www.vanguardngr.com/2026/11/nigerias-inflation-rate-drops-to-14-06-in-october/": "2026-11-16",
+  "https://punchng.com/us-military-intervention-must-respect-nigerias-sovereignty-veritas-varsity/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-16",
+  "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss": "2026-11-16",
+  "https://punchng.com/seven-things-to-know-about-the-next-james-bond-film/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-16",
+  "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss": "2026-11-16",
+  "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss": "2026-11-16",
+  "https://punchng.com/gta-6-hacker-pleads-guilty-to-cybercrimes-after-hospital-release/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-16",
+  "https://dailypost.ng/2026/11/16/why-im-yet-to-officially-join-apc-sowunmi/": "2026-11-16",
+  "https://www.premiumtimesng.com/news/top-news/925670-dont-convert-kanus-life-imprisonment-to-death-sentence-reps-member-tells-fg.html": "2026-11-16"
  },
  "published": [
   {
@@ -1135,6 +1148,15 @@
    "ts": "2026-11-16T07:49:09.800591+01:00",
    "ng": true,
    "src_title": "Airline operators, customs agents, others back Tax Ombud, seek fairer tax system"
+  },
+  {
+   "id": "segun-sowunmi-explains-delay-officially-registering",
+   "date": "2026-11-16",
+   "title": "Segun Sowunmi Explains Delay in Officially Registering With APC",
+   "category": "Politics",
+   "ts": "2026-11-16T20:47:35.169054+01:00",
+   "ng": true,
+   "src_title": "2027: Why I'm yet to officially join APC - Sowunmi"
   }
  ],
  "retries": {
@@ -1292,7 +1314,9 @@
   "https://www.channelstv.com/2026/11/15/ndlea-arrests-american-basketball-player-with-34kg-cannabis-at-lagos-airport/": 1,
   "https://punchng.com/tinubu-approves-recruitment-of-28000-soldiers-50000-police-officers/?utm_source=rss.punchng.com&utm_medium=web": 2,
   "https://dailypost.ng/2026/11/15/benue-apc-crisis-alia-campaign-council-accuses-audu-coalition-of-plot-to-destabilise-party/": 1,
-  "https://dailypost.ng/2026/11/16/tragedy-averted-as-jigawa-residents-rush-to-scoop-fuel-from-fallen-tanker/": 1
+  "https://dailypost.ng/2026/11/16/tragedy-averted-as-jigawa-residents-rush-to-scoop-fuel-from-fallen-tanker/": 1,
+  "https://punchng.com/28-shops-razed-in-abuja-market-fire/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://www.vanguardngr.com/2026/11/oshiomhole-tackles-atiku-over-education-privatisation-says-nigeria-cannot-afford-policy/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1410,6 +1434,12 @@
    "title": "AON, NACCIMA Back Tax Ombud For Fairer Business System",
    "category": "Business",
    "ts": "2026-11-16T07:49:09.800615+01:00"
+  },
+  {
+   "id": "segun-sowunmi-explains-delay-officially-registering",
+   "title": "Segun Sowunmi Explains Delay in Officially Registering With APC",
+   "category": "Politics",
+   "ts": "2026-11-16T20:47:35.169076+01:00"
   }
  ],
  "targets_available": [
