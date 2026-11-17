@@ -517,7 +517,22 @@
   "https://punchng.com/ey-urges-boards-to-tighten-tax-financial-controls/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-17",
   "https://www.premiumtimesng.com/promoted/925730-mbah-commissions-premium-trust-bank-branch-in-enugu-says-security-infrastructure-investments-attracting-investors.html": "2026-11-17",
   "https://www.channelstv.com/2026/11/16/opposition-sets-a-signing-date-but-the-parties-still-want-different-things/": "2026-11-17",
-  "https://www.bellanaija.com/2026/11/new-nigerian-music-wande-coal-olamide/": "2026-11-17"
+  "https://www.bellanaija.com/2026/11/new-nigerian-music-wande-coal-olamide/": "2026-11-17",
+  "https://punchng.com/msmes-face-4tn-financing-gap-in-developing-countries-world-bank/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-17",
+  "https://www.vanguardngr.com/2026/11/i-contemplated-suicide-at-height-of-man-united-career-rooney-reveals/": "2026-11-17",
+  "https://punchng.com/icpc-seeks-stronger-african-cooperation-on-stolen-asset-recovery/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-17",
+  "https://www.channelstv.com/2026/11/17/super-eagles-held-to-frustrating-goalless-draw-by-tanzania-in-afcon-qualifier/": "2026-11-17",
+  "https://punchng.com/nigeria-records-highest-pipeline-availability-in-20-years-nnpc/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-17",
+  "https://www.vanguardngr.com/2026/11/super-eagles-held-to-dissapointing-goalless-draw-by-tanzania-in-afcon-qualifier/": "2026-11-17",
+  "https://punchng.com/police-rescue-five-year-old-boy-abducted-by-fathers-girlfriend-in-anambra/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-17",
+  "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss": "2026-11-17",
+  "https://www.vanguardngr.com/2026/11/why-i-will-vote-for-tinubu-in-2027-pinnick/": "2026-11-17",
+  "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss": "2026-11-17",
+  "https://punchng.com/delta-gov-backs-can-prayer-retreat-centre-project/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-17",
+  "https://www.bbc.co.uk/sport/rugby-union/articles/ck0jx1dnd38go?at_medium=RSS&at_campaign=rss": "2026-11-17",
+  "https://punchng.com/nigeria-cant-afford-to-ignore-technology-in-education-minister/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-17",
+  "https://www.vanguardngr.com/2026/11/single-window-nigerias-6-1bn-non-oil-exports-drive-fresh-trade-reforms/": "2026-11-17",
+  "https://dailypost.ng/2026/11/17/afcon-qualifiers-no-osimhen-no-super-eagles-nigerians-react-to-0-0-draw-with-tanzania/": "2026-11-17"
  },
  "published": [
   {
@@ -1023,6 +1038,33 @@
    "ts": "2026-11-17T05:00:10.913138+01:00",
    "ng": true,
    "src_title": "Opposition Sets A Signing Date, But The Parties Still Want Different Things"
+  },
+  {
+   "id": "world-bank-highlights-4tn-funding-gap",
+   "date": "2026-11-17",
+   "title": "World Bank Highlights $4tn Funding Gap Facing Small Businesses",
+   "category": "Business",
+   "ts": "2026-11-17T17:13:19.228355+01:00",
+   "ng": true,
+   "src_title": "MSMEs face $4tn financing gap in developing countries – World Bank"
+  },
+  {
+   "id": "fg-launch-single-window-exports-nonoil",
+   "date": "2026-11-17",
+   "title": "FG to Launch Single Window for Exports as Non-Oil Trade Hits $6.1bn",
+   "category": "Business",
+   "ts": "2026-11-17T17:13:39.219281+01:00",
+   "ng": true,
+   "src_title": "Single Window: Nigeria’s $6.1bn non-oil exports drive fresh trade reforms"
+  },
+  {
+   "id": "fans-criticise-chelle-super-eagles-draw",
+   "date": "2026-11-17",
+   "title": "Fans Criticise Chelle as Super Eagles Draw 0-0 with Tanzania",
+   "category": "Sports",
+   "ts": "2026-11-17T17:14:00.190042+01:00",
+   "ng": true,
+   "src_title": "AFCON Qualifiers: 'No Osimhen no Super Eagles' - Nigerians react to 0-0 draw with Tanzania"
   }
  ],
  "retries": {
@@ -1318,6 +1360,24 @@
    "title": "Opposition Parties Set Abuja Summit Date To Sign Unity Agreement",
    "category": "Politics",
    "ts": "2026-11-17T05:00:10.913171+01:00"
+  },
+  {
+   "id": "world-bank-highlights-4tn-funding-gap",
+   "title": "World Bank Highlights $4tn Funding Gap Facing Small Businesses",
+   "category": "Business",
+   "ts": "2026-11-17T17:13:19.228378+01:00"
+  },
+  {
+   "id": "fg-launch-single-window-exports-nonoil",
+   "title": "FG to Launch Single Window for Exports as Non-Oil Trade Hits $6.1bn",
+   "category": "Business",
+   "ts": "2026-11-17T17:13:39.219304+01:00"
+  },
+  {
+   "id": "fans-criticise-chelle-super-eagles-draw",
+   "title": "Fans Criticise Chelle as Super Eagles Draw 0-0 with Tanzania",
+   "category": "Sports",
+   "ts": "2026-11-17T17:14:00.190065+01:00"
   }
  ],
  "targets_available": [
