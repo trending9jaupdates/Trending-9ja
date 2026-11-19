@@ -430,7 +430,20 @@
   "https://punchng.com/tinubu-expands-2027-campaign-itinerary-to-19-states/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-19",
   "https://punchng.com/bonifaces-leverkusen-exit-looms-amid-bench-role/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-19",
   "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss": "2026-11-19",
-  "https://punchng.com/shaibu-urges-eagles-to-keep-afcon-hope-alive/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-19"
+  "https://punchng.com/shaibu-urges-eagles-to-keep-afcon-hope-alive/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-19",
+  "https://www.bbc.co.uk/sport/athletics/articles/cv5y1e1zle88o?at_medium=RSS&at_campaign=rss": "2026-11-19",
+  "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss": "2026-11-19",
+  "https://punchng.com/otti-presents-n1-23tn-2027-budget-to-abia-assembly/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-19",
+  "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss": "2026-11-19",
+  "https://punchng.com/bandits-abduct-six-rustle-livestock-in-sokoto/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-19",
+  "https://www.vanguardngr.com/2026/11/leicester-split-with-sponsor-after-row-over-porn-actor-partnership/": "2026-11-19",
+  "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss": "2026-11-19",
+  "https://punchng.com/2027-atiku-cant-win-25m-northern-votes-when-son-backs-tinubu-apc-chieftain/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-19",
+  "https://punchng.com/two-men-convicted-of-sexually-assaulting-14-year-old-girl-on-uk-train/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-19",
+  "https://www.completesports.com/super-eagles-must-improve-or-risk-missing-afcon-2027-bonfrere-warns/": "2026-11-19",
+  "https://punchng.com/im-very-healthy-says-kompany-after-health-scare/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-19",
+  "https://www.vanguardngr.com/2026/11/asup-strike-kenpoly-chairman-hails-compliance-as-students-appeal-to-fubara/": "2026-11-19",
+  "https://dailypost.ng/2026/11/19/jigawa-2027-why-my-son-mustapha-is-best-for-the-job-lamido-fires-back-at-critics/": "2026-11-19"
  },
  "published": [
   {
@@ -810,6 +823,15 @@
    "ts": "2026-11-18T02:01:52.151244+01:00",
    "ng": true,
    "src_title": "Flamingos coach gets CAF Awards nomination"
+  },
+  {
+   "id": "kenpoly-asup-praises-strike-adherence-students",
+   "date": "2026-11-19",
+   "title": "Kenpoly ASUP Praises Strike Adherence as Students Urge Fubara to Step In",
+   "category": "Politics",
+   "ts": "2026-11-19T12:58:00.454909+01:00",
+   "ng": true,
+   "src_title": "ASUP strike: Kenpoly chairman hails compliance as students appeal to Fubara"
   }
  ],
  "retries": {
@@ -978,7 +1000,8 @@
   "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo?at_medium=RSS&at_campaign=rss": 1,
   "https://punchng.com/police-arrest-man-over-brothers-killing-in-abia/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/fake-agency-case-adeyemi-in-custody-for-his-own-safety-icpc-tells-court/": 1,
-  "https://dailypost.ng/2026/11/18/uk-church-leader-jailed-nearly-12-years-for-rape/": 1
+  "https://dailypost.ng/2026/11/18/uk-church-leader-jailed-nearly-12-years-for-rape/": 1,
+  "https://punchng.com/ecuadorian-footballer-banned-for-eight-years-after-throwing-stone-at-referee/?utm_source=rss.punchng.com&utm_medium=web": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1132,6 +1155,12 @@
    "title": "CAF Awards 2026: Flamingos Coach Akeem Busari Nominated for Top Honour",
    "category": "Sports",
    "ts": "2026-11-18T02:01:52.151271+01:00"
+  },
+  {
+   "id": "kenpoly-asup-praises-strike-adherence-students",
+   "title": "Kenpoly ASUP Praises Strike Adherence as Students Urge Fubara to Step In",
+   "category": "Politics",
+   "ts": "2026-11-19T12:58:00.454934+01:00"
   }
  ],
  "targets_available": [
