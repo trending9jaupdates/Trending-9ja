@@ -387,7 +387,16 @@
   "https://punchng.com/police-storm-kogi-forest-rescue-15-kidnap-victims/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
   "https://punchng.com/army-seeks-bauchi-land-for-armour-training-as-coas-leads-combat-exercise/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
   "https://www.vanguardngr.com/2026/11/obalende-mtn-bus-park-to-open-december-accommodate-1000-buses-wahab/": "2026-11-20",
-  "https://www.premiumtimesng.com/news/more-news/926604-police-detain-five-over-disappearance-of-five-year-old-boy.html": "2026-11-20"
+  "https://www.premiumtimesng.com/news/more-news/926604-police-detain-five-over-disappearance-of-five-year-old-boy.html": "2026-11-20",
+  "https://punchng.com/jigawa-sharia-judges-warned-against-unnecessary-detention/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss": "2026-11-20",
+  "https://punchng.com/my-grandchildren-couldnt-get-passports-before-tinubus-reforms-oshiomhole/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://punchng.com/fountain-of-life-church-dismisses-closure-claims-announces-sunday-service/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss": "2026-11-20",
+  "https://punchng.com/saliba-fit-for-arsenal-return-saka-out-for-another-month/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://punchng.com/david-mark-seeks-renaming-of-fut-minna-after-pioneer-vc/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss": "2026-11-20",
+  "https://punchng.com/malaysia-pledges-long-term-support-for-weightlifter-who-lost-arm-in-crash/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20"
  },
  "published": [
   {
@@ -749,6 +758,15 @@
    "ts": "2026-11-20T03:27:41.466799+01:00",
    "ng": true,
    "src_title": "Obalende MTN bus park to open December, accommodate 1,000 buses — Wahab"
+  },
+  {
+   "id": "jigawa-grand-kadi-warns-sharia-judges",
+   "date": "2026-11-20",
+   "title": "Jigawa Grand Kadi Warns Shari’a Judges Against Detaining Litigants in Civil Cases",
+   "category": "Politics",
+   "ts": "2026-11-20T12:57:45.300766+01:00",
+   "ng": true,
+   "src_title": "Jigawa Shari’a judges warned against unnecessary detention"
   }
  ],
  "retries": {
@@ -920,7 +938,8 @@
   "https://dailypost.ng/2026/11/18/uk-church-leader-jailed-nearly-12-years-for-rape/": 1,
   "https://punchng.com/ecuadorian-footballer-banned-for-eight-years-after-throwing-stone-at-referee/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://punchng.com/i-told-peter-obi-to-support-atiku-dele-momodu/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://dailypost.ng/2026/11/19/uk-pm-burnham-declares-russia-biggest-losers-in-ukraine-war/": 1
+  "https://dailypost.ng/2026/11/19/uk-pm-burnham-declares-russia-biggest-losers-in-ukraine-war/": 1,
+  "https://www.vanguardngr.com/2026/11/stop-recycling-falsehoods-against-tinubu-lagos-apc-tells-pearse/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1092,6 +1111,12 @@
    "title": "Obalende Y'ello Bus Park To Open In Six Weeks, Says Lagos Government",
    "category": "Politics",
    "ts": "2026-11-20T03:27:41.466827+01:00"
+  },
+  {
+   "id": "jigawa-grand-kadi-warns-sharia-judges",
+   "title": "Jigawa Grand Kadi Warns Shari’a Judges Against Detaining Litigants in Civil Cases",
+   "category": "Politics",
+   "ts": "2026-11-20T12:57:45.300789+01:00"
   }
  ],
  "targets_available": [
