@@ -396,7 +396,19 @@
   "https://punchng.com/saliba-fit-for-arsenal-return-saka-out-for-another-month/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
   "https://punchng.com/david-mark-seeks-renaming-of-fut-minna-after-pioneer-vc/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
   "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss": "2026-11-20",
-  "https://punchng.com/malaysia-pledges-long-term-support-for-weightlifter-who-lost-arm-in-crash/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20"
+  "https://punchng.com/malaysia-pledges-long-term-support-for-weightlifter-who-lost-arm-in-crash/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss": "2026-11-20",
+  "https://punchng.com/79-bag-first-class-as-wesley-varsity-graduates-742/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss": "2026-11-20",
+  "https://punchng.com/sowore-vows-to-scrap-nelfund-promises-n100000-student-grants/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://www.bbc.co.uk/sport/rugby-union/articles/cm930nj435dvo?at_medium=RSS&at_campaign=rss": "2026-11-20",
+  "https://punchng.com/those-accusing-me-of-stealing-are-ignorant-says-yahaya-bello/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss": "2026-11-20",
+  "https://punchng.com/yayi-unveils-manifesto-pledges-2500km-roads-n10bn-fund/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://punchng.com/2027-ill-defeat-natasha-overwhelmingly-yahaya-bello/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://punchng.com/2027-yobe-group-targets-590000-votes-for-tinubu/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-20",
+  "https://www.vanguardngr.com/2026/11/transmission-lines-restored-after-grid-disturbance-niso/": "2026-11-20",
+  "https://dailypost.ng/2026/11/20/kano-govt-warns-against-illegal-connections-pipeline-vandalism/": "2026-11-20"
  },
  "published": [
   {
@@ -767,6 +779,33 @@
    "ts": "2026-11-20T12:57:45.300766+01:00",
    "ng": true,
    "src_title": "Jigawa Shari’a judges warned against unnecessary detention"
+  },
+  {
+   "id": "wesley-varsity-graduates-742-students-79",
+   "date": "2026-11-20",
+   "title": "Wesley Varsity Graduates 742 Students As 79 Earn First-Class Degrees",
+   "category": "Tech/AI",
+   "ts": "2026-11-20T21:31:24.767431+01:00",
+   "ng": true,
+   "src_title": "79 bag first-class as Wesley varsity graduates 742"
+  },
+  {
+   "id": "niso-restores-power-lines-friday-national",
+   "date": "2026-11-20",
+   "title": "NISO Restores Power Lines After Friday National Grid Disturbance",
+   "category": "Business",
+   "ts": "2026-11-20T21:33:49.668981+01:00",
+   "ng": true,
+   "src_title": "Transmission lines restored after grid disturbance – NISO"
+  },
+  {
+   "id": "kano-govt-warns-residents-against-water",
+   "date": "2026-11-20",
+   "title": "Kano Govt Warns Residents Against Water Pipeline Vandalism and Illegal Taps",
+   "category": "Politics",
+   "ts": "2026-11-20T21:36:34.498512+01:00",
+   "ng": true,
+   "src_title": "Kano govt warns against illegal connections, pipeline vandalism"
   }
  ],
  "retries": {
@@ -1117,6 +1156,24 @@
    "title": "Jigawa Grand Kadi Warns Shari’a Judges Against Detaining Litigants in Civil Cases",
    "category": "Politics",
    "ts": "2026-11-20T12:57:45.300789+01:00"
+  },
+  {
+   "id": "wesley-varsity-graduates-742-students-79",
+   "title": "Wesley Varsity Graduates 742 Students As 79 Earn First-Class Degrees",
+   "category": "Tech/AI",
+   "ts": "2026-11-20T21:31:24.767454+01:00"
+  },
+  {
+   "id": "niso-restores-power-lines-friday-national",
+   "title": "NISO Restores Power Lines After Friday National Grid Disturbance",
+   "category": "Business",
+   "ts": "2026-11-20T21:33:49.669005+01:00"
+  },
+  {
+   "id": "kano-govt-warns-residents-against-water",
+   "title": "Kano Govt Warns Residents Against Water Pipeline Vandalism and Illegal Taps",
+   "category": "Politics",
+   "ts": "2026-11-20T21:36:34.498535+01:00"
   }
  ],
  "targets_available": [
