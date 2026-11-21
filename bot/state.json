@@ -349,7 +349,18 @@
   "https://punchng.com/nafdac-destroys-n100bn-fake-expired-products-in-ogun/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-21",
   "https://www.premiumtimesng.com/regional/ssouth-east/926895-soludo-approves-n50000-december-bonus-for-anambra-civil-servants.html": "2026-11-21",
   "https://punchng.com/2027-tinubu-must-win-all-18-cross-river-lgs-minister/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-21",
-  "https://punchng.com/open-defecation-lagos-urges-banks-eateries-to-open-toilets-to-public/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-21"
+  "https://punchng.com/open-defecation-lagos-urges-banks-eateries-to-open-toilets-to-public/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-21",
+  "https://dailypost.ng/2026/11/21/epl-awoniyi-scores-as-coventry-edge-crystal-palace-3-2/": "2026-11-21",
+  "https://punchng.com/epl-awoniyi-scores-as-coventry-city-beat-crystal-palace-3-2/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-21",
+  "https://punchng.com/english-village-votes-to-break-away-from-uk/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-21",
+  "https://punchng.com/camosunate-not-banned-in-nigeria-nafdac/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-21",
+  "https://www.channelstv.com/2026/11/21/chelsea-humbled-as-leeds-run-riot/": "2026-11-21",
+  "https://punchng.com/maresca-fumes-over-disallowed-haaland-goal-in-man-city-draw/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-21",
+  "https://www.vanguardngr.com/2026/11/duty-of-care-players-union-slams-bayern-for-musiala-comments/": "2026-11-21",
+  "https://punchng.com/nato-pledges-to-defend-poland-after-russian-missile-incursion/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-21",
+  "https://punchng.com/bundesliga-dortmund-beat-gladbach-to-go-top-as-bayern-drop-points/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-21",
+  "https://www.vanguardngr.com/2026/11/tinubu-no-student-will-be-denied-university-education-over-poverty/": "2026-11-21",
+  "https://www.premiumtimesng.com/news/more-news/927028-2027-were-not-part-of-opposition-coalition-against-tinubu-wike-backed-pdp.html": "2026-11-21"
  },
  "published": [
   {
@@ -684,6 +695,24 @@
    "ts": "2026-11-21T03:34:59.235882+01:00",
    "ng": true,
    "src_title": "Lagos renews campaign against open defecation"
+  },
+  {
+   "id": "epl-awoniyi-scores-coventry-city-beat",
+   "date": "2026-11-21",
+   "title": "EPL: Awoniyi Scores as Coventry City Beat Crystal Palace 3-2",
+   "category": "Sports",
+   "ts": "2026-11-21T20:30:20.654144+01:00",
+   "ng": true,
+   "src_title": "EPL: Awoniyi scores as Coventry City beat Crystal Palace 3-2"
+  },
+  {
+   "id": "no-nigerian-student-will-miss-university",
+   "date": "2026-11-21",
+   "title": "No Nigerian Student Will Miss University Due To Poverty, Tinubu Assures",
+   "category": "Politics",
+   "ts": "2026-11-21T20:31:27.182448+01:00",
+   "ng": true,
+   "src_title": "Tinubu: No student will be denied university education over poverty"
   }
  ],
  "retries": {
@@ -1059,6 +1088,18 @@
    "title": "Lagos State Government Renews Campaign to End Open Defecation",
    "category": "Health",
    "ts": "2026-11-21T03:34:59.235905+01:00"
+  },
+  {
+   "id": "epl-awoniyi-scores-coventry-city-beat",
+   "title": "EPL: Awoniyi Scores as Coventry City Beat Crystal Palace 3-2",
+   "category": "Sports",
+   "ts": "2026-11-21T20:30:20.654205+01:00"
+  },
+  {
+   "id": "no-nigerian-student-will-miss-university",
+   "title": "No Nigerian Student Will Miss University Due To Poverty, Tinubu Assures",
+   "category": "Politics",
+   "ts": "2026-11-21T20:31:27.182512+01:00"
   }
  ],
  "targets_available": [
