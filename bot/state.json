@@ -307,7 +307,19 @@
   "https://dailypost.ng/2026/11/22/ndlea-arrests-south-african-golfer-kenyan-chef-in-lagos-over-illicit-drug-shipment/": "2026-11-22",
   "https://punchng.com/ndlea-arrests-south-african-golfer-kenyan-chef-over-50kg-cannabis/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-22",
   "https://www.vanguardngr.com/2026/11/arsenal-held-by-newcastle-rally-and-lose-raya-to-injury/": "2026-11-22",
-  "https://www.premiumtimesng.com/promoted/927133-ahead-2027-gov-namadi-hails-senator-kazaures-human-development-drive-outside-lawmaking.html": "2026-11-22"
+  "https://www.premiumtimesng.com/promoted/927133-ahead-2027-gov-namadi-hails-senator-kazaures-human-development-drive-outside-lawmaking.html": "2026-11-22",
+  "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss": "2026-11-22",
+  "https://punchng.com/photos-army-pulls-out-10-retired-generals-in-bauchi/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-22",
+  "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss": "2026-11-22",
+  "https://punchng.com/tinubu-approves-n1-5tn-recapitalisation-of-bank-of-agriculture/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-22",
+  "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss": "2026-11-22",
+  "https://punchng.com/five-children-killed-one-injured-in-syria-landmine-blast/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-22",
+  "https://punchng.com/video-aibom-gov-appoints-volunteer-cleaner-as-pa/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-22",
+  "https://punchng.com/pdp-urges-fg-to-tackle-recurring-boat-accidents/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-22",
+  "https://punchng.com/borno-mourns-eight-soldiers-13-workers-killed-during-reconstruction/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-22",
+  "https://dailypost.ng/2026/11/22/epl-man-utd-set-unwanted-record-after-defeat-to-liverpool/": "2026-11-22",
+  "https://www.premiumtimesng.com/news/more-news/927251-fiscal-responsibility-ceftpi-calls-for-mandatory-assessment-of-government-owned-enterprises-sanctions.html": "2026-11-22",
+  "https://www.channelstv.com/2026/11/22/new-manager-same-problems-liverpool-thrash-10-man-man-utd-in-pochettinos-first-match/": "2026-11-22"
  },
  "published": [
   {
@@ -606,6 +618,33 @@
    "ts": "2026-11-22T02:30:35.985533+01:00",
    "ng": true,
    "src_title": "Hunger is not laziness: APC youths demand explanation from Yari"
+  },
+  {
+   "id": "nigerian-army-pulls-out-10-retired",
+   "date": "2026-11-22",
+   "title": "Nigerian Army Pulls Out 10 Retired Generals in Bauchi Parade",
+   "category": "Politics",
+   "ts": "2026-11-22T20:50:31.519325+01:00",
+   "ng": true,
+   "src_title": "PHOTOS: Army pulls out 10 retired generals in Bauchi"
+  },
+  {
+   "id": "man-utd-set-poor-defensive-record",
+   "date": "2026-11-22",
+   "title": "Man Utd Set Poor Defensive Record After 4-0 Loss to Liverpool",
+   "category": "Sports",
+   "ts": "2026-11-22T20:52:33.080541+01:00",
+   "ng": false,
+   "src_title": "EPL: Man Utd set unwanted record after defeat to Liverpool"
+  },
+  {
+   "id": "pochettino-suffers-40-loss-liverpool-first",
+   "date": "2026-11-22",
+   "title": "Pochettino Suffers 4-0 Loss to Liverpool in First Manchester United Match",
+   "category": "Sports",
+   "ts": "2026-11-22T20:54:41.606766+01:00",
+   "ng": false,
+   "src_title": "New Manager, Same Problems, Liverpool Thrash 10-Man Man Utd In Pochettino’s First Match"
   }
  ],
  "retries": {
@@ -782,7 +821,8 @@
   "https://punchng.com/mega-churches-face-succession-heat/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.channelstv.com/2026/11/21/i-lost-my-sister-loved-ones-struggled-to-come-out-bayelsa-boat-accident-survivor-recounts-ordeal/": 1,
   "https://www.vanguardngr.com/2026/11/nigerian-sentenced-to-24-months-in-us-prison-over-covid-19-relief-fraud/": 1,
-  "https://dailypost.ng/2026/11/22/2027-pdp-candidate-in-bauchi-ilelah-apologises-to-nigerians-for-supporting-tinubu/": 1
+  "https://dailypost.ng/2026/11/22/2027-pdp-candidate-in-bauchi-ilelah-apologises-to-nigerians-for-supporting-tinubu/": 1,
+  "https://www.vanguardngr.com/2026/11/borno-adc-demands-whereabouts-of-detained-supporter/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1014,6 +1054,24 @@
    "title": "APC Youth Group Demands Clarification from Senator Yari Over Hunger Remarks",
    "category": "Politics",
    "ts": "2026-11-22T02:30:35.985558+01:00"
+  },
+  {
+   "id": "nigerian-army-pulls-out-10-retired",
+   "title": "Nigerian Army Pulls Out 10 Retired Generals in Bauchi Parade",
+   "category": "Politics",
+   "ts": "2026-11-22T20:50:31.519350+01:00"
+  },
+  {
+   "id": "man-utd-set-poor-defensive-record",
+   "title": "Man Utd Set Poor Defensive Record After 4-0 Loss to Liverpool",
+   "category": "Sports",
+   "ts": "2026-11-22T20:52:33.080570+01:00"
+  },
+  {
+   "id": "pochettino-suffers-40-loss-liverpool-first",
+   "title": "Pochettino Suffers 4-0 Loss to Liverpool in First Manchester United Match",
+   "category": "Sports",
+   "ts": "2026-11-22T20:54:41.606790+01:00"
   }
  ],
  "targets_available": [
