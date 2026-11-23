@@ -1,12 +1,6 @@
 {
  "pending": [
   {
-   "id": "nations-league-france-beat-turkey-21",
-   "title": "Nations League: France Beat Turkey 2-1 To Finish Top Of Group A1",
-   "category": "Sports",
-   "ts": "2026-11-16T00:03:18.689564+01:00"
-  },
-  {
    "id": "aon-naccima-back-tax-ombud-fairer",
    "title": "AON, NACCIMA Back Tax Ombud For Fairer Business System",
    "category": "Business",
@@ -143,6 +137,24 @@
    "title": "Pochettino Suffers 4-0 Loss to Liverpool in First Manchester United Match",
    "category": "Sports",
    "ts": "2026-11-22T20:54:41.606790+01:00"
+  },
+  {
+   "id": "lagos-tech-summit-address-business-cybersecurity",
+   "title": "Lagos Tech Summit To Address Business Cybersecurity Risks In Africa",
+   "category": "Tech/AI",
+   "ts": "2026-11-23T02:51:50.864076+01:00"
+  },
+  {
+   "id": "gombe-government-signs-contracts-97km-road",
+   "title": "Gombe Government Signs Contracts for 97km Road Projects Across Four LGAs",
+   "category": "Politics",
+   "ts": "2026-11-23T02:53:27.170806+01:00"
+  },
+  {
+   "id": "2027-holding-power-does-not-guarantee",
+   "title": "2027: Holding Power Does Not Guarantee Voter Support, Says Kwankwaso",
+   "category": "Politics",
+   "ts": "2026-11-23T02:54:48.996057+01:00"
   }
  ],
  "approved": {},
@@ -224,5 +236,5 @@
    ]
   }
  ],
- "updated": "2026-11-22T19:54:44.570930+00:00"
+ "updated": "2026-11-23T02:54:48.996102+01:00"
 }
