@@ -1,12 +1,6 @@
 {
  "pending": [
   {
-   "id": "aon-naccima-back-tax-ombud-fairer",
-   "title": "AON, NACCIMA Back Tax Ombud For Fairer Business System",
-   "category": "Business",
-   "ts": "2026-11-16T07:49:09.800615+01:00"
-  },
-  {
    "id": "segun-sowunmi-explains-delay-officially-registering",
    "title": "Segun Sowunmi Explains Delay in Officially Registering With APC",
    "category": "Politics",
@@ -155,6 +149,12 @@
    "title": "2027: Holding Power Does Not Guarantee Voter Support, Says Kwankwaso",
    "category": "Politics",
    "ts": "2026-11-23T02:54:48.996057+01:00"
+  },
+  {
+   "id": "ndc-clears-air-reported-rift-with",
+   "title": "NDC Clears Air On Reported Rift With Peter Obi Over 2027 Campaign Funds",
+   "category": "Politics",
+   "ts": "2026-11-23T14:09:59.722259+01:00"
   }
  ],
  "approved": {},
@@ -236,5 +236,5 @@
    ]
   }
  ],
- "updated": "2026-11-23T01:54:53.042925+00:00"
+ "updated": "2026-11-23T14:10:12.569642+01:00"
 }

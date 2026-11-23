@@ -314,7 +314,22 @@
   "https://www.vanguardngr.com/2026/11/alcaraz-downs-zverev-to-win-atp-finals-for-first-time/": "2026-11-23",
   "https://punchng.com/tinubu-pledges-50000-new-hostel-beds-by-2027/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-23",
   "https://www.vanguardngr.com/2026/11/gombe-awards-seven-road-contracts-covering-97km/": "2026-11-23",
-  "https://dailypost.ng/2026/11/22/2027-power-does-not-guarantee-public-support-kwankwaso/": "2026-11-23"
+  "https://dailypost.ng/2026/11/22/2027-power-does-not-guarantee-public-support-kwankwaso/": "2026-11-23",
+  "https://punchng.com/ndc-denies-rift-with-obi-over-2027-campaign-funding/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-23",
+  "https://www.vanguardngr.com/2026/11/battle-of-20-year-olds-at-world-chess-championship/": "2026-11-23",
+  "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss": "2026-11-23",
+  "https://punchng.com/police-arrest-eight-suspects-recover-8739-illicit-drugs-in-jigawa/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-23",
+  "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo?at_medium=RSS&at_campaign=rss": "2026-11-23",
+  "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss": "2026-11-23",
+  "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss": "2026-11-23",
+  "https://punchng.com/over-450-german-schools-receive-bomb-threats/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-23",
+  "https://www.channelstv.com/2026/11/23/cas-sets-tuesday-for-verdict-on-senegal-afcon-title-appeal/": "2026-11-23",
+  "https://punchng.com/simeone-sets-la-liga-record-with-345-wins-for-atletico-madrid/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-23",
+  "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss": "2026-11-23",
+  "https://punchng.com/2027-nysc-inec-agree-extra-insurance-cover-for-corps-members/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-23",
+  "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss": "2026-11-23",
+  "https://punchng.com/fury-opens-up-on-mental-health-struggles-after-2015-klitschko-victory/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-23",
+  "https://www.vanguardngr.com/2026/11/kenneth-okonkwo-tackles-tinubu-over-aso-rock-water-outage/": "2026-11-23"
  },
  "published": [
   {
@@ -640,6 +655,15 @@
    "ts": "2026-11-23T02:54:48.996031+01:00",
    "ng": true,
    "src_title": "2027: Power does not guarantee public support- Kwankwaso"
+  },
+  {
+   "id": "ndc-clears-air-reported-rift-with",
+   "date": "2026-11-23",
+   "title": "NDC Clears Air On Reported Rift With Peter Obi Over 2027 Campaign Funds",
+   "category": "Politics",
+   "ts": "2026-11-23T14:09:59.722228+01:00",
+   "ng": true,
+   "src_title": "NDC denies rift with Obi over 2027 campaign funding"
   }
  ],
  "retries": {
@@ -925,12 +949,6 @@
  "thin_report": "2026-11-23",
  "pending_share": [
   {
-   "id": "aon-naccima-back-tax-ombud-fairer",
-   "title": "AON, NACCIMA Back Tax Ombud For Fairer Business System",
-   "category": "Business",
-   "ts": "2026-11-16T07:49:09.800615+01:00"
-  },
-  {
    "id": "segun-sowunmi-explains-delay-officially-registering",
    "title": "Segun Sowunmi Explains Delay in Officially Registering With APC",
    "category": "Politics",
@@ -1079,6 +1097,12 @@
    "title": "2027: Holding Power Does Not Guarantee Voter Support, Says Kwankwaso",
    "category": "Politics",
    "ts": "2026-11-23T02:54:48.996057+01:00"
+  },
+  {
+   "id": "ndc-clears-air-reported-rift-with",
+   "title": "NDC Clears Air On Reported Rift With Peter Obi Over 2027 Campaign Funds",
+   "category": "Politics",
+   "ts": "2026-11-23T14:09:59.722259+01:00"
   }
  ],
  "targets_available": [
