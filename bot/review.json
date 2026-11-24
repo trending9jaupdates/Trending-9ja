@@ -1,12 +1,6 @@
 {
  "pending": [
   {
-   "id": "segun-sowunmi-explains-delay-officially-registering",
-   "title": "Segun Sowunmi Explains Delay in Officially Registering With APC",
-   "category": "Politics",
-   "ts": "2026-11-16T20:47:35.169076+01:00"
-  },
-  {
    "id": "opposition-parties-set-abuja-summit-date",
    "title": "Opposition Parties Set Abuja Summit Date To Sign Unity Agreement",
    "category": "Politics",
@@ -155,6 +149,24 @@
    "title": "NDC Clears Air On Reported Rift With Peter Obi Over 2027 Campaign Funds",
    "category": "Politics",
    "ts": "2026-11-23T14:09:59.722259+01:00"
+  },
+  {
+   "id": "fg-oil-revenue-drops-n144tn-first",
+   "title": "FG Oil Revenue Drops by N1.44tn in First Half of 2026 Despite Price Surge",
+   "category": "Business",
+   "ts": "2026-11-24T03:19:36.379901+01:00"
+  },
+  {
+   "id": "59-graduate-with-first-class-aefunai",
+   "title": "59 Graduate With First Class as AE-FUNAI Prepares for Combined Convocation",
+   "category": "Politics",
+   "ts": "2026-11-24T03:20:47.425535+01:00"
+  },
+  {
+   "id": "danielle-adewusi-unveils-selfdesigned-benininspired-outfit",
+   "title": "Danielle Adewusi Unveils Self-Designed Benin-Inspired Outfit at Miss Universe",
+   "category": "Entertainment",
+   "ts": "2026-11-24T03:24:24.602604+01:00"
   }
  ],
  "approved": {},
@@ -236,5 +248,5 @@
    ]
   }
  ],
- "updated": "2026-11-23T13:10:15.901540+00:00"
+ "updated": "2026-11-24T03:24:24.602646+01:00"
 }
