@@ -305,7 +305,21 @@
   "https://punchng.com/enugu-gov-mourns-pete-edochie-says-nigeria-loses-a-titan/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
   "https://punchng.com/thanks-for-your-kind-encouragement-funke-akindele-mourns-pete-edochie/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
   "https://www.premiumtimesng.com/opinion/927835-cop31-failed-the-world-by-nnimmo-bassey.html": "2026-11-25",
-  "https://techcabal.com/2026/11/25/mtn-telkom-deal-sa-telecoms-market/": "2026-11-25"
+  "https://techcabal.com/2026/11/25/mtn-telkom-deal-sa-telecoms-market/": "2026-11-25",
+  "https://www.channelstv.com/2026/11/25/kwara-jailbreak-three-inmates-die-after-failed-escape-attempt/": "2026-11-25",
+  "https://punchng.com/three-inmates-die-two-escape-in-kwara-jailbreak-ncos/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://www.vanguardngr.com/2026/11/cbn-raises-bdcs-dollar-cash-limit-to-1m-weekly/": "2026-11-25",
+  "https://punchng.com/2027-makinde-proposes-government-of-national-unity/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss": "2026-11-25",
+  "https://punchng.com/pcrc-re-elects-national-chairman-endorses-state-police/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://www.channelstv.com/2026/11/25/senegal-deny-contact-with-cas-in-2025-afcon-row/": "2026-11-25",
+  "https://punchng.com/us-army-destroys-toxic-explosives-amid-contamination-fears/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://punchng.com/ballon-dor-ronaldo-never-voted-for-messi-report/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss": "2026-11-25",
+  "https://punchng.com/epl-forest-coach-faults-players-over-failure-to-learn-english/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://www.premiumtimesng.com/regional/nnorth-east/928047-tinubu-pledges-rescue-of-schoolchildren-at-maiduguri-rally.html": "2026-11-25",
+  "https://www.legit.ng/world/1743324-ireland-short-stay-visa-waiver-programme-5-countries-by-december-2026/": "2026-11-25",
+  "https://www.bellanaija.com/2026/11/entertainment-week-africa-2/": "2026-11-25"
  },
  "published": [
   {
@@ -622,6 +636,33 @@
    "ts": "2026-11-25T09:55:36.136291+01:00",
    "ng": true,
    "src_title": "MTN’s proposed Telkom takeover comes with a competition cost"
+  },
+  {
+   "id": "three-inmates-die-two-escape-kwara",
+   "date": "2026-11-25",
+   "title": "Three Inmates Die, Two Escape After Kwara Custodial Centre Jailbreak Attempt",
+   "category": "Politics",
+   "ts": "2026-11-25T20:25:06.793874+01:00",
+   "ng": true,
+   "src_title": "Three inmates die, two escape in Kwara jailbreak – NCoS"
+  },
+  {
+   "id": "ireland-end-shortstay-visa-waiver-scheme",
+   "date": "2026-11-25",
+   "title": "Ireland to End Short-Stay Visa Waiver Scheme for 5 Countries by December 2026",
+   "category": "Politics",
+   "ts": "2026-11-25T20:28:37.641452+01:00",
+   "ng": true,
+   "src_title": "Ireland names 5 countries whose short-stay visa waiver programme will end by December 2026"
+  },
+  {
+   "id": "entertainment-week-africa-marks-5th-anniversary",
+   "date": "2026-11-25",
+   "title": "Entertainment Week Africa Marks 5th Anniversary With Multi-Disciplinary Event in Lagos",
+   "category": "Entertainment",
+   "ts": "2026-11-25T20:29:46.306441+01:00",
+   "ng": true,
+   "src_title": "Entertainment Week Africa 2026 Celebrates Five Years With a Week of Film, Music, Fashion, Tech and Art in Lagos"
   }
  ],
  "retries": {
@@ -813,7 +854,9 @@
   "https://www.channelstv.com/2026/11/25/kwankwasiyya-supporters-carry-sticks-but-harm-nobody-obi-clarifies-rig-and-die-slogan/": 1,
   "https://www.legit.ng/politics/1743164-peter-obi-speaks-kwankwasiyya-members-carrying-sticks-political-rallies/": 1,
   "https://www.bellanaija.com/2026/11/senegal-reinstated-2025-afcon-champions-cas-appeal/": 1,
-  "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss": 1
+  "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss": 1,
+  "https://www.vanguardngr.com/2026/11/2027-election-why-attack-ndc-if-obi-has-no-path-to-victory-akpata-asks/": 1,
+  "https://dailypost.ng/2026/11/25/tinubu-nnpcl-must-explain-alleged-n1-44trn-missing-oil-revenue-atiku-2/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -925,6 +968,24 @@
    "title": "MTN and Telkom Reopen South Africa Acquisition Talks After Four Years",
    "category": "Tech/AI",
    "ts": "2026-11-25T09:55:36.136309+01:00"
+  },
+  {
+   "id": "three-inmates-die-two-escape-kwara",
+   "title": "Three Inmates Die, Two Escape After Kwara Custodial Centre Jailbreak Attempt",
+   "category": "Politics",
+   "ts": "2026-11-25T20:25:06.793899+01:00"
+  },
+  {
+   "id": "ireland-end-shortstay-visa-waiver-scheme",
+   "title": "Ireland to End Short-Stay Visa Waiver Scheme for 5 Countries by December 2026",
+   "category": "Politics",
+   "ts": "2026-11-25T20:28:37.641515+01:00"
+  },
+  {
+   "id": "entertainment-week-africa-marks-5th-anniversary",
+   "title": "Entertainment Week Africa Marks 5th Anniversary With Multi-Disciplinary Event in Lagos",
+   "category": "Entertainment",
+   "ts": "2026-11-25T20:29:46.306471+01:00"
   }
  ],
  "targets_available": [
