@@ -1,162 +1,83 @@
 {
  "pending": [],
- "approved": {
-  "caf-awards-2026-flamingos-coach-akeem": [
-   "telegram"
-  ],
-  "kenpoly-asup-praises-strike-adherence-students": [
-   "telegram"
-  ],
-  "fut-babura-names-prof-muhammad-auwal": [
-   "telegram"
-  ],
-  "obalende-yello-bus-park-open-six": [
-   "telegram"
-  ],
-  "jigawa-grand-kadi-warns-sharia-judges": [
-   "telegram"
-  ],
-  "wesley-varsity-graduates-742-students-79": [
-   "telegram"
-  ],
-  "niso-restores-power-lines-friday-national": [
-   "telegram"
-  ],
-  "kano-govt-warns-residents-against-water": [
-   "telegram"
-  ],
-  "lagos-state-government-renews-campaign-end": [
-   "telegram"
-  ],
-  "epl-awoniyi-scores-coventry-city-beat": [
-   "telegram"
-  ],
-  "no-nigerian-student-will-miss-university": [
-   "telegram"
-  ],
-  "nigeria-must-invest-media-culture-control": [
-   "telegram"
-  ],
-  "kano-enrolls-28000-vulnerable-residents-abbacare": [
-   "telegram"
-  ],
-  "apc-youth-group-demands-clarification-from": [
-   "telegram"
-  ],
-  "nigerian-army-pulls-out-10-retired": [
-   "telegram"
-  ],
-  "man-utd-set-poor-defensive-record": [
-   "telegram"
-  ],
-  "pochettino-suffers-40-loss-liverpool-first": [
-   "telegram"
-  ],
-  "lagos-tech-summit-address-business-cybersecurity": [
-   "telegram"
-  ],
-  "gombe-government-signs-contracts-97km-road": [
-   "telegram"
-  ],
-  "2027-holding-power-does-not-guarantee": [
-   "telegram"
-  ],
-  "ndc-clears-air-reported-rift-with": [
-   "telegram"
-  ],
-  "fg-oil-revenue-drops-n144tn-first": [
-   "telegram"
-  ],
-  "59-graduate-with-first-class-aefunai": [
-   "telegram"
-  ],
-  "danielle-adewusi-unveils-selfdesigned-benininspired-outfit": [
-   "telegram"
-  ],
-  "nigerian-enamelware-reduces-halfyear-loss-n4066m": [
-   "telegram"
-  ],
-  "otti-seeks-full-partnership-with-chinese": [
-   "telegram"
-  ]
- },
+ "approved": {},
  "targets": [
   "telegram",
   "newsletter"
  ],
  "shared": [
   {
-   "id": "minister-tasks-local-governments-justify-monthly",
+   "id": "nigerian-army-pulls-out-10-retired",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "2027-judge-my-administration-impact-projects",
+   "id": "man-utd-set-poor-defensive-record",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "unn-confirms-death-four-students-offcampus",
+   "id": "pochettino-suffers-40-loss-liverpool-first",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "kc-ohaebosim-becomes-first-nigerianamerican-elected",
+   "id": "lagos-tech-summit-address-business-cybersecurity",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "tinubu-flags-off-35bn-bakassi-deep",
+   "id": "gombe-government-signs-contracts-97km-road",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "u23-afconq-nigeria-defeated-20-dr",
+   "id": "2027-holding-power-does-not-guarantee",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "cooking-gas-price-surges-n1800-per",
+   "id": "ndc-clears-air-reported-rift-with",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "arokodare-scores-brace-super-eagles-beat",
+   "id": "fg-oil-revenue-drops-n144tn-first",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "afcon-2027-qualifier-ric-chelle-praises",
+   "id": "59-graduate-with-first-class-aefunai",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "tonto-dikeh-dedicates-new-church-building",
+   "id": "danielle-adewusi-unveils-selfdesigned-benininspired-outfit",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "denmark-defeat-portugal-41-first-match",
+   "id": "nigerian-enamelware-reduces-halfyear-loss-n4066m",
    "targets": [
     "telegram"
    ]
   },
   {
-   "id": "2027-atiku-tours-bauchi-communities-challenges",
+   "id": "otti-seeks-full-partnership-with-chinese",
    "targets": [
     "telegram"
    ]
   }
  ],
- "updated": "2026-11-25T08:35:38.667185+01:00"
+ "updated": "2026-11-25T07:37:37.434622+00:00"
 }

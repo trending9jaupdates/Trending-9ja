@@ -1,187 +1,5 @@
 [
  {
-  "id": "nma-rejects-bill-seeking-jail-doctors",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-06T05:06:01.102554+00:00"
- },
- {
-  "id": "democrats-sweep-2026-us-midterms-historic",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-06T11:32:56.664373+00:00"
- },
- {
-  "id": "2026-projected-be-secondhottest-year-record",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-06T11:33:17.091695+00:00"
- },
- {
-  "id": "democrats-sweep-2026-us-midterms-historic",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-06T11:33:20.752658+00:00"
- },
- {
-  "id": "2026-projected-be-secondhottest-year-record",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-06T11:33:20.752688+00:00"
- },
- {
-  "id": "group-rallies-southsouth-youths-women-tinubu",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-06T18:47:49.624675+00:00"
- },
- {
-  "id": "daily-living-costs-drove-us-midterm",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-06T18:47:54.553302+00:00"
- },
- {
-  "id": "australia-releases-official-fees-citizenship-applications",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-06T18:47:59.453868+00:00"
- },
- {
-  "id": "customs-releases-98-stranded-power-grid",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-06T18:48:04.683545+00:00"
- },
- {
-  "id": "fg-begins-50000-monthly-relief-payments",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-06T18:48:10.026521+00:00"
- },
- {
-  "id": "group-rallies-southsouth-youths-women-tinubu",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-06T18:48:13.669010+00:00"
- },
- {
-  "id": "daily-living-costs-drove-us-midterm",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-06T18:48:13.669039+00:00"
- },
- {
-  "id": "australia-releases-official-fees-citizenship-applications",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-06T18:48:13.669049+00:00"
- },
- {
-  "id": "customs-releases-98-stranded-power-grid",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-06T18:48:13.669057+00:00"
- },
- {
-  "id": "fg-begins-50000-monthly-relief-payments",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-06T18:48:13.669064+00:00"
- },
- {
-  "id": "epl-xabi-alonso-confirms-three-chelsea",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-07T00:20:52.195680+00:00"
- },
- {
-  "id": "2027-i-will-resign-if-nigeria",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-07T00:20:57.520196+00:00"
- },
- {
-  "id": "edo-state-varsity-top-medical-graduate",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-07T07:37:56.994836+00:00"
- },
- {
-  "id": "educated-elite-behind-nigerias-grand-corruption",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-07T07:38:01.807396+00:00"
- },
- {
-  "id": "mr-macaroni-speaks-missing-lucrative-jobs",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-07T07:38:05.904962+00:00"
- },
- {
-  "id": "edo-state-varsity-top-medical-graduate",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-07T07:38:09.639567+00:00"
- },
- {
-  "id": "educated-elite-behind-nigerias-grand-corruption",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-07T07:38:09.639600+00:00"
- },
- {
-  "id": "mr-macaroni-speaks-missing-lucrative-jobs",
-  "target": "newsletter",
-  "ok": true,
-  "message": "email scheduled",
-  "at": "2026-11-07T07:38:09.639611+00:00"
- },
- {
-  "id": "nnpc-snepco-open-applications-2026-national",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-09T00:37:45.049802+00:00"
- },
- {
-  "id": "tinubu-commends-fubara-wike-rivers-peace",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-09T00:37:49.512555+00:00"
- },
- {
-  "id": "oyo-state-plans-economic-shift-arts",
-  "target": "telegram",
-  "ok": true,
-  "message": "shared",
-  "at": "2026-11-09T00:37:53.655427+00:00"
- },
- {
   "id": "okafor-scores-winner-leeds-defeat-tottenham",
   "target": "telegram",
   "ok": true,
@@ -558,5 +376,187 @@
   "ok": true,
   "message": "shared",
   "at": "2026-11-15T22:46:52.166888+00:00"
+ },
+ {
+  "id": "caf-awards-2026-flamingos-coach-akeem",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:35:43.136571+00:00"
+ },
+ {
+  "id": "kenpoly-asup-praises-strike-adherence-students",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:35:47.763798+00:00"
+ },
+ {
+  "id": "fut-babura-names-prof-muhammad-auwal",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:35:53.282789+00:00"
+ },
+ {
+  "id": "obalende-yello-bus-park-open-six",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:35:57.296660+00:00"
+ },
+ {
+  "id": "jigawa-grand-kadi-warns-sharia-judges",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:01.940962+00:00"
+ },
+ {
+  "id": "wesley-varsity-graduates-742-students-79",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:07.567155+00:00"
+ },
+ {
+  "id": "niso-restores-power-lines-friday-national",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:12.433753+00:00"
+ },
+ {
+  "id": "kano-govt-warns-residents-against-water",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:16.591289+00:00"
+ },
+ {
+  "id": "lagos-state-government-renews-campaign-end",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:20.587851+00:00"
+ },
+ {
+  "id": "epl-awoniyi-scores-coventry-city-beat",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:25.052374+00:00"
+ },
+ {
+  "id": "no-nigerian-student-will-miss-university",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:29.844638+00:00"
+ },
+ {
+  "id": "nigeria-must-invest-media-culture-control",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:33.852903+00:00"
+ },
+ {
+  "id": "kano-enrolls-28000-vulnerable-residents-abbacare",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:38.059721+00:00"
+ },
+ {
+  "id": "apc-youth-group-demands-clarification-from",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:42.045752+00:00"
+ },
+ {
+  "id": "nigerian-army-pulls-out-10-retired",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:46.071793+00:00"
+ },
+ {
+  "id": "man-utd-set-poor-defensive-record",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:50.539990+00:00"
+ },
+ {
+  "id": "pochettino-suffers-40-loss-liverpool-first",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:54.522113+00:00"
+ },
+ {
+  "id": "lagos-tech-summit-address-business-cybersecurity",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:36:59.164862+00:00"
+ },
+ {
+  "id": "gombe-government-signs-contracts-97km-road",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:37:03.131893+00:00"
+ },
+ {
+  "id": "2027-holding-power-does-not-guarantee",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:37:07.202564+00:00"
+ },
+ {
+  "id": "ndc-clears-air-reported-rift-with",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:37:11.358594+00:00"
+ },
+ {
+  "id": "fg-oil-revenue-drops-n144tn-first",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:37:16.116152+00:00"
+ },
+ {
+  "id": "59-graduate-with-first-class-aefunai",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:37:20.260026+00:00"
+ },
+ {
+  "id": "danielle-adewusi-unveils-selfdesigned-benininspired-outfit",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:37:24.755707+00:00"
+ },
+ {
+  "id": "nigerian-enamelware-reduces-halfyear-loss-n4066m",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:37:29.082252+00:00"
+ },
+ {
+  "id": "otti-seeks-full-partnership-with-chinese",
+  "target": "telegram",
+  "ok": true,
+  "message": "shared",
+  "at": "2026-11-25T07:37:34.431940+00:00"
  }
 ]
