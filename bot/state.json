@@ -296,7 +296,16 @@
   "https://www.premiumtimesng.com/news/more-news/927806-disability-groups-others-demand-representation-funding-ahead-of-2027-polls.html": "2026-11-25",
   "https://www.legit.ng/people/confessions/1743157-i-married-woman-money-death-i-discovered-id-played/": "2026-11-25",
   "https://www.bellanaija.com/2026/11/best-new-nigerian-songs-this-week-rema-wizkid-falz-simi/": "2026-11-25",
-  "https://techcabal.com/2026/11/24/mtn-benin-customers-data/": "2026-11-25"
+  "https://techcabal.com/2026/11/24/mtn-benin-customers-data/": "2026-11-25",
+  "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss": "2026-11-25",
+  "https://punchng.com/nscdc-arrests-three-over-billboard-vandalism-in-anambra/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://punchng.com/police-arrest-suspected-cultist-recover-gun-in-ogun/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://punchng.com/buni-presents-n532bn-2027-budget-to-yobe-assembly/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://www.vanguardngr.com/2026/11/ronaldo-deserves-fitting-farewell-from-portugal-says-guardiola/": "2026-11-25",
+  "https://punchng.com/enugu-gov-mourns-pete-edochie-says-nigeria-loses-a-titan/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://punchng.com/thanks-for-your-kind-encouragement-funke-akindele-mourns-pete-edochie/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-25",
+  "https://www.premiumtimesng.com/opinion/927835-cop31-failed-the-world-by-nnimmo-bassey.html": "2026-11-25",
+  "https://techcabal.com/2026/11/25/mtn-telkom-deal-sa-telecoms-market/": "2026-11-25"
  },
  "published": [
   {
@@ -604,6 +613,15 @@
    "ts": "2026-11-25T00:58:21.828130+01:00",
    "ng": true,
    "src_title": "Otti seeks China Harbour’s full partnership on Abia Sea Port project"
+  },
+  {
+   "id": "mtn-telkom-reopen-south-africa-acquisition",
+   "date": "2026-11-25",
+   "title": "MTN and Telkom Reopen South Africa Acquisition Talks After Four Years",
+   "category": "Tech/AI",
+   "ts": "2026-11-25T09:55:36.136291+01:00",
+   "ng": true,
+   "src_title": "MTN’s proposed Telkom takeover comes with a competition cost"
   }
  ],
  "retries": {
@@ -788,7 +806,14 @@
   "https://punchng.com/afcon-dispute-senegals-walk-off-was-wrong-hakimi-insists/?utm_source=rss.punchng.com&utm_medium=web": 1,
   "https://www.vanguardngr.com/2026/11/how-i-saw-devil-thrice-gates-of-hell-pope-francis/": 1,
   "https://dailypost.ng/2026/11/24/un-2026-global-femicide-report-reveals-disturbing-data/": 1,
-  "https://www.channelstv.com/2026/11/24/political-signals-the-price-of-participation/": 1
+  "https://www.channelstv.com/2026/11/24/political-signals-the-price-of-participation/": 1,
+  "https://punchng.com/pete-edochies-death-a-loss-to-nigeria-africa-obi/?utm_source=rss.punchng.com&utm_medium=web": 1,
+  "https://www.vanguardngr.com/2026/11/im-saddened-you-wont-witness-new-nigeria-obi-mours-peter-edochie/": 1,
+  "https://dailypost.ng/2026/11/25/kwankwaso-is-retired-politician-peter-obi-going-nowhere-dino-melaye/": 1,
+  "https://www.channelstv.com/2026/11/25/kwankwasiyya-supporters-carry-sticks-but-harm-nobody-obi-clarifies-rig-and-die-slogan/": 1,
+  "https://www.legit.ng/politics/1743164-peter-obi-speaks-kwankwasiyya-members-carrying-sticks-political-rallies/": 1,
+  "https://www.bellanaija.com/2026/11/senegal-reinstated-2025-afcon-champions-cas-appeal/": 1,
+  "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -894,7 +919,14 @@
   "british-adventurer-karl-bushby-completes-28year"
  ],
  "thin_report": "2026-11-25",
- "pending_share": [],
+ "pending_share": [
+  {
+   "id": "mtn-telkom-reopen-south-africa-acquisition",
+   "title": "MTN and Telkom Reopen South Africa Acquisition Talks After Four Years",
+   "category": "Tech/AI",
+   "ts": "2026-11-25T09:55:36.136309+01:00"
+  }
+ ],
  "targets_available": [
   "telegram",
   "newsletter"
