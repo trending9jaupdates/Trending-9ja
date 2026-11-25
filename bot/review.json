@@ -1,24 +1,6 @@
 {
  "pending": [
   {
-   "id": "world-bank-highlights-4tn-funding-gap",
-   "title": "World Bank Highlights $4tn Funding Gap Facing Small Businesses",
-   "category": "Business",
-   "ts": "2026-11-17T17:13:19.228378+01:00"
-  },
-  {
-   "id": "fg-launch-single-window-exports-nonoil",
-   "title": "FG to Launch Single Window for Exports as Non-Oil Trade Hits $6.1bn",
-   "category": "Business",
-   "ts": "2026-11-17T17:13:39.219304+01:00"
-  },
-  {
-   "id": "fans-criticise-chelle-super-eagles-draw",
-   "title": "Fans Criticise Chelle as Super Eagles Draw 0-0 with Tanzania",
-   "category": "Sports",
-   "ts": "2026-11-17T17:14:00.190065+01:00"
-  },
-  {
    "id": "caf-awards-2026-flamingos-coach-akeem",
    "title": "CAF Awards 2026: Flamingos Coach Akeem Busari Nominated for Top Honour",
    "category": "Sports",
@@ -161,6 +143,18 @@
    "title": "Danielle Adewusi Unveils Self-Designed Benin-Inspired Outfit at Miss Universe",
    "category": "Entertainment",
    "ts": "2026-11-24T03:24:24.602604+01:00"
+  },
+  {
+   "id": "nigerian-enamelware-reduces-halfyear-loss-n4066m",
+   "title": "Nigerian Enamelware Reduces Half-Year Loss to N40.66m",
+   "category": "Business",
+   "ts": "2026-11-25T00:57:14.317813+01:00"
+  },
+  {
+   "id": "otti-seeks-full-partnership-with-chinese",
+   "title": "Otti Seeks Full Partnership With Chinese Firm for Abia Sea Port",
+   "category": "Politics",
+   "ts": "2026-11-25T00:58:21.828158+01:00"
   }
  ],
  "approved": {},
@@ -242,5 +236,5 @@
    ]
   }
  ],
- "updated": "2026-11-24T13:58:20.040296+00:00"
+ "updated": "2026-11-25T01:04:38.653210+01:00"
 }
