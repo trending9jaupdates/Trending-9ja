@@ -1,11 +1,5 @@
 [
  {
-  "job": "mw1o72ik-image.json",
-  "ok": true,
-  "message": "Picture changed (new picture): `experts-urge-nigerian-farmers-adopt-soilbased`",
-  "at": "2026-11-04T06:22:46.261514+01:00"
- },
- {
   "job": "mw1q9uq2-share.json",
   "ok": true,
   "message": "Approved 1 story for sharing to telegram",
@@ -358,5 +352,11 @@
   "ok": true,
   "message": "Approved 9 stories for sharing to telegram",
   "at": "2026-11-15T23:46:15.417319+01:00"
+ },
+ {
+  "job": "mwvt6toj-share.json",
+  "ok": true,
+  "message": "Approved 26 stories for sharing to telegram",
+  "at": "2026-11-25T08:35:38.666672+01:00"
  }
 ]
