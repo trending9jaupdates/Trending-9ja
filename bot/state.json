@@ -301,7 +301,19 @@
   "https://punchng.com/naf-crash-tinubu-approves-n100m-abuja-flat-for-bereaved-families/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-27",
   "https://punchng.com/nigerias-trade-hits-n41-4tn-as-port-cargo-surges/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-27",
   "https://www.vanguardngr.com/2026/11/2027-election-ibb-abdulsalami-endorse-tinubu-gbajabiamila/": "2026-11-27",
-  "https://dailypost.ng/2026/11/26/epl-lee-dixon-makes-man-city-title-claim-ahead-of-arsenal-clash-2/": "2026-11-27"
+  "https://dailypost.ng/2026/11/26/epl-lee-dixon-makes-man-city-title-claim-ahead-of-arsenal-clash-2/": "2026-11-27",
+  "https://punchng.com/uk-shuts-down-pension-benefit-websites-after-cyber-incident/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-27",
+  "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss": "2026-11-27",
+  "https://punchng.com/media-entrepreneurs-need-more-than-editorial-skills-to-survive-expert/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-27",
+  "https://punchng.com/tinubus-certificate-controversy-a-needless-distraction-fashola/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-27",
+  "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss": "2026-11-27",
+  "https://punchng.com/nearly-300000-canadians-sign-petition-to-oust-trumps-envoy/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-27",
+  "https://punchng.com/asuu-urges-tinubu-to-pay-outstanding-salaries-from-2022-strike/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-27",
+  "https://www.vanguardngr.com/2026/11/tyson-furys-wife-withdraws-claim-that-boxer-has-schizophrenia/": "2026-11-27",
+  "https://nairametrics.com/2026/11/27/sanwo-olu-cancels-november-environmental-sanitation-exercise-over-inec-mock-polls/": "2026-11-27",
+  "https://punchng.com/thanksgiving-storm-triggers-massive-power-outages-flight-disruptions-in-us/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-27",
+  "https://www.vanguardngr.com/2026/11/full-list-african-countries-where-travelers-can-access-without-visa/": "2026-11-27",
+  "https://www.premiumtimesng.com/regional/north-central/928398-six-plateau-residents-sue-nigerian-army-over-alleged-detention-without-trial.html": "2026-11-27"
  },
  "published": [
   {
@@ -636,6 +648,15 @@
    "ts": "2026-11-27T02:54:07.316216+01:00",
    "ng": true,
    "src_title": "2027 Election: IBB, Abdulsalami endorse Tinubu — Gbajabiamila"
+  },
+  {
+   "id": "uk-welfare-department-shuts-down-online",
+   "date": "2026-11-27",
+   "title": "UK Welfare Department Shuts Down Online Portals Following Cyber Incident",
+   "category": "Tech/AI",
+   "ts": "2026-11-27T13:44:41.819335+01:00",
+   "ng": true,
+   "src_title": "UK shuts down pension, benefit websites after cyber incident"
   }
  ],
  "retries": {
@@ -829,7 +850,8 @@
   "https://www.bellanaija.com/2026/11/senegal-reinstated-2025-afcon-champions-cas-appeal/": 1,
   "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss": 1,
   "https://www.vanguardngr.com/2026/11/2027-election-why-attack-ndc-if-obi-has-no-path-to-victory-akpata-asks/": 1,
-  "https://dailypost.ng/2026/11/25/tinubu-nnpcl-must-explain-alleged-n1-44trn-missing-oil-revenue-atiku-2/": 1
+  "https://dailypost.ng/2026/11/25/tinubu-nnpcl-must-explain-alleged-n1-44trn-missing-oil-revenue-atiku-2/": 1,
+  "https://dailypost.ng/2026/11/27/kebbi-govt-raises-alarm-over-alleged-importation-of-armed-thugs-by-adc/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -977,6 +999,12 @@
    "title": "IBB and Abdulsalami Endorse Tinubu Ahead of 2027 Polls, Says Gbajabiamila",
    "category": "Politics",
    "ts": "2026-11-27T02:54:07.316238+01:00"
+  },
+  {
+   "id": "uk-welfare-department-shuts-down-online",
+   "title": "UK Welfare Department Shuts Down Online Portals Following Cyber Incident",
+   "category": "Tech/AI",
+   "ts": "2026-11-27T13:44:41.819358+01:00"
   }
  ],
  "targets_available": [
