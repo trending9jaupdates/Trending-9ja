@@ -306,7 +306,19 @@
   "https://www.premiumtimesng.com/news/top-news/928508-four-premium-times-journalists-emerge-finalists-for-2026-wole-soyinka-investigative-reporting-award.html": "2026-11-28",
   "https://www.channelstv.com/2026/11/27/1bn-monthly-remittance-has-been-achieved-cbn-governor-cardoso/": "2026-11-28",
   "https://www.bellanaija.com/2026/11/5-new-music-videos-this-weekend/": "2026-11-28",
-  "https://techcabal.com/2026/11/27/supercoin-gideon-greaves-payment-strategy/": "2026-11-28"
+  "https://techcabal.com/2026/11/27/supercoin-gideon-greaves-payment-strategy/": "2026-11-28",
+  "https://punchng.com/epl-alonso-urges-chelsea-to-stick-together-after-3-2-forest-loss/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-28",
+  "https://punchng.com/sdp-presidential-candidate-promises-n200-litre-petrol-without-subsidy/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-28",
+  "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss": "2026-11-28",
+  "https://businessday.ng/sports/article/alonso-admits-chelsea-in-difficult-moment-after-nottingham-forest-defeat/": "2026-11-28",
+  "https://punchng.com/lagos-sinking-by-5mm-annually-faces-rising-flood-risk-study/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-28",
+  "https://www.channelstv.com/2026/11/28/messis-defending-champions-miami-knocked-out-of-mls-cup-playoffs/": "2026-11-28",
+  "https://punchng.com/tinubu-should-remain-in-office-for-another-10-years-if-possible-akande/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-28",
+  "https://punchng.com/morning-recap-killer-heat-disrupts-learning-rig-and-die-slogan-sparks-controversy-other-stories/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-28",
+  "https://punchng.com/eight-killed-in-peru-military-helicopter-crash/?utm_source=rss.punchng.com&utm_medium=web": "2026-11-28",
+  "https://www.vanguardngr.com/2026/11/2027-sanwo-olu-urges-peaceful-transition-tasks-57-council-bosses-on-transparency/": "2026-11-28",
+  "https://www.premiumtimesng.com/sports/football/928543-epl-awoniyi-ruled-out-of-leeds-clash-as-lampard-reveals-injury-worries.html": "2026-11-28",
+  "https://www.legit.ng/sports/football/1743725-blow-manchester-united-attempt-sign-super-eagles-defender-january-blocked/": "2026-11-28"
  },
  "published": [
   {
@@ -641,6 +653,33 @@
    "ts": "2026-11-28T00:39:37.722174+01:00",
    "ng": true,
    "src_title": "Supercoin’s Gideon Greaves sees a business in moving money without dollars"
+  },
+  {
+   "id": "alonso-calls-unity-chelsea-following-32",
+   "date": "2026-11-28",
+   "title": "Alonso Calls for Unity at Chelsea Following 3-2 Loss to Forest",
+   "category": "Sports",
+   "ts": "2026-11-28T09:00:52.409745+01:00",
+   "ng": false,
+   "src_title": "EPL: Alonso urges Chelsea to stick together after 3-2 Forest loss"
+  },
+  {
+   "id": "sanwoolu-tasks-lagos-council-leaders-accountability",
+   "date": "2026-11-28",
+   "title": "Sanwo-Olu Tasks Lagos Council Leaders on Accountability and Peaceful 2027 Polls",
+   "category": "Politics",
+   "ts": "2026-11-28T09:01:08.519219+01:00",
+   "ng": true,
+   "src_title": "2027: Sanwo-Olu urges peaceful transition, tasks 57 council bosses on transparency"
+  },
+  {
+   "id": "fulham-block-calvin-basseys-january-transfer",
+   "date": "2026-11-28",
+   "title": "Fulham Block Calvin Bassey's January Transfer to Manchester United",
+   "category": "Sports",
+   "ts": "2026-11-28T09:05:39.592080+01:00",
+   "ng": true,
+   "src_title": "Blow for Manchester United as attempt to sign Super Eagles defender in January blocked"
   }
  ],
  "retries": {
@@ -837,7 +876,9 @@
   "https://dailypost.ng/2026/11/25/tinubu-nnpcl-must-explain-alleged-n1-44trn-missing-oil-revenue-atiku-2/": 1,
   "https://dailypost.ng/2026/11/27/kebbi-govt-raises-alarm-over-alleged-importation-of-armed-thugs-by-adc/": 1,
   "https://punchng.com/i-spent-nine-years-in-safrica-after-fleeing-boko-haram-came-back-empty-handed-returnee/?utm_source=rss.punchng.com&utm_medium=web": 1,
-  "https://www.legit.ng/politics/1743702-2027-elections-what-kano-government-peter-obis-popularity/": 1
+  "https://www.legit.ng/politics/1743702-2027-elections-what-kano-government-peter-obis-popularity/": 1,
+  "https://dailypost.ng/2026/11/28/you-destroyed-igbo-businesses-in-lagos-now-you-call-them-brothers-hilda-dokubo-knocks-tinubu-video/": 1,
+  "https://www.channelstv.com/2026/11/28/troops-kill-two-terrorists-intercept-logistics-supplies-in-zamfara-kaduna/": 1
  },
  "image_hashes": [
   "0636e779a73f99e3535257ef08df439c",
@@ -1009,6 +1050,24 @@
    "title": "Supercoin Seeks Kenyan Licence to Facilitate Direct Africa Cross-Border Payments",
    "category": "Tech/AI",
    "ts": "2026-11-28T00:39:37.722198+01:00"
+  },
+  {
+   "id": "alonso-calls-unity-chelsea-following-32",
+   "title": "Alonso Calls for Unity at Chelsea Following 3-2 Loss to Forest",
+   "category": "Sports",
+   "ts": "2026-11-28T09:00:52.409772+01:00"
+  },
+  {
+   "id": "sanwoolu-tasks-lagos-council-leaders-accountability",
+   "title": "Sanwo-Olu Tasks Lagos Council Leaders on Accountability and Peaceful 2027 Polls",
+   "category": "Politics",
+   "ts": "2026-11-28T09:01:08.519247+01:00"
+  },
+  {
+   "id": "fulham-block-calvin-basseys-january-transfer",
+   "title": "Fulham Block Calvin Bassey's January Transfer to Manchester United",
+   "category": "Sports",
+   "ts": "2026-11-28T09:05:39.592108+01:00"
   }
  ],
  "targets_available": [
